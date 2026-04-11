@@ -1,0 +1,10669 @@
+{
+  "GL": [
+    {
+      "lon": -51.48524,
+      "lat": 64.00795,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -51.48524,
+      "lat": 65.56119,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -47.83823,
+      "lat": 64.00795,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -47.83823,
+      "lat": 65.56119,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -47.83823,
+      "lat": 62.36328,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -51.48524,
+      "lat": 67.02698,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -47.83823,
+      "lat": 67.02698,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -44.19122,
+      "lat": 64.00795,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -44.19122,
+      "lat": 65.56119,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -44.19122,
+      "lat": 62.36328,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -44.19122,
+      "lat": 67.02698,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -51.48524,
+      "lat": 68.40936,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -47.83823,
+      "lat": 68.40936,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -40.54421,
+      "lat": 65.56119,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -44.19122,
+      "lat": 60.62322,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -44.19122,
+      "lat": 68.40936,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -40.54421,
+      "lat": 67.02698,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": -55.13225,
+      "lat": 69.7123,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": -47.83823,
+      "lat": 69.7123,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": -40.54421,
+      "lat": 68.40936,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": -44.19122,
+      "lat": 69.7123,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": -36.8972,
+      "lat": 67.02698,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": -51.48524,
+      "lat": 70.93974,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": -47.83823,
+      "lat": 70.93974,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": -40.54421,
+      "lat": 69.7123,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": -36.8972,
+      "lat": 68.40936,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": -44.19122,
+      "lat": 70.93974,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": -51.48524,
+      "lat": 72.09552,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": -40.54421,
+      "lat": 70.93974,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": -36.8972,
+      "lat": 69.7123,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": -55.13225,
+      "lat": 72.09552,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": -47.83823,
+      "lat": 72.09552,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": -44.19122,
+      "lat": 72.09552,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": -33.2502,
+      "lat": 68.40936,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": -36.8972,
+      "lat": 70.93974,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": -40.54421,
+      "lat": 72.09552,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": -51.48524,
+      "lat": 73.18338,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": -33.2502,
+      "lat": 69.7123,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": -55.13225,
+      "lat": 73.18338,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": -47.83823,
+      "lat": 73.18338,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": -44.19122,
+      "lat": 73.18338,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": -36.8972,
+      "lat": 72.09552,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": -33.2502,
+      "lat": 70.93974,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": -29.60319,
+      "lat": 68.40936,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": -40.54421,
+      "lat": 73.18338,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": -51.48524,
+      "lat": 74.20693,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": -55.13225,
+      "lat": 74.20693,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": -47.83823,
+      "lat": 74.20693,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": -29.60319,
+      "lat": 69.7123,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": -44.19122,
+      "lat": 74.20693,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": -33.2502,
+      "lat": 72.09552,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": -36.8972,
+      "lat": 73.18338,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": -29.60319,
+      "lat": 70.93974,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": -40.54421,
+      "lat": 74.20693,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": -51.48524,
+      "lat": 75.16969,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": -55.13225,
+      "lat": 75.16969,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": -47.83823,
+      "lat": 75.16969,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": -33.2502,
+      "lat": 73.18338,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": -36.8972,
+      "lat": 74.20693,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": -44.19122,
+      "lat": 75.16969,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": -29.60319,
+      "lat": 72.09552,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": -25.95618,
+      "lat": 69.7123,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": -40.54421,
+      "lat": 75.16969,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": -25.95618,
+      "lat": 70.93974,
+      "cityDistanceRank": 63
+    },
+    {
+      "lon": -33.2502,
+      "lat": 74.20693,
+      "cityDistanceRank": 64
+    },
+    {
+      "lon": -51.48524,
+      "lat": 76.07499,
+      "cityDistanceRank": 65
+    },
+    {
+      "lon": -29.60319,
+      "lat": 73.18338,
+      "cityDistanceRank": 66
+    },
+    {
+      "lon": -55.13225,
+      "lat": 76.07499,
+      "cityDistanceRank": 67
+    },
+    {
+      "lon": -47.83823,
+      "lat": 76.07499,
+      "cityDistanceRank": 68
+    },
+    {
+      "lon": -36.8972,
+      "lat": 75.16969,
+      "cityDistanceRank": 69
+    },
+    {
+      "lon": -58.77925,
+      "lat": 76.07499,
+      "cityDistanceRank": 70
+    },
+    {
+      "lon": -44.19122,
+      "lat": 76.07499,
+      "cityDistanceRank": 71
+    },
+    {
+      "lon": -25.95618,
+      "lat": 72.09552,
+      "cityDistanceRank": 72
+    },
+    {
+      "lon": -40.54421,
+      "lat": 76.07499,
+      "cityDistanceRank": 73
+    },
+    {
+      "lon": -29.60319,
+      "lat": 74.20693,
+      "cityDistanceRank": 74
+    },
+    {
+      "lon": -33.2502,
+      "lat": 75.16969,
+      "cityDistanceRank": 75
+    },
+    {
+      "lon": -51.48524,
+      "lat": 76.92605,
+      "cityDistanceRank": 76
+    },
+    {
+      "lon": -55.13225,
+      "lat": 76.92605,
+      "cityDistanceRank": 77
+    },
+    {
+      "lon": -25.95618,
+      "lat": 73.18338,
+      "cityDistanceRank": 78
+    },
+    {
+      "lon": -47.83823,
+      "lat": 76.92605,
+      "cityDistanceRank": 79
+    },
+    {
+      "lon": -36.8972,
+      "lat": 76.07499,
+      "cityDistanceRank": 80
+    },
+    {
+      "lon": -22.30917,
+      "lat": 70.93974,
+      "cityDistanceRank": 81
+    },
+    {
+      "lon": -58.77925,
+      "lat": 76.92605,
+      "cityDistanceRank": 82
+    },
+    {
+      "lon": -44.19122,
+      "lat": 76.92605,
+      "cityDistanceRank": 83
+    },
+    {
+      "lon": -62.42626,
+      "lat": 76.92605,
+      "cityDistanceRank": 84
+    },
+    {
+      "lon": -40.54421,
+      "lat": 76.92605,
+      "cityDistanceRank": 85
+    },
+    {
+      "lon": -29.60319,
+      "lat": 75.16969,
+      "cityDistanceRank": 86
+    },
+    {
+      "lon": -33.2502,
+      "lat": 76.07499,
+      "cityDistanceRank": 87
+    },
+    {
+      "lon": -25.95618,
+      "lat": 74.20693,
+      "cityDistanceRank": 88
+    },
+    {
+      "lon": -66.07327,
+      "lat": 76.92605,
+      "cityDistanceRank": 89
+    },
+    {
+      "lon": -51.48524,
+      "lat": 77.72595,
+      "cityDistanceRank": 90
+    },
+    {
+      "lon": -36.8972,
+      "lat": 76.92605,
+      "cityDistanceRank": 91
+    },
+    {
+      "lon": -55.13225,
+      "lat": 77.72595,
+      "cityDistanceRank": 92
+    },
+    {
+      "lon": -47.83823,
+      "lat": 77.72595,
+      "cityDistanceRank": 93
+    },
+    {
+      "lon": -58.77925,
+      "lat": 77.72595,
+      "cityDistanceRank": 94
+    },
+    {
+      "lon": -22.30917,
+      "lat": 73.18338,
+      "cityDistanceRank": 95
+    },
+    {
+      "lon": -44.19122,
+      "lat": 77.72595,
+      "cityDistanceRank": 96
+    },
+    {
+      "lon": -29.60319,
+      "lat": 76.07499,
+      "cityDistanceRank": 97
+    },
+    {
+      "lon": -25.95618,
+      "lat": 75.16969,
+      "cityDistanceRank": 98
+    },
+    {
+      "lon": -62.42626,
+      "lat": 77.72595,
+      "cityDistanceRank": 99
+    },
+    {
+      "lon": -69.72028,
+      "lat": 76.92605,
+      "cityDistanceRank": 100
+    },
+    {
+      "lon": -40.54421,
+      "lat": 77.72595,
+      "cityDistanceRank": 101
+    },
+    {
+      "lon": -33.2502,
+      "lat": 76.92605,
+      "cityDistanceRank": 102
+    },
+    {
+      "lon": -22.30917,
+      "lat": 74.20693,
+      "cityDistanceRank": 103
+    },
+    {
+      "lon": -66.07327,
+      "lat": 77.72595,
+      "cityDistanceRank": 104
+    },
+    {
+      "lon": -36.8972,
+      "lat": 77.72595,
+      "cityDistanceRank": 105
+    },
+    {
+      "lon": -51.48524,
+      "lat": 78.47762,
+      "cityDistanceRank": 106
+    },
+    {
+      "lon": -55.13225,
+      "lat": 78.47762,
+      "cityDistanceRank": 107
+    },
+    {
+      "lon": -47.83823,
+      "lat": 78.47762,
+      "cityDistanceRank": 108
+    },
+    {
+      "lon": -58.77925,
+      "lat": 78.47762,
+      "cityDistanceRank": 109
+    },
+    {
+      "lon": -44.19122,
+      "lat": 78.47762,
+      "cityDistanceRank": 110
+    },
+    {
+      "lon": -25.95618,
+      "lat": 76.07499,
+      "cityDistanceRank": 111
+    },
+    {
+      "lon": -29.60319,
+      "lat": 76.92605,
+      "cityDistanceRank": 112
+    },
+    {
+      "lon": -69.72028,
+      "lat": 77.72595,
+      "cityDistanceRank": 113
+    },
+    {
+      "lon": -62.42626,
+      "lat": 78.47762,
+      "cityDistanceRank": 114
+    },
+    {
+      "lon": -33.2502,
+      "lat": 77.72595,
+      "cityDistanceRank": 115
+    },
+    {
+      "lon": -40.54421,
+      "lat": 78.47762,
+      "cityDistanceRank": 116
+    },
+    {
+      "lon": -22.30917,
+      "lat": 75.16969,
+      "cityDistanceRank": 117
+    },
+    {
+      "lon": -66.07327,
+      "lat": 78.47762,
+      "cityDistanceRank": 118
+    },
+    {
+      "lon": -36.8972,
+      "lat": 78.47762,
+      "cityDistanceRank": 119
+    },
+    {
+      "lon": -51.48524,
+      "lat": 79.18384,
+      "cityDistanceRank": 120
+    },
+    {
+      "lon": -55.13225,
+      "lat": 79.18384,
+      "cityDistanceRank": 121
+    },
+    {
+      "lon": -47.83823,
+      "lat": 79.18384,
+      "cityDistanceRank": 122
+    },
+    {
+      "lon": -25.95618,
+      "lat": 76.92605,
+      "cityDistanceRank": 123
+    },
+    {
+      "lon": -29.60319,
+      "lat": 77.72595,
+      "cityDistanceRank": 124
+    },
+    {
+      "lon": -58.77925,
+      "lat": 79.18384,
+      "cityDistanceRank": 125
+    },
+    {
+      "lon": -44.19122,
+      "lat": 79.18384,
+      "cityDistanceRank": 126
+    },
+    {
+      "lon": -22.30917,
+      "lat": 76.07499,
+      "cityDistanceRank": 127
+    },
+    {
+      "lon": -69.72028,
+      "lat": 78.47762,
+      "cityDistanceRank": 128
+    },
+    {
+      "lon": -33.2502,
+      "lat": 78.47762,
+      "cityDistanceRank": 129
+    },
+    {
+      "lon": -62.42626,
+      "lat": 79.18384,
+      "cityDistanceRank": 130
+    },
+    {
+      "lon": -40.54421,
+      "lat": 79.18384,
+      "cityDistanceRank": 131
+    },
+    {
+      "lon": -66.07327,
+      "lat": 79.18384,
+      "cityDistanceRank": 132
+    },
+    {
+      "lon": -36.8972,
+      "lat": 79.18384,
+      "cityDistanceRank": 133
+    },
+    {
+      "lon": -25.95618,
+      "lat": 77.72595,
+      "cityDistanceRank": 134
+    },
+    {
+      "lon": -51.48524,
+      "lat": 79.84726,
+      "cityDistanceRank": 135
+    },
+    {
+      "lon": -55.13225,
+      "lat": 79.84726,
+      "cityDistanceRank": 136
+    },
+    {
+      "lon": -22.30917,
+      "lat": 76.92605,
+      "cityDistanceRank": 137
+    },
+    {
+      "lon": -47.83823,
+      "lat": 79.84726,
+      "cityDistanceRank": 138
+    },
+    {
+      "lon": -29.60319,
+      "lat": 78.47762,
+      "cityDistanceRank": 139
+    },
+    {
+      "lon": -58.77925,
+      "lat": 79.84726,
+      "cityDistanceRank": 140
+    },
+    {
+      "lon": -44.19122,
+      "lat": 79.84726,
+      "cityDistanceRank": 141
+    },
+    {
+      "lon": -33.2502,
+      "lat": 79.18384,
+      "cityDistanceRank": 142
+    },
+    {
+      "lon": -62.42626,
+      "lat": 79.84726,
+      "cityDistanceRank": 143
+    },
+    {
+      "lon": -40.54421,
+      "lat": 79.84726,
+      "cityDistanceRank": 144
+    },
+    {
+      "lon": -25.95618,
+      "lat": 78.47762,
+      "cityDistanceRank": 145
+    },
+    {
+      "lon": -36.8972,
+      "lat": 79.84726,
+      "cityDistanceRank": 146
+    },
+    {
+      "lon": -22.30917,
+      "lat": 77.72595,
+      "cityDistanceRank": 147
+    },
+    {
+      "lon": -29.60319,
+      "lat": 79.18384,
+      "cityDistanceRank": 148
+    },
+    {
+      "lon": -51.48524,
+      "lat": 80.47039,
+      "cityDistanceRank": 149
+    },
+    {
+      "lon": -55.13225,
+      "lat": 80.47039,
+      "cityDistanceRank": 150
+    },
+    {
+      "lon": -47.83823,
+      "lat": 80.47039,
+      "cityDistanceRank": 151
+    },
+    {
+      "lon": -18.66216,
+      "lat": 76.92605,
+      "cityDistanceRank": 152
+    },
+    {
+      "lon": -58.77925,
+      "lat": 80.47039,
+      "cityDistanceRank": 153
+    },
+    {
+      "lon": -44.19122,
+      "lat": 80.47039,
+      "cityDistanceRank": 154
+    },
+    {
+      "lon": -33.2502,
+      "lat": 79.84726,
+      "cityDistanceRank": 155
+    },
+    {
+      "lon": -62.42626,
+      "lat": 80.47039,
+      "cityDistanceRank": 156
+    },
+    {
+      "lon": -40.54421,
+      "lat": 80.47039,
+      "cityDistanceRank": 157
+    },
+    {
+      "lon": -22.30917,
+      "lat": 78.47762,
+      "cityDistanceRank": 158
+    },
+    {
+      "lon": -25.95618,
+      "lat": 79.18384,
+      "cityDistanceRank": 159
+    },
+    {
+      "lon": -66.07327,
+      "lat": 80.47039,
+      "cityDistanceRank": 160
+    },
+    {
+      "lon": -36.8972,
+      "lat": 80.47039,
+      "cityDistanceRank": 161
+    },
+    {
+      "lon": -29.60319,
+      "lat": 79.84726,
+      "cityDistanceRank": 162
+    },
+    {
+      "lon": -51.48524,
+      "lat": 81.05561,
+      "cityDistanceRank": 163
+    },
+    {
+      "lon": -55.13225,
+      "lat": 81.05561,
+      "cityDistanceRank": 164
+    },
+    {
+      "lon": -47.83823,
+      "lat": 81.05561,
+      "cityDistanceRank": 165
+    },
+    {
+      "lon": -58.77925,
+      "lat": 81.05561,
+      "cityDistanceRank": 166
+    },
+    {
+      "lon": -44.19122,
+      "lat": 81.05561,
+      "cityDistanceRank": 167
+    },
+    {
+      "lon": -33.2502,
+      "lat": 80.47039,
+      "cityDistanceRank": 168
+    },
+    {
+      "lon": -62.42626,
+      "lat": 81.05561,
+      "cityDistanceRank": 169
+    },
+    {
+      "lon": -40.54421,
+      "lat": 81.05561,
+      "cityDistanceRank": 170
+    },
+    {
+      "lon": -22.30917,
+      "lat": 79.18384,
+      "cityDistanceRank": 171
+    },
+    {
+      "lon": -25.95618,
+      "lat": 79.84726,
+      "cityDistanceRank": 172
+    },
+    {
+      "lon": -36.8972,
+      "lat": 81.05561,
+      "cityDistanceRank": 173
+    },
+    {
+      "lon": -29.60319,
+      "lat": 80.47039,
+      "cityDistanceRank": 174
+    },
+    {
+      "lon": -51.48524,
+      "lat": 81.60517,
+      "cityDistanceRank": 175
+    },
+    {
+      "lon": -55.13225,
+      "lat": 81.60517,
+      "cityDistanceRank": 176
+    },
+    {
+      "lon": -47.83823,
+      "lat": 81.60517,
+      "cityDistanceRank": 177
+    },
+    {
+      "lon": -58.77925,
+      "lat": 81.60517,
+      "cityDistanceRank": 178
+    },
+    {
+      "lon": -44.19122,
+      "lat": 81.60517,
+      "cityDistanceRank": 179
+    },
+    {
+      "lon": -33.2502,
+      "lat": 81.05561,
+      "cityDistanceRank": 180
+    },
+    {
+      "lon": -22.30917,
+      "lat": 79.84726,
+      "cityDistanceRank": 181
+    },
+    {
+      "lon": -40.54421,
+      "lat": 81.60517,
+      "cityDistanceRank": 182
+    },
+    {
+      "lon": -25.95618,
+      "lat": 80.47039,
+      "cityDistanceRank": 183
+    },
+    {
+      "lon": -36.8972,
+      "lat": 81.60517,
+      "cityDistanceRank": 184
+    },
+    {
+      "lon": -29.60319,
+      "lat": 81.05561,
+      "cityDistanceRank": 185
+    },
+    {
+      "lon": -55.13225,
+      "lat": 82.12118,
+      "cityDistanceRank": 186
+    },
+    {
+      "lon": -47.83823,
+      "lat": 82.12118,
+      "cityDistanceRank": 187
+    },
+    {
+      "lon": -58.77925,
+      "lat": 82.12118,
+      "cityDistanceRank": 188
+    },
+    {
+      "lon": -44.19122,
+      "lat": 82.12118,
+      "cityDistanceRank": 189
+    },
+    {
+      "lon": -33.2502,
+      "lat": 81.60517,
+      "cityDistanceRank": 190
+    },
+    {
+      "lon": -22.30917,
+      "lat": 80.47039,
+      "cityDistanceRank": 191
+    },
+    {
+      "lon": -40.54421,
+      "lat": 82.12118,
+      "cityDistanceRank": 192
+    },
+    {
+      "lon": -25.95618,
+      "lat": 81.05561,
+      "cityDistanceRank": 193
+    },
+    {
+      "lon": -29.60319,
+      "lat": 81.60517,
+      "cityDistanceRank": 194
+    },
+    {
+      "lon": -36.8972,
+      "lat": 82.12118,
+      "cityDistanceRank": 195
+    },
+    {
+      "lon": -33.2502,
+      "lat": 82.12118,
+      "cityDistanceRank": 196
+    },
+    {
+      "lon": -44.19122,
+      "lat": 82.60567,
+      "cityDistanceRank": 197
+    },
+    {
+      "lon": -22.30917,
+      "lat": 81.05561,
+      "cityDistanceRank": 198
+    },
+    {
+      "lon": -18.66216,
+      "lat": 80.47039,
+      "cityDistanceRank": 199
+    },
+    {
+      "lon": -25.95618,
+      "lat": 81.60517,
+      "cityDistanceRank": 200
+    },
+    {
+      "lon": -40.54421,
+      "lat": 82.60567,
+      "cityDistanceRank": 201
+    },
+    {
+      "lon": -29.60319,
+      "lat": 82.12118,
+      "cityDistanceRank": 202
+    },
+    {
+      "lon": -36.8972,
+      "lat": 82.60567,
+      "cityDistanceRank": 203
+    },
+    {
+      "lon": -18.66216,
+      "lat": 81.05561,
+      "cityDistanceRank": 204
+    },
+    {
+      "lon": -22.30917,
+      "lat": 81.60517,
+      "cityDistanceRank": 205
+    },
+    {
+      "lon": -33.2502,
+      "lat": 82.60567,
+      "cityDistanceRank": 206
+    },
+    {
+      "lon": -44.19122,
+      "lat": 83.06052,
+      "cityDistanceRank": 207
+    },
+    {
+      "lon": -25.95618,
+      "lat": 82.12118,
+      "cityDistanceRank": 208
+    },
+    {
+      "lon": -40.54421,
+      "lat": 83.06052,
+      "cityDistanceRank": 209
+    },
+    {
+      "lon": -29.60319,
+      "lat": 82.60567,
+      "cityDistanceRank": 210
+    },
+    {
+      "lon": -36.8972,
+      "lat": 83.06052,
+      "cityDistanceRank": 211
+    },
+    {
+      "lon": -22.30917,
+      "lat": 82.12118,
+      "cityDistanceRank": 212
+    },
+    {
+      "lon": -15.01516,
+      "lat": 81.05561,
+      "cityDistanceRank": 213
+    },
+    {
+      "lon": -33.2502,
+      "lat": 83.06052,
+      "cityDistanceRank": 214
+    },
+    {
+      "lon": -25.95618,
+      "lat": 82.60567,
+      "cityDistanceRank": 215
+    },
+    {
+      "lon": -29.60319,
+      "lat": 83.06052,
+      "cityDistanceRank": 216
+    },
+    {
+      "lon": -36.8972,
+      "lat": 83.48752,
+      "cityDistanceRank": 217
+    },
+    {
+      "lon": -22.30917,
+      "lat": 82.60567,
+      "cityDistanceRank": 218
+    },
+    {
+      "lon": -15.01516,
+      "lat": 81.60517,
+      "cityDistanceRank": 219
+    },
+    {
+      "lon": -33.2502,
+      "lat": 83.48752,
+      "cityDistanceRank": 220
+    },
+    {
+      "lon": -25.95618,
+      "lat": 83.06052,
+      "cityDistanceRank": 221
+    },
+    {
+      "lon": -29.60319,
+      "lat": 83.48752,
+      "cityDistanceRank": 222
+    }
+  ],
+  "CA": [
+    {
+      "lon": -73.36729,
+      "lat": 45.48334,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -80.6613,
+      "lat": 42.86834,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -124.4254,
+      "lat": 50.366,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -120.77839,
+      "lat": 50.366,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -80.6613,
+      "lat": 45.48334,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -77.01429,
+      "lat": 45.48334,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -73.36729,
+      "lat": 47.98235,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -128.07241,
+      "lat": 50.366,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -77.01429,
+      "lat": 47.98235,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -124.4254,
+      "lat": 52.63565,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -69.72028,
+      "lat": 47.98235,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -120.77839,
+      "lat": 52.63565,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -117.13138,
+      "lat": 50.366,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -80.6613,
+      "lat": 47.98235,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -128.07241,
+      "lat": 52.63565,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -73.36729,
+      "lat": 50.366,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -117.13138,
+      "lat": 52.63565,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": -66.07327,
+      "lat": 45.48334,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": -77.01429,
+      "lat": 50.366,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": -84.30831,
+      "lat": 47.98235,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": -69.72028,
+      "lat": 50.366,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": -124.4254,
+      "lat": 54.79338,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": -66.07327,
+      "lat": 47.98235,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": -120.77839,
+      "lat": 54.79338,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": -113.48437,
+      "lat": 50.366,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": -128.07241,
+      "lat": 54.79338,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": -117.13138,
+      "lat": 54.79338,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": -80.6613,
+      "lat": 50.366,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": -113.48437,
+      "lat": 52.63565,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": -66.07327,
+      "lat": 50.366,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": -73.36729,
+      "lat": 52.63565,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": -84.30831,
+      "lat": 50.366,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": -77.01429,
+      "lat": 52.63565,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": -69.72028,
+      "lat": 52.63565,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": -124.4254,
+      "lat": 56.8418,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": -120.77839,
+      "lat": 56.8418,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": -62.42626,
+      "lat": 45.48334,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": -113.48437,
+      "lat": 54.79338,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": -128.07241,
+      "lat": 56.8418,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": -117.13138,
+      "lat": 56.8418,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": -109.83737,
+      "lat": 50.366,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": -66.07327,
+      "lat": 52.63565,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": -87.95532,
+      "lat": 50.366,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": -62.42626,
+      "lat": 50.366,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": -109.83737,
+      "lat": 52.63565,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": -131.71941,
+      "lat": 56.8418,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": -73.36729,
+      "lat": 54.79338,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": -84.30831,
+      "lat": 52.63565,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": -113.48437,
+      "lat": 56.8418,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": -77.01429,
+      "lat": 54.79338,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": -124.4254,
+      "lat": 58.78395,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": -69.72028,
+      "lat": 54.79338,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": -120.77839,
+      "lat": 58.78395,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": -109.83737,
+      "lat": 54.79338,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": -128.07241,
+      "lat": 58.78395,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": -117.13138,
+      "lat": 58.78395,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": -62.42626,
+      "lat": 52.63565,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": -58.77925,
+      "lat": 47.98235,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": -66.07327,
+      "lat": 54.79338,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": -87.95532,
+      "lat": 52.63565,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": -91.60233,
+      "lat": 50.366,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": -131.71941,
+      "lat": 58.78395,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": -106.19036,
+      "lat": 50.366,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": -109.83737,
+      "lat": 56.8418,
+      "cityDistanceRank": 63
+    },
+    {
+      "lon": -113.48437,
+      "lat": 58.78395,
+      "cityDistanceRank": 64
+    },
+    {
+      "lon": -106.19036,
+      "lat": 52.63565,
+      "cityDistanceRank": 65
+    },
+    {
+      "lon": -73.36729,
+      "lat": 56.8418,
+      "cityDistanceRank": 66
+    },
+    {
+      "lon": -124.4254,
+      "lat": 60.62322,
+      "cityDistanceRank": 67
+    },
+    {
+      "lon": -120.77839,
+      "lat": 60.62322,
+      "cityDistanceRank": 68
+    },
+    {
+      "lon": -84.30831,
+      "lat": 54.79338,
+      "cityDistanceRank": 69
+    },
+    {
+      "lon": -77.01429,
+      "lat": 56.8418,
+      "cityDistanceRank": 70
+    },
+    {
+      "lon": -69.72028,
+      "lat": 56.8418,
+      "cityDistanceRank": 71
+    },
+    {
+      "lon": -62.42626,
+      "lat": 54.79338,
+      "cityDistanceRank": 72
+    },
+    {
+      "lon": -128.07241,
+      "lat": 60.62322,
+      "cityDistanceRank": 73
+    },
+    {
+      "lon": -106.19036,
+      "lat": 54.79338,
+      "cityDistanceRank": 74
+    },
+    {
+      "lon": -117.13138,
+      "lat": 60.62322,
+      "cityDistanceRank": 75
+    },
+    {
+      "lon": -58.77925,
+      "lat": 52.63565,
+      "cityDistanceRank": 76
+    },
+    {
+      "lon": -91.60233,
+      "lat": 52.63565,
+      "cityDistanceRank": 77
+    },
+    {
+      "lon": -66.07327,
+      "lat": 56.8418,
+      "cityDistanceRank": 78
+    },
+    {
+      "lon": -109.83737,
+      "lat": 58.78395,
+      "cityDistanceRank": 79
+    },
+    {
+      "lon": -87.95532,
+      "lat": 54.79338,
+      "cityDistanceRank": 80
+    },
+    {
+      "lon": -131.71941,
+      "lat": 60.62322,
+      "cityDistanceRank": 81
+    },
+    {
+      "lon": -113.48437,
+      "lat": 60.62322,
+      "cityDistanceRank": 82
+    },
+    {
+      "lon": -106.19036,
+      "lat": 56.8418,
+      "cityDistanceRank": 83
+    },
+    {
+      "lon": -95.24933,
+      "lat": 50.366,
+      "cityDistanceRank": 84
+    },
+    {
+      "lon": -55.13225,
+      "lat": 47.98235,
+      "cityDistanceRank": 85
+    },
+    {
+      "lon": -124.4254,
+      "lat": 62.36328,
+      "cityDistanceRank": 86
+    },
+    {
+      "lon": -120.77839,
+      "lat": 62.36328,
+      "cityDistanceRank": 87
+    },
+    {
+      "lon": -58.77925,
+      "lat": 54.79338,
+      "cityDistanceRank": 88
+    },
+    {
+      "lon": -102.54335,
+      "lat": 50.366,
+      "cityDistanceRank": 89
+    },
+    {
+      "lon": -62.42626,
+      "lat": 56.8418,
+      "cityDistanceRank": 90
+    },
+    {
+      "lon": -73.36729,
+      "lat": 58.78395,
+      "cityDistanceRank": 91
+    },
+    {
+      "lon": -135.36642,
+      "lat": 60.62322,
+      "cityDistanceRank": 92
+    },
+    {
+      "lon": -102.54335,
+      "lat": 52.63565,
+      "cityDistanceRank": 93
+    },
+    {
+      "lon": -128.07241,
+      "lat": 62.36328,
+      "cityDistanceRank": 94
+    },
+    {
+      "lon": -77.01429,
+      "lat": 58.78395,
+      "cityDistanceRank": 95
+    },
+    {
+      "lon": -69.72028,
+      "lat": 58.78395,
+      "cityDistanceRank": 96
+    },
+    {
+      "lon": -117.13138,
+      "lat": 62.36328,
+      "cityDistanceRank": 97
+    },
+    {
+      "lon": -91.60233,
+      "lat": 54.79338,
+      "cityDistanceRank": 98
+    },
+    {
+      "lon": -109.83737,
+      "lat": 60.62322,
+      "cityDistanceRank": 99
+    },
+    {
+      "lon": -106.19036,
+      "lat": 58.78395,
+      "cityDistanceRank": 100
+    },
+    {
+      "lon": -102.54335,
+      "lat": 54.79338,
+      "cityDistanceRank": 101
+    },
+    {
+      "lon": -95.24933,
+      "lat": 52.63565,
+      "cityDistanceRank": 102
+    },
+    {
+      "lon": -131.71941,
+      "lat": 62.36328,
+      "cityDistanceRank": 103
+    },
+    {
+      "lon": -66.07327,
+      "lat": 58.78395,
+      "cityDistanceRank": 104
+    },
+    {
+      "lon": -113.48437,
+      "lat": 62.36328,
+      "cityDistanceRank": 105
+    },
+    {
+      "lon": -102.54335,
+      "lat": 56.8418,
+      "cityDistanceRank": 106
+    },
+    {
+      "lon": -139.01343,
+      "lat": 60.62322,
+      "cityDistanceRank": 107
+    },
+    {
+      "lon": -135.36642,
+      "lat": 62.36328,
+      "cityDistanceRank": 108
+    },
+    {
+      "lon": -124.4254,
+      "lat": 64.00795,
+      "cityDistanceRank": 109
+    },
+    {
+      "lon": -98.89634,
+      "lat": 50.366,
+      "cityDistanceRank": 110
+    },
+    {
+      "lon": -120.77839,
+      "lat": 64.00795,
+      "cityDistanceRank": 111
+    },
+    {
+      "lon": -106.19036,
+      "lat": 60.62322,
+      "cityDistanceRank": 112
+    },
+    {
+      "lon": -128.07241,
+      "lat": 64.00795,
+      "cityDistanceRank": 113
+    },
+    {
+      "lon": -109.83737,
+      "lat": 62.36328,
+      "cityDistanceRank": 114
+    },
+    {
+      "lon": -95.24933,
+      "lat": 54.79338,
+      "cityDistanceRank": 115
+    },
+    {
+      "lon": -117.13138,
+      "lat": 64.00795,
+      "cityDistanceRank": 116
+    },
+    {
+      "lon": -73.36729,
+      "lat": 60.62322,
+      "cityDistanceRank": 117
+    },
+    {
+      "lon": -91.60233,
+      "lat": 56.8418,
+      "cityDistanceRank": 118
+    },
+    {
+      "lon": -77.01429,
+      "lat": 60.62322,
+      "cityDistanceRank": 119
+    },
+    {
+      "lon": -102.54335,
+      "lat": 58.78395,
+      "cityDistanceRank": 120
+    },
+    {
+      "lon": -131.71941,
+      "lat": 64.00795,
+      "cityDistanceRank": 121
+    },
+    {
+      "lon": -98.89634,
+      "lat": 52.63565,
+      "cityDistanceRank": 122
+    },
+    {
+      "lon": -113.48437,
+      "lat": 64.00795,
+      "cityDistanceRank": 123
+    },
+    {
+      "lon": -139.01343,
+      "lat": 62.36328,
+      "cityDistanceRank": 124
+    },
+    {
+      "lon": -98.89634,
+      "lat": 54.79338,
+      "cityDistanceRank": 125
+    },
+    {
+      "lon": -106.19036,
+      "lat": 62.36328,
+      "cityDistanceRank": 126
+    },
+    {
+      "lon": -135.36642,
+      "lat": 64.00795,
+      "cityDistanceRank": 127
+    },
+    {
+      "lon": -102.54335,
+      "lat": 60.62322,
+      "cityDistanceRank": 128
+    },
+    {
+      "lon": -98.89634,
+      "lat": 56.8418,
+      "cityDistanceRank": 129
+    },
+    {
+      "lon": -124.4254,
+      "lat": 65.56119,
+      "cityDistanceRank": 130
+    },
+    {
+      "lon": -120.77839,
+      "lat": 65.56119,
+      "cityDistanceRank": 131
+    },
+    {
+      "lon": -109.83737,
+      "lat": 64.00795,
+      "cityDistanceRank": 132
+    },
+    {
+      "lon": -95.24933,
+      "lat": 56.8418,
+      "cityDistanceRank": 133
+    },
+    {
+      "lon": -128.07241,
+      "lat": 65.56119,
+      "cityDistanceRank": 134
+    },
+    {
+      "lon": -117.13138,
+      "lat": 65.56119,
+      "cityDistanceRank": 135
+    },
+    {
+      "lon": -73.36729,
+      "lat": 62.36328,
+      "cityDistanceRank": 136
+    },
+    {
+      "lon": -131.71941,
+      "lat": 65.56119,
+      "cityDistanceRank": 137
+    },
+    {
+      "lon": -77.01429,
+      "lat": 62.36328,
+      "cityDistanceRank": 138
+    },
+    {
+      "lon": -98.89634,
+      "lat": 58.78395,
+      "cityDistanceRank": 139
+    },
+    {
+      "lon": -139.01343,
+      "lat": 64.00795,
+      "cityDistanceRank": 140
+    },
+    {
+      "lon": -113.48437,
+      "lat": 65.56119,
+      "cityDistanceRank": 141
+    },
+    {
+      "lon": -102.54335,
+      "lat": 62.36328,
+      "cityDistanceRank": 142
+    },
+    {
+      "lon": -106.19036,
+      "lat": 64.00795,
+      "cityDistanceRank": 143
+    },
+    {
+      "lon": -80.6613,
+      "lat": 62.36328,
+      "cityDistanceRank": 144
+    },
+    {
+      "lon": -135.36642,
+      "lat": 65.56119,
+      "cityDistanceRank": 145
+    },
+    {
+      "lon": -109.83737,
+      "lat": 65.56119,
+      "cityDistanceRank": 146
+    },
+    {
+      "lon": -98.89634,
+      "lat": 60.62322,
+      "cityDistanceRank": 147
+    },
+    {
+      "lon": -124.4254,
+      "lat": 67.02698,
+      "cityDistanceRank": 148
+    },
+    {
+      "lon": -120.77839,
+      "lat": 67.02698,
+      "cityDistanceRank": 149
+    },
+    {
+      "lon": -95.24933,
+      "lat": 58.78395,
+      "cityDistanceRank": 150
+    },
+    {
+      "lon": -84.30831,
+      "lat": 62.36328,
+      "cityDistanceRank": 151
+    },
+    {
+      "lon": -128.07241,
+      "lat": 67.02698,
+      "cityDistanceRank": 152
+    },
+    {
+      "lon": -117.13138,
+      "lat": 67.02698,
+      "cityDistanceRank": 153
+    },
+    {
+      "lon": -139.01343,
+      "lat": 65.56119,
+      "cityDistanceRank": 154
+    },
+    {
+      "lon": -131.71941,
+      "lat": 67.02698,
+      "cityDistanceRank": 155
+    },
+    {
+      "lon": -102.54335,
+      "lat": 64.00795,
+      "cityDistanceRank": 156
+    },
+    {
+      "lon": -113.48437,
+      "lat": 67.02698,
+      "cityDistanceRank": 157
+    },
+    {
+      "lon": -106.19036,
+      "lat": 65.56119,
+      "cityDistanceRank": 158
+    },
+    {
+      "lon": -69.72028,
+      "lat": 64.00795,
+      "cityDistanceRank": 159
+    },
+    {
+      "lon": -98.89634,
+      "lat": 62.36328,
+      "cityDistanceRank": 160
+    },
+    {
+      "lon": -135.36642,
+      "lat": 67.02698,
+      "cityDistanceRank": 161
+    },
+    {
+      "lon": -80.6613,
+      "lat": 64.00795,
+      "cityDistanceRank": 162
+    },
+    {
+      "lon": -66.07327,
+      "lat": 64.00795,
+      "cityDistanceRank": 163
+    },
+    {
+      "lon": -109.83737,
+      "lat": 67.02698,
+      "cityDistanceRank": 164
+    },
+    {
+      "lon": -124.4254,
+      "lat": 68.40936,
+      "cityDistanceRank": 165
+    },
+    {
+      "lon": -120.77839,
+      "lat": 68.40936,
+      "cityDistanceRank": 166
+    },
+    {
+      "lon": -128.07241,
+      "lat": 68.40936,
+      "cityDistanceRank": 167
+    },
+    {
+      "lon": -95.24933,
+      "lat": 60.62322,
+      "cityDistanceRank": 168
+    },
+    {
+      "lon": -117.13138,
+      "lat": 68.40936,
+      "cityDistanceRank": 169
+    },
+    {
+      "lon": -84.30831,
+      "lat": 64.00795,
+      "cityDistanceRank": 170
+    },
+    {
+      "lon": -102.54335,
+      "lat": 65.56119,
+      "cityDistanceRank": 171
+    },
+    {
+      "lon": -139.01343,
+      "lat": 67.02698,
+      "cityDistanceRank": 172
+    },
+    {
+      "lon": -131.71941,
+      "lat": 68.40936,
+      "cityDistanceRank": 173
+    },
+    {
+      "lon": -98.89634,
+      "lat": 64.00795,
+      "cityDistanceRank": 174
+    },
+    {
+      "lon": -106.19036,
+      "lat": 67.02698,
+      "cityDistanceRank": 175
+    },
+    {
+      "lon": -73.36729,
+      "lat": 65.56119,
+      "cityDistanceRank": 176
+    },
+    {
+      "lon": -135.36642,
+      "lat": 68.40936,
+      "cityDistanceRank": 177
+    },
+    {
+      "lon": -77.01429,
+      "lat": 65.56119,
+      "cityDistanceRank": 178
+    },
+    {
+      "lon": -95.24933,
+      "lat": 62.36328,
+      "cityDistanceRank": 179
+    },
+    {
+      "lon": -69.72028,
+      "lat": 65.56119,
+      "cityDistanceRank": 180
+    },
+    {
+      "lon": -124.4254,
+      "lat": 69.7123,
+      "cityDistanceRank": 181
+    },
+    {
+      "lon": -120.77839,
+      "lat": 69.7123,
+      "cityDistanceRank": 182
+    },
+    {
+      "lon": -128.07241,
+      "lat": 69.7123,
+      "cityDistanceRank": 183
+    },
+    {
+      "lon": -102.54335,
+      "lat": 67.02698,
+      "cityDistanceRank": 184
+    },
+    {
+      "lon": -98.89634,
+      "lat": 65.56119,
+      "cityDistanceRank": 185
+    },
+    {
+      "lon": -117.13138,
+      "lat": 69.7123,
+      "cityDistanceRank": 186
+    },
+    {
+      "lon": -139.01343,
+      "lat": 68.40936,
+      "cityDistanceRank": 187
+    },
+    {
+      "lon": -131.71941,
+      "lat": 69.7123,
+      "cityDistanceRank": 188
+    },
+    {
+      "lon": -106.19036,
+      "lat": 68.40936,
+      "cityDistanceRank": 189
+    },
+    {
+      "lon": -95.24933,
+      "lat": 64.00795,
+      "cityDistanceRank": 190
+    },
+    {
+      "lon": -113.48437,
+      "lat": 69.7123,
+      "cityDistanceRank": 191
+    },
+    {
+      "lon": -91.60233,
+      "lat": 64.00795,
+      "cityDistanceRank": 192
+    },
+    {
+      "lon": -109.83737,
+      "lat": 69.7123,
+      "cityDistanceRank": 193
+    },
+    {
+      "lon": -73.36729,
+      "lat": 67.02698,
+      "cityDistanceRank": 194
+    },
+    {
+      "lon": -87.95532,
+      "lat": 65.56119,
+      "cityDistanceRank": 195
+    },
+    {
+      "lon": -98.89634,
+      "lat": 67.02698,
+      "cityDistanceRank": 196
+    },
+    {
+      "lon": -69.72028,
+      "lat": 67.02698,
+      "cityDistanceRank": 197
+    },
+    {
+      "lon": -95.24933,
+      "lat": 65.56119,
+      "cityDistanceRank": 198
+    },
+    {
+      "lon": -117.13138,
+      "lat": 70.93974,
+      "cityDistanceRank": 199
+    },
+    {
+      "lon": -66.07327,
+      "lat": 67.02698,
+      "cityDistanceRank": 200
+    },
+    {
+      "lon": -106.19036,
+      "lat": 69.7123,
+      "cityDistanceRank": 201
+    },
+    {
+      "lon": -113.48437,
+      "lat": 70.93974,
+      "cityDistanceRank": 202
+    },
+    {
+      "lon": -84.30831,
+      "lat": 67.02698,
+      "cityDistanceRank": 203
+    },
+    {
+      "lon": -62.42626,
+      "lat": 67.02698,
+      "cityDistanceRank": 204
+    },
+    {
+      "lon": -91.60233,
+      "lat": 65.56119,
+      "cityDistanceRank": 205
+    },
+    {
+      "lon": -109.83737,
+      "lat": 70.93974,
+      "cityDistanceRank": 206
+    },
+    {
+      "lon": -95.24933,
+      "lat": 67.02698,
+      "cityDistanceRank": 207
+    },
+    {
+      "lon": -87.95532,
+      "lat": 67.02698,
+      "cityDistanceRank": 208
+    },
+    {
+      "lon": -124.4254,
+      "lat": 72.09552,
+      "cityDistanceRank": 209
+    },
+    {
+      "lon": -120.77839,
+      "lat": 72.09552,
+      "cityDistanceRank": 210
+    },
+    {
+      "lon": -73.36729,
+      "lat": 68.40936,
+      "cityDistanceRank": 211
+    },
+    {
+      "lon": -77.01429,
+      "lat": 68.40936,
+      "cityDistanceRank": 212
+    },
+    {
+      "lon": -69.72028,
+      "lat": 68.40936,
+      "cityDistanceRank": 213
+    },
+    {
+      "lon": -117.13138,
+      "lat": 72.09552,
+      "cityDistanceRank": 214
+    },
+    {
+      "lon": -106.19036,
+      "lat": 70.93974,
+      "cityDistanceRank": 215
+    },
+    {
+      "lon": -113.48437,
+      "lat": 72.09552,
+      "cityDistanceRank": 216
+    },
+    {
+      "lon": -91.60233,
+      "lat": 67.02698,
+      "cityDistanceRank": 217
+    },
+    {
+      "lon": -84.30831,
+      "lat": 68.40936,
+      "cityDistanceRank": 218
+    },
+    {
+      "lon": -109.83737,
+      "lat": 72.09552,
+      "cityDistanceRank": 219
+    },
+    {
+      "lon": -124.4254,
+      "lat": 73.18338,
+      "cityDistanceRank": 220
+    },
+    {
+      "lon": -120.77839,
+      "lat": 73.18338,
+      "cityDistanceRank": 221
+    },
+    {
+      "lon": -117.13138,
+      "lat": 73.18338,
+      "cityDistanceRank": 222
+    },
+    {
+      "lon": -106.19036,
+      "lat": 72.09552,
+      "cityDistanceRank": 223
+    },
+    {
+      "lon": -73.36729,
+      "lat": 69.7123,
+      "cityDistanceRank": 224
+    },
+    {
+      "lon": -77.01429,
+      "lat": 69.7123,
+      "cityDistanceRank": 225
+    },
+    {
+      "lon": -69.72028,
+      "lat": 69.7123,
+      "cityDistanceRank": 226
+    },
+    {
+      "lon": -95.24933,
+      "lat": 69.7123,
+      "cityDistanceRank": 227
+    },
+    {
+      "lon": -91.60233,
+      "lat": 68.40936,
+      "cityDistanceRank": 228
+    },
+    {
+      "lon": -84.30831,
+      "lat": 69.7123,
+      "cityDistanceRank": 229
+    },
+    {
+      "lon": -124.4254,
+      "lat": 74.20693,
+      "cityDistanceRank": 230
+    },
+    {
+      "lon": -120.77839,
+      "lat": 74.20693,
+      "cityDistanceRank": 231
+    },
+    {
+      "lon": -106.19036,
+      "lat": 73.18338,
+      "cityDistanceRank": 232
+    },
+    {
+      "lon": -117.13138,
+      "lat": 74.20693,
+      "cityDistanceRank": 233
+    },
+    {
+      "lon": -95.24933,
+      "lat": 70.93974,
+      "cityDistanceRank": 234
+    },
+    {
+      "lon": -98.89634,
+      "lat": 72.09552,
+      "cityDistanceRank": 235
+    },
+    {
+      "lon": -73.36729,
+      "lat": 70.93974,
+      "cityDistanceRank": 236
+    },
+    {
+      "lon": -77.01429,
+      "lat": 70.93974,
+      "cityDistanceRank": 237
+    },
+    {
+      "lon": -69.72028,
+      "lat": 70.93974,
+      "cityDistanceRank": 238
+    },
+    {
+      "lon": -80.6613,
+      "lat": 70.93974,
+      "cityDistanceRank": 239
+    },
+    {
+      "lon": -84.30831,
+      "lat": 70.93974,
+      "cityDistanceRank": 240
+    },
+    {
+      "lon": -117.13138,
+      "lat": 75.16969,
+      "cityDistanceRank": 241
+    },
+    {
+      "lon": -95.24933,
+      "lat": 72.09552,
+      "cityDistanceRank": 242
+    },
+    {
+      "lon": -98.89634,
+      "lat": 73.18338,
+      "cityDistanceRank": 243
+    },
+    {
+      "lon": -113.48437,
+      "lat": 75.16969,
+      "cityDistanceRank": 244
+    },
+    {
+      "lon": -87.95532,
+      "lat": 70.93974,
+      "cityDistanceRank": 245
+    },
+    {
+      "lon": -109.83737,
+      "lat": 75.16969,
+      "cityDistanceRank": 246
+    },
+    {
+      "lon": -77.01429,
+      "lat": 72.09552,
+      "cityDistanceRank": 247
+    },
+    {
+      "lon": -80.6613,
+      "lat": 72.09552,
+      "cityDistanceRank": 248
+    },
+    {
+      "lon": -120.77839,
+      "lat": 76.07499,
+      "cityDistanceRank": 249
+    },
+    {
+      "lon": -95.24933,
+      "lat": 73.18338,
+      "cityDistanceRank": 250
+    },
+    {
+      "lon": -117.13138,
+      "lat": 76.07499,
+      "cityDistanceRank": 251
+    },
+    {
+      "lon": -84.30831,
+      "lat": 72.09552,
+      "cityDistanceRank": 252
+    },
+    {
+      "lon": -113.48437,
+      "lat": 76.07499,
+      "cityDistanceRank": 253
+    },
+    {
+      "lon": -109.83737,
+      "lat": 76.07499,
+      "cityDistanceRank": 254
+    },
+    {
+      "lon": -87.95532,
+      "lat": 72.09552,
+      "cityDistanceRank": 255
+    },
+    {
+      "lon": -95.24933,
+      "lat": 74.20693,
+      "cityDistanceRank": 256
+    },
+    {
+      "lon": -120.77839,
+      "lat": 76.92605,
+      "cityDistanceRank": 257
+    },
+    {
+      "lon": -77.01429,
+      "lat": 73.18338,
+      "cityDistanceRank": 258
+    },
+    {
+      "lon": -117.13138,
+      "lat": 76.92605,
+      "cityDistanceRank": 259
+    },
+    {
+      "lon": -98.89634,
+      "lat": 75.16969,
+      "cityDistanceRank": 260
+    },
+    {
+      "lon": -80.6613,
+      "lat": 73.18338,
+      "cityDistanceRank": 261
+    },
+    {
+      "lon": -102.54335,
+      "lat": 76.07499,
+      "cityDistanceRank": 262
+    },
+    {
+      "lon": -84.30831,
+      "lat": 73.18338,
+      "cityDistanceRank": 263
+    },
+    {
+      "lon": -95.24933,
+      "lat": 75.16969,
+      "cityDistanceRank": 264
+    },
+    {
+      "lon": -87.95532,
+      "lat": 73.18338,
+      "cityDistanceRank": 265
+    },
+    {
+      "lon": -98.89634,
+      "lat": 76.07499,
+      "cityDistanceRank": 266
+    },
+    {
+      "lon": -113.48437,
+      "lat": 77.72595,
+      "cityDistanceRank": 267
+    },
+    {
+      "lon": -91.60233,
+      "lat": 75.16969,
+      "cityDistanceRank": 268
+    },
+    {
+      "lon": -91.60233,
+      "lat": 76.07499,
+      "cityDistanceRank": 269
+    },
+    {
+      "lon": -109.83737,
+      "lat": 78.47762,
+      "cityDistanceRank": 270
+    },
+    {
+      "lon": -87.95532,
+      "lat": 75.16969,
+      "cityDistanceRank": 271
+    },
+    {
+      "lon": -95.24933,
+      "lat": 76.92605,
+      "cityDistanceRank": 272
+    },
+    {
+      "lon": -80.6613,
+      "lat": 75.16969,
+      "cityDistanceRank": 273
+    },
+    {
+      "lon": -84.30831,
+      "lat": 75.16969,
+      "cityDistanceRank": 274
+    },
+    {
+      "lon": -102.54335,
+      "lat": 78.47762,
+      "cityDistanceRank": 275
+    },
+    {
+      "lon": -95.24933,
+      "lat": 77.72595,
+      "cityDistanceRank": 276
+    },
+    {
+      "lon": -102.54335,
+      "lat": 79.18384,
+      "cityDistanceRank": 277
+    },
+    {
+      "lon": -87.95532,
+      "lat": 76.92605,
+      "cityDistanceRank": 278
+    },
+    {
+      "lon": -95.24933,
+      "lat": 78.47762,
+      "cityDistanceRank": 279
+    },
+    {
+      "lon": -87.95532,
+      "lat": 77.72595,
+      "cityDistanceRank": 280
+    },
+    {
+      "lon": -91.60233,
+      "lat": 78.47762,
+      "cityDistanceRank": 281
+    },
+    {
+      "lon": -84.30831,
+      "lat": 76.92605,
+      "cityDistanceRank": 282
+    },
+    {
+      "lon": -95.24933,
+      "lat": 79.18384,
+      "cityDistanceRank": 283
+    },
+    {
+      "lon": -80.6613,
+      "lat": 76.92605,
+      "cityDistanceRank": 284
+    },
+    {
+      "lon": -91.60233,
+      "lat": 79.18384,
+      "cityDistanceRank": 285
+    },
+    {
+      "lon": -84.30831,
+      "lat": 77.72595,
+      "cityDistanceRank": 286
+    },
+    {
+      "lon": -95.24933,
+      "lat": 79.84726,
+      "cityDistanceRank": 287
+    },
+    {
+      "lon": -80.6613,
+      "lat": 77.72595,
+      "cityDistanceRank": 288
+    },
+    {
+      "lon": -87.95532,
+      "lat": 79.18384,
+      "cityDistanceRank": 289
+    },
+    {
+      "lon": -84.30831,
+      "lat": 78.47762,
+      "cityDistanceRank": 290
+    },
+    {
+      "lon": -91.60233,
+      "lat": 79.84726,
+      "cityDistanceRank": 291
+    },
+    {
+      "lon": -95.24933,
+      "lat": 80.47039,
+      "cityDistanceRank": 292
+    },
+    {
+      "lon": -87.95532,
+      "lat": 79.84726,
+      "cityDistanceRank": 293
+    },
+    {
+      "lon": -84.30831,
+      "lat": 79.18384,
+      "cityDistanceRank": 294
+    },
+    {
+      "lon": -91.60233,
+      "lat": 80.47039,
+      "cityDistanceRank": 295
+    },
+    {
+      "lon": -77.01429,
+      "lat": 78.47762,
+      "cityDistanceRank": 296
+    },
+    {
+      "lon": -80.6613,
+      "lat": 78.47762,
+      "cityDistanceRank": 297
+    },
+    {
+      "lon": -95.24933,
+      "lat": 81.05561,
+      "cityDistanceRank": 298
+    },
+    {
+      "lon": -87.95532,
+      "lat": 80.47039,
+      "cityDistanceRank": 299
+    },
+    {
+      "lon": -84.30831,
+      "lat": 79.84726,
+      "cityDistanceRank": 300
+    },
+    {
+      "lon": -80.6613,
+      "lat": 79.18384,
+      "cityDistanceRank": 301
+    },
+    {
+      "lon": -77.01429,
+      "lat": 79.18384,
+      "cityDistanceRank": 302
+    },
+    {
+      "lon": -87.95532,
+      "lat": 81.05561,
+      "cityDistanceRank": 303
+    },
+    {
+      "lon": -80.6613,
+      "lat": 79.84726,
+      "cityDistanceRank": 304
+    },
+    {
+      "lon": -84.30831,
+      "lat": 81.05561,
+      "cityDistanceRank": 305
+    },
+    {
+      "lon": -87.95532,
+      "lat": 81.60517,
+      "cityDistanceRank": 306
+    },
+    {
+      "lon": -80.6613,
+      "lat": 80.47039,
+      "cityDistanceRank": 307
+    },
+    {
+      "lon": -73.36729,
+      "lat": 79.84726,
+      "cityDistanceRank": 308
+    },
+    {
+      "lon": -77.01429,
+      "lat": 79.84726,
+      "cityDistanceRank": 309
+    },
+    {
+      "lon": -84.30831,
+      "lat": 81.60517,
+      "cityDistanceRank": 310
+    },
+    {
+      "lon": -87.95532,
+      "lat": 82.12118,
+      "cityDistanceRank": 311
+    },
+    {
+      "lon": -80.6613,
+      "lat": 81.05561,
+      "cityDistanceRank": 312
+    },
+    {
+      "lon": -77.01429,
+      "lat": 80.47039,
+      "cityDistanceRank": 313
+    },
+    {
+      "lon": -84.30831,
+      "lat": 82.12118,
+      "cityDistanceRank": 314
+    },
+    {
+      "lon": -80.6613,
+      "lat": 81.60517,
+      "cityDistanceRank": 315
+    },
+    {
+      "lon": -73.36729,
+      "lat": 80.47039,
+      "cityDistanceRank": 316
+    },
+    {
+      "lon": -77.01429,
+      "lat": 81.05561,
+      "cityDistanceRank": 317
+    },
+    {
+      "lon": -80.6613,
+      "lat": 82.12118,
+      "cityDistanceRank": 318
+    },
+    {
+      "lon": -77.01429,
+      "lat": 81.60517,
+      "cityDistanceRank": 319
+    },
+    {
+      "lon": -73.36729,
+      "lat": 81.05561,
+      "cityDistanceRank": 320
+    },
+    {
+      "lon": -69.72028,
+      "lat": 81.05561,
+      "cityDistanceRank": 321
+    },
+    {
+      "lon": -80.6613,
+      "lat": 82.60567,
+      "cityDistanceRank": 322
+    },
+    {
+      "lon": -77.01429,
+      "lat": 82.12118,
+      "cityDistanceRank": 323
+    },
+    {
+      "lon": -73.36729,
+      "lat": 81.60517,
+      "cityDistanceRank": 324
+    },
+    {
+      "lon": -77.01429,
+      "lat": 82.60567,
+      "cityDistanceRank": 325
+    },
+    {
+      "lon": -73.36729,
+      "lat": 82.12118,
+      "cityDistanceRank": 326
+    },
+    {
+      "lon": -69.72028,
+      "lat": 81.60517,
+      "cityDistanceRank": 327
+    },
+    {
+      "lon": -66.07327,
+      "lat": 81.60517,
+      "cityDistanceRank": 328
+    },
+    {
+      "lon": -77.01429,
+      "lat": 83.06052,
+      "cityDistanceRank": 329
+    },
+    {
+      "lon": -73.36729,
+      "lat": 82.60567,
+      "cityDistanceRank": 330
+    },
+    {
+      "lon": -69.72028,
+      "lat": 82.12118,
+      "cityDistanceRank": 331
+    },
+    {
+      "lon": -73.36729,
+      "lat": 83.06052,
+      "cityDistanceRank": 332
+    },
+    {
+      "lon": -66.07327,
+      "lat": 82.12118,
+      "cityDistanceRank": 333
+    },
+    {
+      "lon": -69.72028,
+      "lat": 82.60567,
+      "cityDistanceRank": 334
+    },
+    {
+      "lon": -62.42626,
+      "lat": 82.12118,
+      "cityDistanceRank": 335
+    },
+    {
+      "lon": -69.72028,
+      "lat": 83.06052,
+      "cityDistanceRank": 336
+    },
+    {
+      "lon": -66.07327,
+      "lat": 82.60567,
+      "cityDistanceRank": 337
+    },
+    {
+      "lon": -62.42626,
+      "lat": 82.60567,
+      "cityDistanceRank": 338
+    }
+  ],
+  "RU": [
+    {
+      "lon": 36.04296,
+      "lat": 54.79338,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 36.04296,
+      "lat": 56.8418,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 39.68996,
+      "lat": 54.79338,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 39.68996,
+      "lat": 56.8418,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 32.39595,
+      "lat": 56.8418,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 32.39595,
+      "lat": 54.79338,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 36.04296,
+      "lat": 58.78395,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 39.68996,
+      "lat": 58.78395,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 36.04296,
+      "lat": 52.63565,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 39.68996,
+      "lat": 52.63565,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 43.33697,
+      "lat": 56.8418,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 43.33697,
+      "lat": 54.79338,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 32.39595,
+      "lat": 58.78395,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 43.33697,
+      "lat": 58.78395,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 32.39595,
+      "lat": 52.63565,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 43.33697,
+      "lat": 52.63565,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 36.04296,
+      "lat": 60.62322,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 39.68996,
+      "lat": 60.62322,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 28.74894,
+      "lat": 56.8418,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 46.98398,
+      "lat": 56.8418,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 46.98398,
+      "lat": 54.79338,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": 39.68996,
+      "lat": 50.366,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": 32.39595,
+      "lat": 60.62322,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": 28.74894,
+      "lat": 58.78395,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": 43.33697,
+      "lat": 60.62322,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": 46.98398,
+      "lat": 58.78395,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": 46.98398,
+      "lat": 52.63565,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": 43.33697,
+      "lat": 50.366,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": 36.04296,
+      "lat": 62.36328,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": 39.68996,
+      "lat": 62.36328,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": 28.74894,
+      "lat": 60.62322,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": 46.98398,
+      "lat": 60.62322,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": 32.39595,
+      "lat": 62.36328,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": 43.33697,
+      "lat": 62.36328,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": 50.63099,
+      "lat": 56.8418,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": 50.63099,
+      "lat": 54.79338,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": 50.63099,
+      "lat": 58.78395,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": 46.98398,
+      "lat": 50.366,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": 39.68996,
+      "lat": 47.98235,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": 46.98398,
+      "lat": 62.36328,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": 50.63099,
+      "lat": 52.63565,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": 36.04296,
+      "lat": 64.00795,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": 39.68996,
+      "lat": 64.00795,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": 50.63099,
+      "lat": 60.62322,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": 43.33697,
+      "lat": 47.98235,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": 32.39595,
+      "lat": 64.00795,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": 43.33697,
+      "lat": 64.00795,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": 21.45492,
+      "lat": 54.79338,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": 54.278,
+      "lat": 56.8418,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": 50.63099,
+      "lat": 62.36328,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": 54.278,
+      "lat": 58.78395,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": 46.98398,
+      "lat": 64.00795,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": 54.278,
+      "lat": 54.79338,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": 46.98398,
+      "lat": 47.98235,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": 39.68996,
+      "lat": 65.56119,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": 54.278,
+      "lat": 60.62322,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": 32.39595,
+      "lat": 65.56119,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": 43.33697,
+      "lat": 65.56119,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": 54.278,
+      "lat": 52.63565,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": 39.68996,
+      "lat": 45.48334,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": 50.63099,
+      "lat": 64.00795,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": 54.278,
+      "lat": 62.36328,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": 46.98398,
+      "lat": 65.56119,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": 43.33697,
+      "lat": 45.48334,
+      "cityDistanceRank": 63
+    },
+    {
+      "lon": 57.925,
+      "lat": 56.8418,
+      "cityDistanceRank": 64
+    },
+    {
+      "lon": 36.04296,
+      "lat": 67.02698,
+      "cityDistanceRank": 65
+    },
+    {
+      "lon": 39.68996,
+      "lat": 67.02698,
+      "cityDistanceRank": 66
+    },
+    {
+      "lon": 57.925,
+      "lat": 58.78395,
+      "cityDistanceRank": 67
+    },
+    {
+      "lon": 32.39595,
+      "lat": 67.02698,
+      "cityDistanceRank": 68
+    },
+    {
+      "lon": 57.925,
+      "lat": 54.79338,
+      "cityDistanceRank": 69
+    },
+    {
+      "lon": 50.63099,
+      "lat": 65.56119,
+      "cityDistanceRank": 70
+    },
+    {
+      "lon": 54.278,
+      "lat": 64.00795,
+      "cityDistanceRank": 71
+    },
+    {
+      "lon": 57.925,
+      "lat": 60.62322,
+      "cityDistanceRank": 72
+    },
+    {
+      "lon": 46.98398,
+      "lat": 45.48334,
+      "cityDistanceRank": 73
+    },
+    {
+      "lon": 46.98398,
+      "lat": 67.02698,
+      "cityDistanceRank": 74
+    },
+    {
+      "lon": 57.925,
+      "lat": 52.63565,
+      "cityDistanceRank": 75
+    },
+    {
+      "lon": 57.925,
+      "lat": 62.36328,
+      "cityDistanceRank": 76
+    },
+    {
+      "lon": 36.04296,
+      "lat": 68.40936,
+      "cityDistanceRank": 77
+    },
+    {
+      "lon": 54.278,
+      "lat": 65.56119,
+      "cityDistanceRank": 78
+    },
+    {
+      "lon": 50.63099,
+      "lat": 67.02698,
+      "cityDistanceRank": 79
+    },
+    {
+      "lon": 32.39595,
+      "lat": 68.40936,
+      "cityDistanceRank": 80
+    },
+    {
+      "lon": 57.925,
+      "lat": 64.00795,
+      "cityDistanceRank": 81
+    },
+    {
+      "lon": 61.57201,
+      "lat": 58.78395,
+      "cityDistanceRank": 82
+    },
+    {
+      "lon": 61.57201,
+      "lat": 56.8418,
+      "cityDistanceRank": 83
+    },
+    {
+      "lon": 28.74894,
+      "lat": 68.40936,
+      "cityDistanceRank": 84
+    },
+    {
+      "lon": 61.57201,
+      "lat": 60.62322,
+      "cityDistanceRank": 85
+    },
+    {
+      "lon": 61.57201,
+      "lat": 54.79338,
+      "cityDistanceRank": 86
+    },
+    {
+      "lon": 54.278,
+      "lat": 67.02698,
+      "cityDistanceRank": 87
+    },
+    {
+      "lon": 57.925,
+      "lat": 65.56119,
+      "cityDistanceRank": 88
+    },
+    {
+      "lon": 61.57201,
+      "lat": 62.36328,
+      "cityDistanceRank": 89
+    },
+    {
+      "lon": 50.63099,
+      "lat": 68.40936,
+      "cityDistanceRank": 90
+    },
+    {
+      "lon": 32.39595,
+      "lat": 69.7123,
+      "cityDistanceRank": 91
+    },
+    {
+      "lon": 46.98398,
+      "lat": 42.86834,
+      "cityDistanceRank": 92
+    },
+    {
+      "lon": 61.57201,
+      "lat": 64.00795,
+      "cityDistanceRank": 93
+    },
+    {
+      "lon": 57.925,
+      "lat": 67.02698,
+      "cityDistanceRank": 94
+    },
+    {
+      "lon": 54.278,
+      "lat": 68.40936,
+      "cityDistanceRank": 95
+    },
+    {
+      "lon": 65.21902,
+      "lat": 58.78395,
+      "cityDistanceRank": 96
+    },
+    {
+      "lon": 61.57201,
+      "lat": 65.56119,
+      "cityDistanceRank": 97
+    },
+    {
+      "lon": 65.21902,
+      "lat": 60.62322,
+      "cityDistanceRank": 98
+    },
+    {
+      "lon": 65.21902,
+      "lat": 56.8418,
+      "cityDistanceRank": 99
+    },
+    {
+      "lon": 65.21902,
+      "lat": 62.36328,
+      "cityDistanceRank": 100
+    },
+    {
+      "lon": 65.21902,
+      "lat": 54.79338,
+      "cityDistanceRank": 101
+    },
+    {
+      "lon": 57.925,
+      "lat": 68.40936,
+      "cityDistanceRank": 102
+    },
+    {
+      "lon": 61.57201,
+      "lat": 67.02698,
+      "cityDistanceRank": 103
+    },
+    {
+      "lon": 65.21902,
+      "lat": 64.00795,
+      "cityDistanceRank": 104
+    },
+    {
+      "lon": 65.21902,
+      "lat": 65.56119,
+      "cityDistanceRank": 105
+    },
+    {
+      "lon": 61.57201,
+      "lat": 68.40936,
+      "cityDistanceRank": 106
+    },
+    {
+      "lon": 54.278,
+      "lat": 70.93974,
+      "cityDistanceRank": 107
+    },
+    {
+      "lon": 68.86603,
+      "lat": 60.62322,
+      "cityDistanceRank": 108
+    },
+    {
+      "lon": 68.86603,
+      "lat": 58.78395,
+      "cityDistanceRank": 109
+    },
+    {
+      "lon": 65.21902,
+      "lat": 67.02698,
+      "cityDistanceRank": 110
+    },
+    {
+      "lon": 68.86603,
+      "lat": 62.36328,
+      "cityDistanceRank": 111
+    },
+    {
+      "lon": 68.86603,
+      "lat": 56.8418,
+      "cityDistanceRank": 112
+    },
+    {
+      "lon": 68.86603,
+      "lat": 64.00795,
+      "cityDistanceRank": 113
+    },
+    {
+      "lon": 61.57201,
+      "lat": 69.7123,
+      "cityDistanceRank": 114
+    },
+    {
+      "lon": 54.278,
+      "lat": 72.09552,
+      "cityDistanceRank": 115
+    },
+    {
+      "lon": 65.21902,
+      "lat": 68.40936,
+      "cityDistanceRank": 116
+    },
+    {
+      "lon": 68.86603,
+      "lat": 65.56119,
+      "cityDistanceRank": 117
+    },
+    {
+      "lon": 68.86603,
+      "lat": 67.02698,
+      "cityDistanceRank": 118
+    },
+    {
+      "lon": 54.278,
+      "lat": 73.18338,
+      "cityDistanceRank": 119
+    },
+    {
+      "lon": 72.51304,
+      "lat": 60.62322,
+      "cityDistanceRank": 120
+    },
+    {
+      "lon": 72.51304,
+      "lat": 62.36328,
+      "cityDistanceRank": 121
+    },
+    {
+      "lon": 72.51304,
+      "lat": 58.78395,
+      "cityDistanceRank": 122
+    },
+    {
+      "lon": 68.86603,
+      "lat": 68.40936,
+      "cityDistanceRank": 123
+    },
+    {
+      "lon": 72.51304,
+      "lat": 64.00795,
+      "cityDistanceRank": 124
+    },
+    {
+      "lon": 72.51304,
+      "lat": 56.8418,
+      "cityDistanceRank": 125
+    },
+    {
+      "lon": 72.51304,
+      "lat": 65.56119,
+      "cityDistanceRank": 126
+    },
+    {
+      "lon": 68.86603,
+      "lat": 69.7123,
+      "cityDistanceRank": 127
+    },
+    {
+      "lon": 54.278,
+      "lat": 74.20693,
+      "cityDistanceRank": 128
+    },
+    {
+      "lon": 72.51304,
+      "lat": 54.79338,
+      "cityDistanceRank": 129
+    },
+    {
+      "lon": 57.925,
+      "lat": 74.20693,
+      "cityDistanceRank": 130
+    },
+    {
+      "lon": 72.51304,
+      "lat": 68.40936,
+      "cityDistanceRank": 131
+    },
+    {
+      "lon": 68.86603,
+      "lat": 70.93974,
+      "cityDistanceRank": 132
+    },
+    {
+      "lon": 76.16004,
+      "lat": 62.36328,
+      "cityDistanceRank": 133
+    },
+    {
+      "lon": 76.16004,
+      "lat": 60.62322,
+      "cityDistanceRank": 134
+    },
+    {
+      "lon": 76.16004,
+      "lat": 64.00795,
+      "cityDistanceRank": 135
+    },
+    {
+      "lon": 76.16004,
+      "lat": 58.78395,
+      "cityDistanceRank": 136
+    },
+    {
+      "lon": 76.16004,
+      "lat": 65.56119,
+      "cityDistanceRank": 137
+    },
+    {
+      "lon": 68.86603,
+      "lat": 72.09552,
+      "cityDistanceRank": 138
+    },
+    {
+      "lon": 57.925,
+      "lat": 75.16969,
+      "cityDistanceRank": 139
+    },
+    {
+      "lon": 76.16004,
+      "lat": 67.02698,
+      "cityDistanceRank": 140
+    },
+    {
+      "lon": 76.16004,
+      "lat": 56.8418,
+      "cityDistanceRank": 141
+    },
+    {
+      "lon": 72.51304,
+      "lat": 70.93974,
+      "cityDistanceRank": 142
+    },
+    {
+      "lon": 76.16004,
+      "lat": 68.40936,
+      "cityDistanceRank": 143
+    },
+    {
+      "lon": 76.16004,
+      "lat": 54.79338,
+      "cityDistanceRank": 144
+    },
+    {
+      "lon": 76.16004,
+      "lat": 69.7123,
+      "cityDistanceRank": 145
+    },
+    {
+      "lon": 61.57201,
+      "lat": 76.07499,
+      "cityDistanceRank": 146
+    },
+    {
+      "lon": 79.80705,
+      "lat": 64.00795,
+      "cityDistanceRank": 147
+    },
+    {
+      "lon": 79.80705,
+      "lat": 62.36328,
+      "cityDistanceRank": 148
+    },
+    {
+      "lon": 79.80705,
+      "lat": 65.56119,
+      "cityDistanceRank": 149
+    },
+    {
+      "lon": 76.16004,
+      "lat": 70.93974,
+      "cityDistanceRank": 150
+    },
+    {
+      "lon": 79.80705,
+      "lat": 60.62322,
+      "cityDistanceRank": 151
+    },
+    {
+      "lon": 79.80705,
+      "lat": 67.02698,
+      "cityDistanceRank": 152
+    },
+    {
+      "lon": 79.80705,
+      "lat": 58.78395,
+      "cityDistanceRank": 153
+    },
+    {
+      "lon": 65.21902,
+      "lat": 76.07499,
+      "cityDistanceRank": 154
+    },
+    {
+      "lon": 79.80705,
+      "lat": 68.40936,
+      "cityDistanceRank": 155
+    },
+    {
+      "lon": 76.16004,
+      "lat": 72.09552,
+      "cityDistanceRank": 156
+    },
+    {
+      "lon": 79.80705,
+      "lat": 56.8418,
+      "cityDistanceRank": 157
+    },
+    {
+      "lon": 79.80705,
+      "lat": 69.7123,
+      "cityDistanceRank": 158
+    },
+    {
+      "lon": 79.80705,
+      "lat": 70.93974,
+      "cityDistanceRank": 159
+    },
+    {
+      "lon": 79.80705,
+      "lat": 54.79338,
+      "cityDistanceRank": 160
+    },
+    {
+      "lon": 83.45406,
+      "lat": 64.00795,
+      "cityDistanceRank": 161
+    },
+    {
+      "lon": 79.80705,
+      "lat": 72.09552,
+      "cityDistanceRank": 162
+    },
+    {
+      "lon": 83.45406,
+      "lat": 65.56119,
+      "cityDistanceRank": 163
+    },
+    {
+      "lon": 83.45406,
+      "lat": 62.36328,
+      "cityDistanceRank": 164
+    },
+    {
+      "lon": 83.45406,
+      "lat": 67.02698,
+      "cityDistanceRank": 165
+    },
+    {
+      "lon": 83.45406,
+      "lat": 68.40936,
+      "cityDistanceRank": 166
+    },
+    {
+      "lon": 83.45406,
+      "lat": 60.62322,
+      "cityDistanceRank": 167
+    },
+    {
+      "lon": 83.45406,
+      "lat": 69.7123,
+      "cityDistanceRank": 168
+    },
+    {
+      "lon": 83.45406,
+      "lat": 58.78395,
+      "cityDistanceRank": 169
+    },
+    {
+      "lon": 79.80705,
+      "lat": 52.63565,
+      "cityDistanceRank": 170
+    },
+    {
+      "lon": 83.45406,
+      "lat": 70.93974,
+      "cityDistanceRank": 171
+    },
+    {
+      "lon": 83.45406,
+      "lat": 72.09552,
+      "cityDistanceRank": 172
+    },
+    {
+      "lon": 83.45406,
+      "lat": 56.8418,
+      "cityDistanceRank": 173
+    },
+    {
+      "lon": 83.45406,
+      "lat": 73.18338,
+      "cityDistanceRank": 174
+    },
+    {
+      "lon": 87.10107,
+      "lat": 65.56119,
+      "cityDistanceRank": 175
+    },
+    {
+      "lon": 87.10107,
+      "lat": 67.02698,
+      "cityDistanceRank": 176
+    },
+    {
+      "lon": 87.10107,
+      "lat": 64.00795,
+      "cityDistanceRank": 177
+    },
+    {
+      "lon": 87.10107,
+      "lat": 68.40936,
+      "cityDistanceRank": 178
+    },
+    {
+      "lon": 87.10107,
+      "lat": 69.7123,
+      "cityDistanceRank": 179
+    },
+    {
+      "lon": 87.10107,
+      "lat": 62.36328,
+      "cityDistanceRank": 180
+    },
+    {
+      "lon": 83.45406,
+      "lat": 54.79338,
+      "cityDistanceRank": 181
+    },
+    {
+      "lon": 87.10107,
+      "lat": 70.93974,
+      "cityDistanceRank": 182
+    },
+    {
+      "lon": 54.278,
+      "lat": 81.05561,
+      "cityDistanceRank": 183
+    },
+    {
+      "lon": 87.10107,
+      "lat": 60.62322,
+      "cityDistanceRank": 184
+    },
+    {
+      "lon": 87.10107,
+      "lat": 72.09552,
+      "cityDistanceRank": 185
+    },
+    {
+      "lon": 87.10107,
+      "lat": 73.18338,
+      "cityDistanceRank": 186
+    },
+    {
+      "lon": 87.10107,
+      "lat": 58.78395,
+      "cityDistanceRank": 187
+    },
+    {
+      "lon": 83.45406,
+      "lat": 52.63565,
+      "cityDistanceRank": 188
+    },
+    {
+      "lon": 87.10107,
+      "lat": 74.20693,
+      "cityDistanceRank": 189
+    },
+    {
+      "lon": 90.74808,
+      "lat": 68.40936,
+      "cityDistanceRank": 190
+    },
+    {
+      "lon": 90.74808,
+      "lat": 67.02698,
+      "cityDistanceRank": 191
+    },
+    {
+      "lon": 87.10107,
+      "lat": 75.16969,
+      "cityDistanceRank": 192
+    },
+    {
+      "lon": 90.74808,
+      "lat": 69.7123,
+      "cityDistanceRank": 193
+    },
+    {
+      "lon": 90.74808,
+      "lat": 65.56119,
+      "cityDistanceRank": 194
+    },
+    {
+      "lon": 87.10107,
+      "lat": 56.8418,
+      "cityDistanceRank": 195
+    },
+    {
+      "lon": 90.74808,
+      "lat": 70.93974,
+      "cityDistanceRank": 196
+    },
+    {
+      "lon": 90.74808,
+      "lat": 64.00795,
+      "cityDistanceRank": 197
+    },
+    {
+      "lon": 90.74808,
+      "lat": 72.09552,
+      "cityDistanceRank": 198
+    },
+    {
+      "lon": 90.74808,
+      "lat": 73.18338,
+      "cityDistanceRank": 199
+    },
+    {
+      "lon": 90.74808,
+      "lat": 62.36328,
+      "cityDistanceRank": 200
+    },
+    {
+      "lon": 90.74808,
+      "lat": 74.20693,
+      "cityDistanceRank": 201
+    },
+    {
+      "lon": 87.10107,
+      "lat": 54.79338,
+      "cityDistanceRank": 202
+    },
+    {
+      "lon": 90.74808,
+      "lat": 60.62322,
+      "cityDistanceRank": 203
+    },
+    {
+      "lon": 90.74808,
+      "lat": 75.16969,
+      "cityDistanceRank": 204
+    },
+    {
+      "lon": 94.39508,
+      "lat": 69.7123,
+      "cityDistanceRank": 205
+    },
+    {
+      "lon": 94.39508,
+      "lat": 68.40936,
+      "cityDistanceRank": 206
+    },
+    {
+      "lon": 94.39508,
+      "lat": 70.93974,
+      "cityDistanceRank": 207
+    },
+    {
+      "lon": 90.74808,
+      "lat": 58.78395,
+      "cityDistanceRank": 208
+    },
+    {
+      "lon": 94.39508,
+      "lat": 67.02698,
+      "cityDistanceRank": 209
+    },
+    {
+      "lon": 94.39508,
+      "lat": 72.09552,
+      "cityDistanceRank": 210
+    },
+    {
+      "lon": 94.39508,
+      "lat": 73.18338,
+      "cityDistanceRank": 211
+    },
+    {
+      "lon": 94.39508,
+      "lat": 65.56119,
+      "cityDistanceRank": 212
+    },
+    {
+      "lon": 94.39508,
+      "lat": 74.20693,
+      "cityDistanceRank": 213
+    },
+    {
+      "lon": 87.10107,
+      "lat": 52.63565,
+      "cityDistanceRank": 214
+    },
+    {
+      "lon": 94.39508,
+      "lat": 64.00795,
+      "cityDistanceRank": 215
+    },
+    {
+      "lon": 94.39508,
+      "lat": 75.16969,
+      "cityDistanceRank": 216
+    },
+    {
+      "lon": 90.74808,
+      "lat": 56.8418,
+      "cityDistanceRank": 217
+    },
+    {
+      "lon": 94.39508,
+      "lat": 76.07499,
+      "cityDistanceRank": 218
+    },
+    {
+      "lon": 94.39508,
+      "lat": 62.36328,
+      "cityDistanceRank": 219
+    },
+    {
+      "lon": 98.04209,
+      "lat": 70.93974,
+      "cityDistanceRank": 220
+    },
+    {
+      "lon": 98.04209,
+      "lat": 72.09552,
+      "cityDistanceRank": 221
+    },
+    {
+      "lon": 98.04209,
+      "lat": 69.7123,
+      "cityDistanceRank": 222
+    },
+    {
+      "lon": 98.04209,
+      "lat": 73.18338,
+      "cityDistanceRank": 223
+    },
+    {
+      "lon": 94.39508,
+      "lat": 60.62322,
+      "cityDistanceRank": 224
+    },
+    {
+      "lon": 98.04209,
+      "lat": 74.20693,
+      "cityDistanceRank": 225
+    },
+    {
+      "lon": 98.04209,
+      "lat": 68.40936,
+      "cityDistanceRank": 226
+    },
+    {
+      "lon": 98.04209,
+      "lat": 75.16969,
+      "cityDistanceRank": 227
+    },
+    {
+      "lon": 90.74808,
+      "lat": 54.79338,
+      "cityDistanceRank": 228
+    },
+    {
+      "lon": 87.10107,
+      "lat": 50.366,
+      "cityDistanceRank": 229
+    },
+    {
+      "lon": 94.39508,
+      "lat": 79.18384,
+      "cityDistanceRank": 230
+    },
+    {
+      "lon": 98.04209,
+      "lat": 67.02698,
+      "cityDistanceRank": 231
+    },
+    {
+      "lon": 98.04209,
+      "lat": 76.07499,
+      "cityDistanceRank": 232
+    },
+    {
+      "lon": 94.39508,
+      "lat": 79.84726,
+      "cityDistanceRank": 233
+    },
+    {
+      "lon": 98.04209,
+      "lat": 65.56119,
+      "cityDistanceRank": 234
+    },
+    {
+      "lon": 94.39508,
+      "lat": 58.78395,
+      "cityDistanceRank": 235
+    },
+    {
+      "lon": 94.39508,
+      "lat": 80.47039,
+      "cityDistanceRank": 236
+    },
+    {
+      "lon": 98.04209,
+      "lat": 64.00795,
+      "cityDistanceRank": 237
+    },
+    {
+      "lon": 94.39508,
+      "lat": 81.05561,
+      "cityDistanceRank": 238
+    },
+    {
+      "lon": 98.04209,
+      "lat": 79.18384,
+      "cityDistanceRank": 239
+    },
+    {
+      "lon": 98.04209,
+      "lat": 79.84726,
+      "cityDistanceRank": 240
+    },
+    {
+      "lon": 101.6891,
+      "lat": 73.18338,
+      "cityDistanceRank": 241
+    },
+    {
+      "lon": 101.6891,
+      "lat": 74.20693,
+      "cityDistanceRank": 242
+    },
+    {
+      "lon": 101.6891,
+      "lat": 72.09552,
+      "cityDistanceRank": 243
+    },
+    {
+      "lon": 101.6891,
+      "lat": 75.16969,
+      "cityDistanceRank": 244
+    },
+    {
+      "lon": 90.74808,
+      "lat": 52.63565,
+      "cityDistanceRank": 245
+    },
+    {
+      "lon": 101.6891,
+      "lat": 70.93974,
+      "cityDistanceRank": 246
+    },
+    {
+      "lon": 101.6891,
+      "lat": 76.07499,
+      "cityDistanceRank": 247
+    },
+    {
+      "lon": 98.04209,
+      "lat": 62.36328,
+      "cityDistanceRank": 248
+    },
+    {
+      "lon": 101.6891,
+      "lat": 76.92605,
+      "cityDistanceRank": 249
+    },
+    {
+      "lon": 101.6891,
+      "lat": 69.7123,
+      "cityDistanceRank": 250
+    },
+    {
+      "lon": 94.39508,
+      "lat": 56.8418,
+      "cityDistanceRank": 251
+    },
+    {
+      "lon": 101.6891,
+      "lat": 68.40936,
+      "cityDistanceRank": 252
+    },
+    {
+      "lon": 101.6891,
+      "lat": 78.47762,
+      "cityDistanceRank": 253
+    },
+    {
+      "lon": 101.6891,
+      "lat": 79.18384,
+      "cityDistanceRank": 254
+    },
+    {
+      "lon": 101.6891,
+      "lat": 67.02698,
+      "cityDistanceRank": 255
+    },
+    {
+      "lon": 98.04209,
+      "lat": 60.62322,
+      "cityDistanceRank": 256
+    },
+    {
+      "lon": 101.6891,
+      "lat": 65.56119,
+      "cityDistanceRank": 257
+    },
+    {
+      "lon": 105.33611,
+      "lat": 75.16969,
+      "cityDistanceRank": 258
+    },
+    {
+      "lon": 105.33611,
+      "lat": 76.07499,
+      "cityDistanceRank": 259
+    },
+    {
+      "lon": 105.33611,
+      "lat": 74.20693,
+      "cityDistanceRank": 260
+    },
+    {
+      "lon": 105.33611,
+      "lat": 76.92605,
+      "cityDistanceRank": 261
+    },
+    {
+      "lon": 94.39508,
+      "lat": 54.79338,
+      "cityDistanceRank": 262
+    },
+    {
+      "lon": 105.33611,
+      "lat": 73.18338,
+      "cityDistanceRank": 263
+    },
+    {
+      "lon": 105.33611,
+      "lat": 72.09552,
+      "cityDistanceRank": 264
+    },
+    {
+      "lon": 105.33611,
+      "lat": 70.93974,
+      "cityDistanceRank": 265
+    },
+    {
+      "lon": 98.04209,
+      "lat": 58.78395,
+      "cityDistanceRank": 266
+    },
+    {
+      "lon": 101.6891,
+      "lat": 64.00795,
+      "cityDistanceRank": 267
+    },
+    {
+      "lon": 105.33611,
+      "lat": 69.7123,
+      "cityDistanceRank": 268
+    },
+    {
+      "lon": 105.33611,
+      "lat": 68.40936,
+      "cityDistanceRank": 269
+    },
+    {
+      "lon": 101.6891,
+      "lat": 62.36328,
+      "cityDistanceRank": 270
+    },
+    {
+      "lon": 108.98312,
+      "lat": 76.07499,
+      "cityDistanceRank": 271
+    },
+    {
+      "lon": 108.98312,
+      "lat": 75.16969,
+      "cityDistanceRank": 272
+    },
+    {
+      "lon": 108.98312,
+      "lat": 74.20693,
+      "cityDistanceRank": 273
+    },
+    {
+      "lon": 105.33611,
+      "lat": 67.02698,
+      "cityDistanceRank": 274
+    },
+    {
+      "lon": 94.39508,
+      "lat": 52.63565,
+      "cityDistanceRank": 275
+    },
+    {
+      "lon": 98.04209,
+      "lat": 56.8418,
+      "cityDistanceRank": 276
+    },
+    {
+      "lon": 108.98312,
+      "lat": 73.18338,
+      "cityDistanceRank": 277
+    },
+    {
+      "lon": 108.98312,
+      "lat": 72.09552,
+      "cityDistanceRank": 278
+    },
+    {
+      "lon": 101.6891,
+      "lat": 60.62322,
+      "cityDistanceRank": 279
+    },
+    {
+      "lon": 105.33611,
+      "lat": 65.56119,
+      "cityDistanceRank": 280
+    },
+    {
+      "lon": 108.98312,
+      "lat": 70.93974,
+      "cityDistanceRank": 281
+    },
+    {
+      "lon": 108.98312,
+      "lat": 69.7123,
+      "cityDistanceRank": 282
+    },
+    {
+      "lon": 112.63012,
+      "lat": 76.07499,
+      "cityDistanceRank": 283
+    },
+    {
+      "lon": 105.33611,
+      "lat": 64.00795,
+      "cityDistanceRank": 284
+    },
+    {
+      "lon": 112.63012,
+      "lat": 75.16969,
+      "cityDistanceRank": 285
+    },
+    {
+      "lon": 98.04209,
+      "lat": 54.79338,
+      "cityDistanceRank": 286
+    },
+    {
+      "lon": 112.63012,
+      "lat": 74.20693,
+      "cityDistanceRank": 287
+    },
+    {
+      "lon": 108.98312,
+      "lat": 68.40936,
+      "cityDistanceRank": 288
+    },
+    {
+      "lon": 101.6891,
+      "lat": 58.78395,
+      "cityDistanceRank": 289
+    },
+    {
+      "lon": 112.63012,
+      "lat": 73.18338,
+      "cityDistanceRank": 290
+    },
+    {
+      "lon": 94.39508,
+      "lat": 50.366,
+      "cityDistanceRank": 291
+    },
+    {
+      "lon": 112.63012,
+      "lat": 72.09552,
+      "cityDistanceRank": 292
+    },
+    {
+      "lon": 105.33611,
+      "lat": 62.36328,
+      "cityDistanceRank": 293
+    },
+    {
+      "lon": 108.98312,
+      "lat": 67.02698,
+      "cityDistanceRank": 294
+    },
+    {
+      "lon": 112.63012,
+      "lat": 70.93974,
+      "cityDistanceRank": 295
+    },
+    {
+      "lon": 108.98312,
+      "lat": 65.56119,
+      "cityDistanceRank": 296
+    },
+    {
+      "lon": 101.6891,
+      "lat": 56.8418,
+      "cityDistanceRank": 297
+    },
+    {
+      "lon": 112.63012,
+      "lat": 69.7123,
+      "cityDistanceRank": 298
+    },
+    {
+      "lon": 98.04209,
+      "lat": 52.63565,
+      "cityDistanceRank": 299
+    },
+    {
+      "lon": 105.33611,
+      "lat": 60.62322,
+      "cityDistanceRank": 300
+    },
+    {
+      "lon": 116.27713,
+      "lat": 73.18338,
+      "cityDistanceRank": 301
+    },
+    {
+      "lon": 112.63012,
+      "lat": 68.40936,
+      "cityDistanceRank": 302
+    },
+    {
+      "lon": 108.98312,
+      "lat": 64.00795,
+      "cityDistanceRank": 303
+    },
+    {
+      "lon": 116.27713,
+      "lat": 72.09552,
+      "cityDistanceRank": 304
+    },
+    {
+      "lon": 112.63012,
+      "lat": 67.02698,
+      "cityDistanceRank": 305
+    },
+    {
+      "lon": 105.33611,
+      "lat": 58.78395,
+      "cityDistanceRank": 306
+    },
+    {
+      "lon": 116.27713,
+      "lat": 70.93974,
+      "cityDistanceRank": 307
+    },
+    {
+      "lon": 101.6891,
+      "lat": 54.79338,
+      "cityDistanceRank": 308
+    },
+    {
+      "lon": 108.98312,
+      "lat": 62.36328,
+      "cityDistanceRank": 309
+    },
+    {
+      "lon": 98.04209,
+      "lat": 50.366,
+      "cityDistanceRank": 310
+    },
+    {
+      "lon": 116.27713,
+      "lat": 69.7123,
+      "cityDistanceRank": 311
+    },
+    {
+      "lon": 112.63012,
+      "lat": 65.56119,
+      "cityDistanceRank": 312
+    },
+    {
+      "lon": 119.92414,
+      "lat": 72.09552,
+      "cityDistanceRank": 313
+    },
+    {
+      "lon": 116.27713,
+      "lat": 68.40936,
+      "cityDistanceRank": 314
+    },
+    {
+      "lon": 105.33611,
+      "lat": 56.8418,
+      "cityDistanceRank": 315
+    },
+    {
+      "lon": 108.98312,
+      "lat": 60.62322,
+      "cityDistanceRank": 316
+    },
+    {
+      "lon": 112.63012,
+      "lat": 64.00795,
+      "cityDistanceRank": 317
+    },
+    {
+      "lon": 101.6891,
+      "lat": 52.63565,
+      "cityDistanceRank": 318
+    },
+    {
+      "lon": 119.92414,
+      "lat": 70.93974,
+      "cityDistanceRank": 319
+    },
+    {
+      "lon": 116.27713,
+      "lat": 67.02698,
+      "cityDistanceRank": 320
+    },
+    {
+      "lon": 123.57115,
+      "lat": 73.18338,
+      "cityDistanceRank": 321
+    },
+    {
+      "lon": 119.92414,
+      "lat": 69.7123,
+      "cityDistanceRank": 322
+    },
+    {
+      "lon": 108.98312,
+      "lat": 58.78395,
+      "cityDistanceRank": 323
+    },
+    {
+      "lon": 112.63012,
+      "lat": 62.36328,
+      "cityDistanceRank": 324
+    },
+    {
+      "lon": 123.57115,
+      "lat": 72.09552,
+      "cityDistanceRank": 325
+    },
+    {
+      "lon": 105.33611,
+      "lat": 54.79338,
+      "cityDistanceRank": 326
+    },
+    {
+      "lon": 116.27713,
+      "lat": 65.56119,
+      "cityDistanceRank": 327
+    },
+    {
+      "lon": 119.92414,
+      "lat": 68.40936,
+      "cityDistanceRank": 328
+    },
+    {
+      "lon": 123.57115,
+      "lat": 70.93974,
+      "cityDistanceRank": 329
+    },
+    {
+      "lon": 127.21816,
+      "lat": 73.18338,
+      "cityDistanceRank": 330
+    },
+    {
+      "lon": 112.63012,
+      "lat": 60.62322,
+      "cityDistanceRank": 331
+    },
+    {
+      "lon": 116.27713,
+      "lat": 64.00795,
+      "cityDistanceRank": 332
+    },
+    {
+      "lon": 119.92414,
+      "lat": 67.02698,
+      "cityDistanceRank": 333
+    },
+    {
+      "lon": 108.98312,
+      "lat": 56.8418,
+      "cityDistanceRank": 334
+    },
+    {
+      "lon": 123.57115,
+      "lat": 69.7123,
+      "cityDistanceRank": 335
+    },
+    {
+      "lon": 127.21816,
+      "lat": 72.09552,
+      "cityDistanceRank": 336
+    },
+    {
+      "lon": 105.33611,
+      "lat": 52.63565,
+      "cityDistanceRank": 337
+    },
+    {
+      "lon": 119.92414,
+      "lat": 65.56119,
+      "cityDistanceRank": 338
+    },
+    {
+      "lon": 116.27713,
+      "lat": 62.36328,
+      "cityDistanceRank": 339
+    },
+    {
+      "lon": 123.57115,
+      "lat": 68.40936,
+      "cityDistanceRank": 340
+    },
+    {
+      "lon": 127.21816,
+      "lat": 70.93974,
+      "cityDistanceRank": 341
+    },
+    {
+      "lon": 112.63012,
+      "lat": 58.78395,
+      "cityDistanceRank": 342
+    },
+    {
+      "lon": 108.98312,
+      "lat": 54.79338,
+      "cityDistanceRank": 343
+    },
+    {
+      "lon": 138.15918,
+      "lat": 76.07499,
+      "cityDistanceRank": 344
+    },
+    {
+      "lon": 127.21816,
+      "lat": 69.7123,
+      "cityDistanceRank": 345
+    },
+    {
+      "lon": 123.57115,
+      "lat": 67.02698,
+      "cityDistanceRank": 346
+    },
+    {
+      "lon": 119.92414,
+      "lat": 64.00795,
+      "cityDistanceRank": 347
+    },
+    {
+      "lon": 116.27713,
+      "lat": 60.62322,
+      "cityDistanceRank": 348
+    },
+    {
+      "lon": 138.15918,
+      "lat": 75.16969,
+      "cityDistanceRank": 349
+    },
+    {
+      "lon": 112.63012,
+      "lat": 56.8418,
+      "cityDistanceRank": 350
+    },
+    {
+      "lon": 130.86516,
+      "lat": 70.93974,
+      "cityDistanceRank": 351
+    },
+    {
+      "lon": 127.21816,
+      "lat": 68.40936,
+      "cityDistanceRank": 352
+    },
+    {
+      "lon": 123.57115,
+      "lat": 65.56119,
+      "cityDistanceRank": 353
+    },
+    {
+      "lon": 119.92414,
+      "lat": 62.36328,
+      "cityDistanceRank": 354
+    },
+    {
+      "lon": 108.98312,
+      "lat": 52.63565,
+      "cityDistanceRank": 355
+    },
+    {
+      "lon": 116.27713,
+      "lat": 58.78395,
+      "cityDistanceRank": 356
+    },
+    {
+      "lon": 130.86516,
+      "lat": 69.7123,
+      "cityDistanceRank": 357
+    },
+    {
+      "lon": 141.80619,
+      "lat": 75.16969,
+      "cityDistanceRank": 358
+    },
+    {
+      "lon": 127.21816,
+      "lat": 67.02698,
+      "cityDistanceRank": 359
+    },
+    {
+      "lon": 123.57115,
+      "lat": 64.00795,
+      "cityDistanceRank": 360
+    },
+    {
+      "lon": 112.63012,
+      "lat": 54.79338,
+      "cityDistanceRank": 361
+    },
+    {
+      "lon": 134.51217,
+      "lat": 70.93974,
+      "cityDistanceRank": 362
+    },
+    {
+      "lon": 119.92414,
+      "lat": 60.62322,
+      "cityDistanceRank": 363
+    },
+    {
+      "lon": 130.86516,
+      "lat": 68.40936,
+      "cityDistanceRank": 364
+    },
+    {
+      "lon": 127.21816,
+      "lat": 65.56119,
+      "cityDistanceRank": 365
+    },
+    {
+      "lon": 116.27713,
+      "lat": 56.8418,
+      "cityDistanceRank": 366
+    },
+    {
+      "lon": 134.51217,
+      "lat": 69.7123,
+      "cityDistanceRank": 367
+    },
+    {
+      "lon": 108.98312,
+      "lat": 50.366,
+      "cityDistanceRank": 368
+    },
+    {
+      "lon": 123.57115,
+      "lat": 62.36328,
+      "cityDistanceRank": 369
+    },
+    {
+      "lon": 130.86516,
+      "lat": 67.02698,
+      "cityDistanceRank": 370
+    },
+    {
+      "lon": 138.15918,
+      "lat": 70.93974,
+      "cityDistanceRank": 371
+    },
+    {
+      "lon": 149.1002,
+      "lat": 75.16969,
+      "cityDistanceRank": 372
+    },
+    {
+      "lon": 119.92414,
+      "lat": 58.78395,
+      "cityDistanceRank": 373
+    },
+    {
+      "lon": 112.63012,
+      "lat": 52.63565,
+      "cityDistanceRank": 374
+    },
+    {
+      "lon": 127.21816,
+      "lat": 64.00795,
+      "cityDistanceRank": 375
+    },
+    {
+      "lon": 141.80619,
+      "lat": 72.09552,
+      "cityDistanceRank": 376
+    },
+    {
+      "lon": 134.51217,
+      "lat": 68.40936,
+      "cityDistanceRank": 377
+    },
+    {
+      "lon": 123.57115,
+      "lat": 60.62322,
+      "cityDistanceRank": 378
+    },
+    {
+      "lon": 138.15918,
+      "lat": 69.7123,
+      "cityDistanceRank": 379
+    },
+    {
+      "lon": 130.86516,
+      "lat": 65.56119,
+      "cityDistanceRank": 380
+    },
+    {
+      "lon": 116.27713,
+      "lat": 54.79338,
+      "cityDistanceRank": 381
+    },
+    {
+      "lon": 141.80619,
+      "lat": 70.93974,
+      "cityDistanceRank": 382
+    },
+    {
+      "lon": 134.51217,
+      "lat": 67.02698,
+      "cityDistanceRank": 383
+    },
+    {
+      "lon": 127.21816,
+      "lat": 62.36328,
+      "cityDistanceRank": 384
+    },
+    {
+      "lon": 145.4532,
+      "lat": 72.09552,
+      "cityDistanceRank": 385
+    },
+    {
+      "lon": 119.92414,
+      "lat": 56.8418,
+      "cityDistanceRank": 386
+    },
+    {
+      "lon": 138.15918,
+      "lat": 68.40936,
+      "cityDistanceRank": 387
+    },
+    {
+      "lon": 112.63012,
+      "lat": 50.366,
+      "cityDistanceRank": 388
+    },
+    {
+      "lon": 130.86516,
+      "lat": 64.00795,
+      "cityDistanceRank": 389
+    },
+    {
+      "lon": 123.57115,
+      "lat": 58.78395,
+      "cityDistanceRank": 390
+    },
+    {
+      "lon": 141.80619,
+      "lat": 69.7123,
+      "cityDistanceRank": 391
+    },
+    {
+      "lon": 145.4532,
+      "lat": 70.93974,
+      "cityDistanceRank": 392
+    },
+    {
+      "lon": 134.51217,
+      "lat": 65.56119,
+      "cityDistanceRank": 393
+    },
+    {
+      "lon": 116.27713,
+      "lat": 52.63565,
+      "cityDistanceRank": 394
+    },
+    {
+      "lon": 149.1002,
+      "lat": 72.09552,
+      "cityDistanceRank": 395
+    },
+    {
+      "lon": 127.21816,
+      "lat": 60.62322,
+      "cityDistanceRank": 396
+    },
+    {
+      "lon": 138.15918,
+      "lat": 67.02698,
+      "cityDistanceRank": 397
+    },
+    {
+      "lon": 119.92414,
+      "lat": 54.79338,
+      "cityDistanceRank": 398
+    },
+    {
+      "lon": 141.80619,
+      "lat": 68.40936,
+      "cityDistanceRank": 399
+    },
+    {
+      "lon": 130.86516,
+      "lat": 62.36328,
+      "cityDistanceRank": 400
+    },
+    {
+      "lon": 145.4532,
+      "lat": 69.7123,
+      "cityDistanceRank": 401
+    },
+    {
+      "lon": 149.1002,
+      "lat": 70.93974,
+      "cityDistanceRank": 402
+    },
+    {
+      "lon": 123.57115,
+      "lat": 56.8418,
+      "cityDistanceRank": 403
+    },
+    {
+      "lon": 134.51217,
+      "lat": 64.00795,
+      "cityDistanceRank": 404
+    },
+    {
+      "lon": 138.15918,
+      "lat": 65.56119,
+      "cityDistanceRank": 405
+    },
+    {
+      "lon": 127.21816,
+      "lat": 58.78395,
+      "cityDistanceRank": 406
+    },
+    {
+      "lon": 141.80619,
+      "lat": 67.02698,
+      "cityDistanceRank": 407
+    },
+    {
+      "lon": 116.27713,
+      "lat": 50.366,
+      "cityDistanceRank": 408
+    },
+    {
+      "lon": 145.4532,
+      "lat": 68.40936,
+      "cityDistanceRank": 409
+    },
+    {
+      "lon": 130.86516,
+      "lat": 60.62322,
+      "cityDistanceRank": 410
+    },
+    {
+      "lon": 149.1002,
+      "lat": 69.7123,
+      "cityDistanceRank": 411
+    },
+    {
+      "lon": 152.74721,
+      "lat": 70.93974,
+      "cityDistanceRank": 412
+    },
+    {
+      "lon": 119.92414,
+      "lat": 52.63565,
+      "cityDistanceRank": 413
+    },
+    {
+      "lon": 134.51217,
+      "lat": 62.36328,
+      "cityDistanceRank": 414
+    },
+    {
+      "lon": 123.57115,
+      "lat": 54.79338,
+      "cityDistanceRank": 415
+    },
+    {
+      "lon": 138.15918,
+      "lat": 64.00795,
+      "cityDistanceRank": 416
+    },
+    {
+      "lon": 141.80619,
+      "lat": 65.56119,
+      "cityDistanceRank": 417
+    },
+    {
+      "lon": 127.21816,
+      "lat": 56.8418,
+      "cityDistanceRank": 418
+    },
+    {
+      "lon": 145.4532,
+      "lat": 67.02698,
+      "cityDistanceRank": 419
+    },
+    {
+      "lon": 156.39422,
+      "lat": 70.93974,
+      "cityDistanceRank": 420
+    },
+    {
+      "lon": 149.1002,
+      "lat": 68.40936,
+      "cityDistanceRank": 421
+    },
+    {
+      "lon": 152.74721,
+      "lat": 69.7123,
+      "cityDistanceRank": 422
+    },
+    {
+      "lon": 130.86516,
+      "lat": 58.78395,
+      "cityDistanceRank": 423
+    },
+    {
+      "lon": 134.51217,
+      "lat": 60.62322,
+      "cityDistanceRank": 424
+    },
+    {
+      "lon": 138.15918,
+      "lat": 62.36328,
+      "cityDistanceRank": 425
+    },
+    {
+      "lon": 141.80619,
+      "lat": 64.00795,
+      "cityDistanceRank": 426
+    },
+    {
+      "lon": 156.39422,
+      "lat": 69.7123,
+      "cityDistanceRank": 427
+    },
+    {
+      "lon": 145.4532,
+      "lat": 65.56119,
+      "cityDistanceRank": 428
+    },
+    {
+      "lon": 152.74721,
+      "lat": 68.40936,
+      "cityDistanceRank": 429
+    },
+    {
+      "lon": 149.1002,
+      "lat": 67.02698,
+      "cityDistanceRank": 430
+    },
+    {
+      "lon": 127.21816,
+      "lat": 54.79338,
+      "cityDistanceRank": 431
+    },
+    {
+      "lon": 130.86516,
+      "lat": 56.8418,
+      "cityDistanceRank": 432
+    },
+    {
+      "lon": 134.51217,
+      "lat": 58.78395,
+      "cityDistanceRank": 433
+    },
+    {
+      "lon": 160.04123,
+      "lat": 69.7123,
+      "cityDistanceRank": 434
+    },
+    {
+      "lon": 138.15918,
+      "lat": 60.62322,
+      "cityDistanceRank": 435
+    },
+    {
+      "lon": 156.39422,
+      "lat": 68.40936,
+      "cityDistanceRank": 436
+    },
+    {
+      "lon": 141.80619,
+      "lat": 62.36328,
+      "cityDistanceRank": 437
+    },
+    {
+      "lon": 152.74721,
+      "lat": 67.02698,
+      "cityDistanceRank": 438
+    },
+    {
+      "lon": 145.4532,
+      "lat": 64.00795,
+      "cityDistanceRank": 439
+    },
+    {
+      "lon": 149.1002,
+      "lat": 65.56119,
+      "cityDistanceRank": 440
+    },
+    {
+      "lon": 163.68824,
+      "lat": 69.7123,
+      "cityDistanceRank": 441
+    },
+    {
+      "lon": 127.21816,
+      "lat": 52.63565,
+      "cityDistanceRank": 442
+    },
+    {
+      "lon": 160.04123,
+      "lat": 68.40936,
+      "cityDistanceRank": 443
+    },
+    {
+      "lon": 130.86516,
+      "lat": 54.79338,
+      "cityDistanceRank": 444
+    },
+    {
+      "lon": 156.39422,
+      "lat": 67.02698,
+      "cityDistanceRank": 445
+    },
+    {
+      "lon": 134.51217,
+      "lat": 56.8418,
+      "cityDistanceRank": 446
+    },
+    {
+      "lon": 152.74721,
+      "lat": 65.56119,
+      "cityDistanceRank": 447
+    },
+    {
+      "lon": 138.15918,
+      "lat": 58.78395,
+      "cityDistanceRank": 448
+    },
+    {
+      "lon": 149.1002,
+      "lat": 64.00795,
+      "cityDistanceRank": 449
+    },
+    {
+      "lon": 141.80619,
+      "lat": 60.62322,
+      "cityDistanceRank": 450
+    },
+    {
+      "lon": 145.4532,
+      "lat": 62.36328,
+      "cityDistanceRank": 451
+    },
+    {
+      "lon": 167.33524,
+      "lat": 69.7123,
+      "cityDistanceRank": 452
+    },
+    {
+      "lon": 163.68824,
+      "lat": 68.40936,
+      "cityDistanceRank": 453
+    },
+    {
+      "lon": 160.04123,
+      "lat": 67.02698,
+      "cityDistanceRank": 454
+    },
+    {
+      "lon": 156.39422,
+      "lat": 65.56119,
+      "cityDistanceRank": 455
+    },
+    {
+      "lon": 152.74721,
+      "lat": 64.00795,
+      "cityDistanceRank": 456
+    },
+    {
+      "lon": 130.86516,
+      "lat": 52.63565,
+      "cityDistanceRank": 457
+    },
+    {
+      "lon": 149.1002,
+      "lat": 62.36328,
+      "cityDistanceRank": 458
+    },
+    {
+      "lon": 134.51217,
+      "lat": 54.79338,
+      "cityDistanceRank": 459
+    },
+    {
+      "lon": 167.33524,
+      "lat": 68.40936,
+      "cityDistanceRank": 460
+    },
+    {
+      "lon": 145.4532,
+      "lat": 60.62322,
+      "cityDistanceRank": 461
+    },
+    {
+      "lon": 138.15918,
+      "lat": 56.8418,
+      "cityDistanceRank": 462
+    },
+    {
+      "lon": 173.57547,
+      "lat": 69.7123,
+      "cityDistanceRank": 463
+    },
+    {
+      "lon": 163.68824,
+      "lat": 67.02698,
+      "cityDistanceRank": 464
+    },
+    {
+      "lon": 169.92846,
+      "lat": 68.40936,
+      "cityDistanceRank": 465
+    },
+    {
+      "lon": 160.04123,
+      "lat": 65.56119,
+      "cityDistanceRank": 466
+    },
+    {
+      "lon": 177.22247,
+      "lat": 69.7123,
+      "cityDistanceRank": 467
+    },
+    {
+      "lon": 156.39422,
+      "lat": 64.00795,
+      "cityDistanceRank": 468
+    },
+    {
+      "lon": 152.74721,
+      "lat": 62.36328,
+      "cityDistanceRank": 469
+    },
+    {
+      "lon": 167.33524,
+      "lat": 67.02698,
+      "cityDistanceRank": 470
+    },
+    {
+      "lon": 173.57547,
+      "lat": 68.40936,
+      "cityDistanceRank": 471
+    },
+    {
+      "lon": 149.1002,
+      "lat": 60.62322,
+      "cityDistanceRank": 472
+    },
+    {
+      "lon": 130.86516,
+      "lat": 50.366,
+      "cityDistanceRank": 473
+    },
+    {
+      "lon": 134.51217,
+      "lat": 52.63565,
+      "cityDistanceRank": 474
+    },
+    {
+      "lon": 163.68824,
+      "lat": 65.56119,
+      "cityDistanceRank": 475
+    },
+    {
+      "lon": 169.92846,
+      "lat": 67.02698,
+      "cityDistanceRank": 476
+    },
+    {
+      "lon": 177.22247,
+      "lat": 68.40936,
+      "cityDistanceRank": 477
+    },
+    {
+      "lon": 160.04123,
+      "lat": 64.00795,
+      "cityDistanceRank": 478
+    },
+    {
+      "lon": 156.39422,
+      "lat": 62.36328,
+      "cityDistanceRank": 479
+    },
+    {
+      "lon": 167.33524,
+      "lat": 65.56119,
+      "cityDistanceRank": 480
+    },
+    {
+      "lon": 173.57547,
+      "lat": 67.02698,
+      "cityDistanceRank": 481
+    },
+    {
+      "lon": 152.74721,
+      "lat": 60.62322,
+      "cityDistanceRank": 482
+    },
+    {
+      "lon": -179.13052,
+      "lat": 68.40936,
+      "cityDistanceRank": 483
+    },
+    {
+      "lon": 163.68824,
+      "lat": 64.00795,
+      "cityDistanceRank": 484
+    },
+    {
+      "lon": 169.92846,
+      "lat": 65.56119,
+      "cityDistanceRank": 485
+    },
+    {
+      "lon": 138.15918,
+      "lat": 52.63565,
+      "cityDistanceRank": 486
+    },
+    {
+      "lon": 177.22247,
+      "lat": 67.02698,
+      "cityDistanceRank": 487
+    },
+    {
+      "lon": 134.51217,
+      "lat": 50.366,
+      "cityDistanceRank": 488
+    },
+    {
+      "lon": 130.86516,
+      "lat": 47.98235,
+      "cityDistanceRank": 489
+    },
+    {
+      "lon": 160.04123,
+      "lat": 62.36328,
+      "cityDistanceRank": 490
+    },
+    {
+      "lon": 167.33524,
+      "lat": 64.00795,
+      "cityDistanceRank": 491
+    },
+    {
+      "lon": 173.57547,
+      "lat": 65.56119,
+      "cityDistanceRank": 492
+    },
+    {
+      "lon": -179.13052,
+      "lat": 67.02698,
+      "cityDistanceRank": 493
+    },
+    {
+      "lon": 163.68824,
+      "lat": 62.36328,
+      "cityDistanceRank": 494
+    },
+    {
+      "lon": -175.48351,
+      "lat": 67.02698,
+      "cityDistanceRank": 495
+    },
+    {
+      "lon": 169.92846,
+      "lat": 64.00795,
+      "cityDistanceRank": 496
+    },
+    {
+      "lon": 177.22247,
+      "lat": 65.56119,
+      "cityDistanceRank": 497
+    },
+    {
+      "lon": 141.80619,
+      "lat": 52.63565,
+      "cityDistanceRank": 498
+    },
+    {
+      "lon": 138.15918,
+      "lat": 50.366,
+      "cityDistanceRank": 499
+    },
+    {
+      "lon": -171.8365,
+      "lat": 67.02698,
+      "cityDistanceRank": 500
+    },
+    {
+      "lon": 134.51217,
+      "lat": 47.98235,
+      "cityDistanceRank": 501
+    },
+    {
+      "lon": 173.57547,
+      "lat": 64.00795,
+      "cityDistanceRank": 502
+    },
+    {
+      "lon": 167.33524,
+      "lat": 62.36328,
+      "cityDistanceRank": 503
+    },
+    {
+      "lon": 163.68824,
+      "lat": 60.62322,
+      "cityDistanceRank": 504
+    },
+    {
+      "lon": -175.48351,
+      "lat": 65.56119,
+      "cityDistanceRank": 505
+    },
+    {
+      "lon": 169.92846,
+      "lat": 62.36328,
+      "cityDistanceRank": 506
+    },
+    {
+      "lon": 177.22247,
+      "lat": 64.00795,
+      "cityDistanceRank": 507
+    },
+    {
+      "lon": 160.04123,
+      "lat": 58.78395,
+      "cityDistanceRank": 508
+    },
+    {
+      "lon": -171.8365,
+      "lat": 65.56119,
+      "cityDistanceRank": 509
+    },
+    {
+      "lon": 141.80619,
+      "lat": 50.366,
+      "cityDistanceRank": 510
+    },
+    {
+      "lon": 138.15918,
+      "lat": 47.98235,
+      "cityDistanceRank": 511
+    },
+    {
+      "lon": 173.57547,
+      "lat": 62.36328,
+      "cityDistanceRank": 512
+    },
+    {
+      "lon": 167.33524,
+      "lat": 60.62322,
+      "cityDistanceRank": 513
+    },
+    {
+      "lon": 156.39422,
+      "lat": 56.8418,
+      "cityDistanceRank": 514
+    },
+    {
+      "lon": 134.51217,
+      "lat": 45.48334,
+      "cityDistanceRank": 515
+    },
+    {
+      "lon": 130.86516,
+      "lat": 42.86834,
+      "cityDistanceRank": 516
+    },
+    {
+      "lon": 163.68824,
+      "lat": 58.78395,
+      "cityDistanceRank": 517
+    },
+    {
+      "lon": 169.92846,
+      "lat": 60.62322,
+      "cityDistanceRank": 518
+    },
+    {
+      "lon": 160.04123,
+      "lat": 56.8418,
+      "cityDistanceRank": 519
+    },
+    {
+      "lon": 141.80619,
+      "lat": 47.98235,
+      "cityDistanceRank": 520
+    },
+    {
+      "lon": 156.39422,
+      "lat": 54.79338,
+      "cityDistanceRank": 521
+    },
+    {
+      "lon": 160.04123,
+      "lat": 54.79338,
+      "cityDistanceRank": 522
+    },
+    {
+      "lon": 156.39422,
+      "lat": 52.63565,
+      "cityDistanceRank": 523
+    }
+  ],
+  "SJ": [
+    {
+      "lon": 10.5139,
+      "lat": 79.84726,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 79.84726,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 25.10193,
+      "lat": 79.84726,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": 79.18384,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 17.80792,
+      "lat": 79.18384,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 14.16091,
+      "lat": 78.47762,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 17.80792,
+      "lat": 78.47762,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 21.45492,
+      "lat": 78.47762,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 17.80792,
+      "lat": 77.72595,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 21.45492,
+      "lat": 77.72595,
+      "cityDistanceRank": 9
+    }
+  ],
+  "US": [
+    {
+      "lon": -84.30831,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -84.30831,
+      "lat": 42.86834,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -87.95532,
+      "lat": 42.86834,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -106.19036,
+      "lat": 40.13769,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -117.13138,
+      "lat": 34.33597,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -120.77839,
+      "lat": 47.98235,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -77.01429,
+      "lat": 40.13769,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -124.4254,
+      "lat": 45.48334,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -91.60233,
+      "lat": 45.48334,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -120.77839,
+      "lat": 45.48334,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -113.48437,
+      "lat": 34.33597,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -120.77839,
+      "lat": 37.29272,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -124.4254,
+      "lat": 47.98235,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -95.24933,
+      "lat": 45.48334,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -95.24933,
+      "lat": 31.27121,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -80.6613,
+      "lat": 40.13769,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -80.6613,
+      "lat": 28.10357,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": -77.01429,
+      "lat": 37.29272,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": -87.95532,
+      "lat": 40.13769,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": -73.36729,
+      "lat": 42.86834,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": -102.54335,
+      "lat": 40.13769,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": -95.24933,
+      "lat": 34.33597,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": -109.83737,
+      "lat": 34.33597,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": -98.89634,
+      "lat": 34.33597,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": -98.89634,
+      "lat": 31.27121,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": -84.30831,
+      "lat": 40.13769,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": -91.60233,
+      "lat": 42.86834,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": -84.30831,
+      "lat": 31.27121,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": -95.24933,
+      "lat": 42.86834,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": -106.19036,
+      "lat": 37.29272,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": -120.77839,
+      "lat": 40.13769,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": -124.4254,
+      "lat": 40.13769,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": -124.4254,
+      "lat": 42.86834,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": -87.95532,
+      "lat": 34.33597,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": -120.77839,
+      "lat": 42.86834,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": -102.54335,
+      "lat": 37.29272,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": -77.01429,
+      "lat": 42.86834,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": -80.6613,
+      "lat": 34.33597,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": -84.30831,
+      "lat": 45.48334,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": -91.60233,
+      "lat": 47.98235,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": -106.19036,
+      "lat": 42.86834,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": -80.6613,
+      "lat": 37.29272,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": -95.24933,
+      "lat": 47.98235,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": -69.72028,
+      "lat": 45.48334,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": -117.13138,
+      "lat": 37.29272,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": -91.60233,
+      "lat": 40.13769,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": -98.89634,
+      "lat": 28.10357,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": -117.13138,
+      "lat": 47.98235,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": -84.30831,
+      "lat": 37.29272,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": -102.54335,
+      "lat": 42.86834,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": -91.60233,
+      "lat": 31.27121,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": -87.95532,
+      "lat": 45.48334,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": -109.83737,
+      "lat": 40.13769,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": -117.13138,
+      "lat": 45.48334,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": -87.95532,
+      "lat": 31.27121,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": -113.48437,
+      "lat": 37.29272,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": -98.89634,
+      "lat": 45.48334,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": -109.83737,
+      "lat": 37.29272,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": -87.95532,
+      "lat": 37.29272,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": -98.89634,
+      "lat": 42.86834,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": -91.60233,
+      "lat": 34.33597,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": -98.89634,
+      "lat": 40.13769,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": -95.24933,
+      "lat": 37.29272,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": -87.95532,
+      "lat": 47.98235,
+      "cityDistanceRank": 63
+    },
+    {
+      "lon": -117.13138,
+      "lat": 40.13769,
+      "cityDistanceRank": 64
+    },
+    {
+      "lon": -117.13138,
+      "lat": 42.86834,
+      "cityDistanceRank": 65
+    },
+    {
+      "lon": -98.89634,
+      "lat": 37.29272,
+      "cityDistanceRank": 66
+    },
+    {
+      "lon": -109.83737,
+      "lat": 42.86834,
+      "cityDistanceRank": 67
+    },
+    {
+      "lon": -98.89634,
+      "lat": 47.98235,
+      "cityDistanceRank": 68
+    },
+    {
+      "lon": -106.19036,
+      "lat": 34.33597,
+      "cityDistanceRank": 69
+    },
+    {
+      "lon": -95.24933,
+      "lat": 40.13769,
+      "cityDistanceRank": 70
+    },
+    {
+      "lon": -102.54335,
+      "lat": 34.33597,
+      "cityDistanceRank": 71
+    },
+    {
+      "lon": -102.54335,
+      "lat": 31.27121,
+      "cityDistanceRank": 72
+    },
+    {
+      "lon": -91.60233,
+      "lat": 37.29272,
+      "cityDistanceRank": 73
+    },
+    {
+      "lon": -106.19036,
+      "lat": 45.48334,
+      "cityDistanceRank": 74
+    },
+    {
+      "lon": -113.48437,
+      "lat": 47.98235,
+      "cityDistanceRank": 75
+    },
+    {
+      "lon": -102.54335,
+      "lat": 45.48334,
+      "cityDistanceRank": 76
+    },
+    {
+      "lon": -113.48437,
+      "lat": 45.48334,
+      "cityDistanceRank": 77
+    },
+    {
+      "lon": -113.48437,
+      "lat": 40.13769,
+      "cityDistanceRank": 78
+    },
+    {
+      "lon": -109.83737,
+      "lat": 45.48334,
+      "cityDistanceRank": 79
+    },
+    {
+      "lon": -102.54335,
+      "lat": 47.98235,
+      "cityDistanceRank": 80
+    },
+    {
+      "lon": -113.48437,
+      "lat": 42.86834,
+      "cityDistanceRank": 81
+    },
+    {
+      "lon": -106.19036,
+      "lat": 47.98235,
+      "cityDistanceRank": 82
+    },
+    {
+      "lon": -109.83737,
+      "lat": 47.98235,
+      "cityDistanceRank": 83
+    },
+    {
+      "lon": -135.36642,
+      "lat": 58.78395,
+      "cityDistanceRank": 84
+    },
+    {
+      "lon": -142.66044,
+      "lat": 60.62322,
+      "cityDistanceRank": 85
+    },
+    {
+      "lon": -142.66044,
+      "lat": 62.36328,
+      "cityDistanceRank": 86
+    },
+    {
+      "lon": -146.30745,
+      "lat": 60.62322,
+      "cityDistanceRank": 87
+    },
+    {
+      "lon": -142.66044,
+      "lat": 64.00795,
+      "cityDistanceRank": 88
+    },
+    {
+      "lon": -146.30745,
+      "lat": 62.36328,
+      "cityDistanceRank": 89
+    },
+    {
+      "lon": -149.95445,
+      "lat": 60.62322,
+      "cityDistanceRank": 90
+    },
+    {
+      "lon": -142.66044,
+      "lat": 65.56119,
+      "cityDistanceRank": 91
+    },
+    {
+      "lon": -146.30745,
+      "lat": 64.00795,
+      "cityDistanceRank": 92
+    },
+    {
+      "lon": -149.95445,
+      "lat": 62.36328,
+      "cityDistanceRank": 93
+    },
+    {
+      "lon": -146.30745,
+      "lat": 65.56119,
+      "cityDistanceRank": 94
+    },
+    {
+      "lon": -142.66044,
+      "lat": 67.02698,
+      "cityDistanceRank": 95
+    },
+    {
+      "lon": -153.60146,
+      "lat": 60.62322,
+      "cityDistanceRank": 96
+    },
+    {
+      "lon": -149.95445,
+      "lat": 64.00795,
+      "cityDistanceRank": 97
+    },
+    {
+      "lon": -153.60146,
+      "lat": 62.36328,
+      "cityDistanceRank": 98
+    },
+    {
+      "lon": -146.30745,
+      "lat": 67.02698,
+      "cityDistanceRank": 99
+    },
+    {
+      "lon": -149.95445,
+      "lat": 65.56119,
+      "cityDistanceRank": 100
+    },
+    {
+      "lon": -142.66044,
+      "lat": 68.40936,
+      "cityDistanceRank": 101
+    },
+    {
+      "lon": -157.24847,
+      "lat": 58.78395,
+      "cityDistanceRank": 102
+    },
+    {
+      "lon": -153.60146,
+      "lat": 64.00795,
+      "cityDistanceRank": 103
+    },
+    {
+      "lon": -157.24847,
+      "lat": 60.62322,
+      "cityDistanceRank": 104
+    },
+    {
+      "lon": -146.30745,
+      "lat": 68.40936,
+      "cityDistanceRank": 105
+    },
+    {
+      "lon": -149.95445,
+      "lat": 67.02698,
+      "cityDistanceRank": 106
+    },
+    {
+      "lon": -142.66044,
+      "lat": 69.7123,
+      "cityDistanceRank": 107
+    },
+    {
+      "lon": -153.60146,
+      "lat": 65.56119,
+      "cityDistanceRank": 108
+    },
+    {
+      "lon": -157.24847,
+      "lat": 62.36328,
+      "cityDistanceRank": 109
+    },
+    {
+      "lon": -149.95445,
+      "lat": 68.40936,
+      "cityDistanceRank": 110
+    },
+    {
+      "lon": -146.30745,
+      "lat": 69.7123,
+      "cityDistanceRank": 111
+    },
+    {
+      "lon": -157.24847,
+      "lat": 64.00795,
+      "cityDistanceRank": 112
+    },
+    {
+      "lon": -153.60146,
+      "lat": 67.02698,
+      "cityDistanceRank": 113
+    },
+    {
+      "lon": -160.89548,
+      "lat": 60.62322,
+      "cityDistanceRank": 114
+    },
+    {
+      "lon": -157.24847,
+      "lat": 65.56119,
+      "cityDistanceRank": 115
+    },
+    {
+      "lon": -149.95445,
+      "lat": 69.7123,
+      "cityDistanceRank": 116
+    },
+    {
+      "lon": -160.89548,
+      "lat": 62.36328,
+      "cityDistanceRank": 117
+    },
+    {
+      "lon": -153.60146,
+      "lat": 68.40936,
+      "cityDistanceRank": 118
+    },
+    {
+      "lon": -157.24847,
+      "lat": 67.02698,
+      "cityDistanceRank": 119
+    },
+    {
+      "lon": -160.89548,
+      "lat": 64.00795,
+      "cityDistanceRank": 120
+    },
+    {
+      "lon": -153.60146,
+      "lat": 69.7123,
+      "cityDistanceRank": 121
+    },
+    {
+      "lon": -164.54249,
+      "lat": 54.79338,
+      "cityDistanceRank": 122
+    },
+    {
+      "lon": -160.89548,
+      "lat": 65.56119,
+      "cityDistanceRank": 123
+    },
+    {
+      "lon": -157.24847,
+      "lat": 68.40936,
+      "cityDistanceRank": 124
+    },
+    {
+      "lon": -164.54249,
+      "lat": 60.62322,
+      "cityDistanceRank": 125
+    },
+    {
+      "lon": -153.60146,
+      "lat": 70.93974,
+      "cityDistanceRank": 126
+    },
+    {
+      "lon": -164.54249,
+      "lat": 62.36328,
+      "cityDistanceRank": 127
+    },
+    {
+      "lon": -160.89548,
+      "lat": 67.02698,
+      "cityDistanceRank": 128
+    },
+    {
+      "lon": -157.24847,
+      "lat": 69.7123,
+      "cityDistanceRank": 129
+    },
+    {
+      "lon": -160.89548,
+      "lat": 68.40936,
+      "cityDistanceRank": 130
+    },
+    {
+      "lon": -164.54249,
+      "lat": 65.56119,
+      "cityDistanceRank": 131
+    },
+    {
+      "lon": -157.24847,
+      "lat": 70.93974,
+      "cityDistanceRank": 132
+    },
+    {
+      "lon": -160.89548,
+      "lat": 69.7123,
+      "cityDistanceRank": 133
+    },
+    {
+      "lon": -164.54249,
+      "lat": 68.40936,
+      "cityDistanceRank": 134
+    },
+    {
+      "lon": -168.18949,
+      "lat": 65.56119,
+      "cityDistanceRank": 135
+    }
+  ],
+  "NO": [
+    {
+      "lon": 10.5139,
+      "lat": 60.62322,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 6.86689,
+      "lat": 60.62322,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 6.86689,
+      "lat": 58.78395,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 10.5139,
+      "lat": 62.36328,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 6.86689,
+      "lat": 62.36328,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 10.5139,
+      "lat": 64.00795,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 14.16091,
+      "lat": 65.56119,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 14.16091,
+      "lat": 67.02698,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 17.80792,
+      "lat": 68.40936,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 21.45492,
+      "lat": 69.7123,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 25.10193,
+      "lat": 69.7123,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 25.10193,
+      "lat": 70.93974,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 28.74894,
+      "lat": 70.93974,
+      "cityDistanceRank": 12
+    }
+  ],
+  "GS": [
+    {
+      "lon": 169.92846,
+      "lat": 69.7123,
+      "cityDistanceRank": 0
+    }
+  ],
+  "FI": [
+    {
+      "lon": 25.10193,
+      "lat": 60.62322,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 60.62322,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 25.10193,
+      "lat": 62.36328,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 21.45492,
+      "lat": 62.36328,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 28.74894,
+      "lat": 62.36328,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 25.10193,
+      "lat": 64.00795,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 28.74894,
+      "lat": 64.00795,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 25.10193,
+      "lat": 65.56119,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 28.74894,
+      "lat": 65.56119,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 25.10193,
+      "lat": 67.02698,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 28.74894,
+      "lat": 67.02698,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 25.10193,
+      "lat": 68.40936,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 28.74894,
+      "lat": 69.7123,
+      "cityDistanceRank": 12
+    }
+  ],
+  "SE": [
+    {
+      "lon": 17.80792,
+      "lat": 60.62322,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 14.16091,
+      "lat": 58.78395,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 14.16091,
+      "lat": 60.62322,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": 56.8418,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 14.16091,
+      "lat": 62.36328,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 17.80792,
+      "lat": 64.00795,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 14.16091,
+      "lat": 64.00795,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 17.80792,
+      "lat": 65.56119,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 21.45492,
+      "lat": 65.56119,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 17.80792,
+      "lat": 67.02698,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 21.45492,
+      "lat": 67.02698,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 21.45492,
+      "lat": 68.40936,
+      "cityDistanceRank": 11
+    }
+  ],
+  "IS": [
+    {
+      "lon": -22.30917,
+      "lat": 65.56119,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -18.66216,
+      "lat": 64.00795,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -18.66216,
+      "lat": 65.56119,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -15.01516,
+      "lat": 65.56119,
+      "cityDistanceRank": 3
+    }
+  ],
+  "GB": [
+    {
+      "lon": -0.42712,
+      "lat": 52.63565,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -4.07413,
+      "lat": 52.63565,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -4.07413,
+      "lat": 54.79338,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -7.72114,
+      "lat": 54.79338,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -4.07413,
+      "lat": 56.8418,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -4.07413,
+      "lat": 58.78395,
+      "cityDistanceRank": 5
+    }
+  ],
+  "EE": [
+    {
+      "lon": 25.10193,
+      "lat": 58.78395,
+      "cityDistanceRank": 0
+    }
+  ],
+  "LV": [
+    {
+      "lon": 25.10193,
+      "lat": 56.8418,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 56.8418,
+      "cityDistanceRank": 1
+    }
+  ],
+  "PL": [
+    {
+      "lon": 21.45492,
+      "lat": 52.63565,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 50.366,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 17.80792,
+      "lat": 52.63565,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 17.80792,
+      "lat": 50.366,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 17.80792,
+      "lat": 54.79338,
+      "cityDistanceRank": 4
+    }
+  ],
+  "LT": [
+    {
+      "lon": 25.10193,
+      "lat": 54.79338,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BY": [
+    {
+      "lon": 28.74894,
+      "lat": 54.79338,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 28.74894,
+      "lat": 52.63565,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 25.10193,
+      "lat": 52.63565,
+      "cityDistanceRank": 2
+    }
+  ],
+  "KZ": [
+    {
+      "lon": 79.80705,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 76.16004,
+      "lat": 45.48334,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 79.80705,
+      "lat": 45.48334,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 72.51304,
+      "lat": 42.86834,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 72.51304,
+      "lat": 45.48334,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 76.16004,
+      "lat": 47.98235,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 79.80705,
+      "lat": 47.98235,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 72.51304,
+      "lat": 47.98235,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 68.86603,
+      "lat": 42.86834,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 68.86603,
+      "lat": 45.48334,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 83.45406,
+      "lat": 47.98235,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 76.16004,
+      "lat": 50.366,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 68.86603,
+      "lat": 47.98235,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 79.80705,
+      "lat": 50.366,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 72.51304,
+      "lat": 50.366,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 83.45406,
+      "lat": 50.366,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 65.21902,
+      "lat": 45.48334,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 68.86603,
+      "lat": 50.366,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 76.16004,
+      "lat": 52.63565,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 65.21902,
+      "lat": 47.98235,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 72.51304,
+      "lat": 52.63565,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": 65.21902,
+      "lat": 50.366,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": 68.86603,
+      "lat": 52.63565,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": 61.57201,
+      "lat": 45.48334,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": 61.57201,
+      "lat": 47.98235,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": 65.21902,
+      "lat": 52.63565,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": 61.57201,
+      "lat": 50.366,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": 68.86603,
+      "lat": 54.79338,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": 61.57201,
+      "lat": 52.63565,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": 57.925,
+      "lat": 47.98235,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": 57.925,
+      "lat": 50.366,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": 54.278,
+      "lat": 45.48334,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": 54.278,
+      "lat": 47.98235,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": 54.278,
+      "lat": 42.86834,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": 54.278,
+      "lat": 50.366,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": 50.63099,
+      "lat": 45.48334,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": 50.63099,
+      "lat": 47.98235,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": 50.63099,
+      "lat": 50.366,
+      "cityDistanceRank": 37
+    }
+  ],
+  "IE": [
+    {
+      "lon": -7.72114,
+      "lat": 52.63565,
+      "cityDistanceRank": 0
+    }
+  ],
+  "DE": [
+    {
+      "lon": 14.16091,
+      "lat": 52.63565,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 6.86689,
+      "lat": 50.366,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 10.5139,
+      "lat": 50.366,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 10.5139,
+      "lat": 52.63565,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 10.5139,
+      "lat": 47.98235,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 6.86689,
+      "lat": 52.63565,
+      "cityDistanceRank": 5
+    }
+  ],
+  "CN": [
+    {
+      "lon": 116.27713,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 105.33611,
+      "lat": 31.27121,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 119.92414,
+      "lat": 31.27121,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 112.63012,
+      "lat": 24.83959,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 101.6891,
+      "lat": 31.27121,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 116.27713,
+      "lat": 37.29272,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 105.33611,
+      "lat": 28.10357,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 112.63012,
+      "lat": 40.13769,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 116.27713,
+      "lat": 42.86834,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 116.27713,
+      "lat": 24.83959,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 101.6891,
+      "lat": 28.10357,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 119.92414,
+      "lat": 34.33597,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 119.92414,
+      "lat": 28.10357,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 119.92414,
+      "lat": 37.29272,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 105.33611,
+      "lat": 34.33597,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 112.63012,
+      "lat": 37.29272,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 119.92414,
+      "lat": 42.86834,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 112.63012,
+      "lat": 42.86834,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 101.6891,
+      "lat": 34.33597,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 108.98312,
+      "lat": 31.27121,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 108.98312,
+      "lat": 24.83959,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": 116.27713,
+      "lat": 31.27121,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": 108.98312,
+      "lat": 28.10357,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": 112.63012,
+      "lat": 28.10357,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": 98.04209,
+      "lat": 31.27121,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": 116.27713,
+      "lat": 34.33597,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": 116.27713,
+      "lat": 28.10357,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": 123.57115,
+      "lat": 40.13769,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": 108.98312,
+      "lat": 34.33597,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": 116.27713,
+      "lat": 45.48334,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": 108.98312,
+      "lat": 40.13769,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": 98.04209,
+      "lat": 28.10357,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": 105.33611,
+      "lat": 24.83959,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": 123.57115,
+      "lat": 42.86834,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": 119.92414,
+      "lat": 45.48334,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": 101.6891,
+      "lat": 24.83959,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": 98.04209,
+      "lat": 34.33597,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": 112.63012,
+      "lat": 34.33597,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": 108.98312,
+      "lat": 37.29272,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": 105.33611,
+      "lat": 37.29272,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": 101.6891,
+      "lat": 37.29272,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": 112.63012,
+      "lat": 31.27121,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": 123.57115,
+      "lat": 45.48334,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": 98.04209,
+      "lat": 24.83959,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": 116.27713,
+      "lat": 47.98235,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": 98.04209,
+      "lat": 37.29272,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": 94.39508,
+      "lat": 31.27121,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": 119.92414,
+      "lat": 47.98235,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": 105.33611,
+      "lat": 40.13769,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": 127.21816,
+      "lat": 42.86834,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": 94.39508,
+      "lat": 34.33597,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": 123.57115,
+      "lat": 47.98235,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": 101.6891,
+      "lat": 40.13769,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": 127.21816,
+      "lat": 45.48334,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": 94.39508,
+      "lat": 37.29272,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": 98.04209,
+      "lat": 40.13769,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": 119.92414,
+      "lat": 50.366,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": 127.21816,
+      "lat": 47.98235,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": 90.74808,
+      "lat": 31.27121,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": 123.57115,
+      "lat": 50.366,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": 90.74808,
+      "lat": 34.33597,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": 130.86516,
+      "lat": 45.48334,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": 94.39508,
+      "lat": 40.13769,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": 90.74808,
+      "lat": 37.29272,
+      "cityDistanceRank": 63
+    },
+    {
+      "lon": 127.21816,
+      "lat": 50.366,
+      "cityDistanceRank": 64
+    },
+    {
+      "lon": 123.57115,
+      "lat": 52.63565,
+      "cityDistanceRank": 65
+    },
+    {
+      "lon": 90.74808,
+      "lat": 40.13769,
+      "cityDistanceRank": 66
+    },
+    {
+      "lon": 94.39508,
+      "lat": 42.86834,
+      "cityDistanceRank": 67
+    },
+    {
+      "lon": 87.10107,
+      "lat": 31.27121,
+      "cityDistanceRank": 68
+    },
+    {
+      "lon": 87.10107,
+      "lat": 34.33597,
+      "cityDistanceRank": 69
+    },
+    {
+      "lon": 87.10107,
+      "lat": 28.10357,
+      "cityDistanceRank": 70
+    },
+    {
+      "lon": 87.10107,
+      "lat": 37.29272,
+      "cityDistanceRank": 71
+    },
+    {
+      "lon": 90.74808,
+      "lat": 42.86834,
+      "cityDistanceRank": 72
+    },
+    {
+      "lon": 87.10107,
+      "lat": 40.13769,
+      "cityDistanceRank": 73
+    },
+    {
+      "lon": 83.45406,
+      "lat": 31.27121,
+      "cityDistanceRank": 74
+    },
+    {
+      "lon": 83.45406,
+      "lat": 34.33597,
+      "cityDistanceRank": 75
+    },
+    {
+      "lon": 87.10107,
+      "lat": 42.86834,
+      "cityDistanceRank": 76
+    },
+    {
+      "lon": 83.45406,
+      "lat": 37.29272,
+      "cityDistanceRank": 77
+    },
+    {
+      "lon": 83.45406,
+      "lat": 40.13769,
+      "cityDistanceRank": 78
+    },
+    {
+      "lon": 87.10107,
+      "lat": 45.48334,
+      "cityDistanceRank": 79
+    },
+    {
+      "lon": 83.45406,
+      "lat": 42.86834,
+      "cityDistanceRank": 80
+    },
+    {
+      "lon": 79.80705,
+      "lat": 34.33597,
+      "cityDistanceRank": 81
+    },
+    {
+      "lon": 79.80705,
+      "lat": 31.27121,
+      "cityDistanceRank": 82
+    },
+    {
+      "lon": 79.80705,
+      "lat": 37.29272,
+      "cityDistanceRank": 83
+    },
+    {
+      "lon": 87.10107,
+      "lat": 47.98235,
+      "cityDistanceRank": 84
+    },
+    {
+      "lon": 79.80705,
+      "lat": 40.13769,
+      "cityDistanceRank": 85
+    },
+    {
+      "lon": 83.45406,
+      "lat": 45.48334,
+      "cityDistanceRank": 86
+    },
+    {
+      "lon": 76.16004,
+      "lat": 37.29272,
+      "cityDistanceRank": 87
+    },
+    {
+      "lon": 76.16004,
+      "lat": 40.13769,
+      "cityDistanceRank": 88
+    }
+  ],
+  "FR": [
+    {
+      "lon": 3.21988,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 3.21988,
+      "lat": 50.366,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -0.42712,
+      "lat": 47.98235,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 6.86689,
+      "lat": 47.98235,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 3.21988,
+      "lat": 45.48334,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -0.42712,
+      "lat": 45.48334,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -4.07413,
+      "lat": 47.98235,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 6.86689,
+      "lat": 45.48334,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -0.42712,
+      "lat": 42.86834,
+      "cityDistanceRank": 8
+    }
+  ],
+  "CZ": [
+    {
+      "lon": 14.16091,
+      "lat": 50.366,
+      "cityDistanceRank": 0
+    }
+  ],
+  "UA": [
+    {
+      "lon": 28.74894,
+      "lat": 50.366,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": 50.366,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 32.39595,
+      "lat": 47.98235,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 25.10193,
+      "lat": 50.366,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 36.04296,
+      "lat": 50.366,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 25.10193,
+      "lat": 47.98235,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 36.04296,
+      "lat": 47.98235,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 28.74894,
+      "lat": 45.48334,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 32.39595,
+      "lat": 45.48334,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 36.04296,
+      "lat": 45.48334,
+      "cityDistanceRank": 9
+    }
+  ],
+  "MN": [
+    {
+      "lon": 105.33611,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 108.98312,
+      "lat": 47.98235,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 105.33611,
+      "lat": 50.366,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 105.33611,
+      "lat": 45.48334,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 108.98312,
+      "lat": 45.48334,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 101.6891,
+      "lat": 47.98235,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 112.63012,
+      "lat": 47.98235,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 101.6891,
+      "lat": 50.366,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 101.6891,
+      "lat": 45.48334,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 112.63012,
+      "lat": 45.48334,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 105.33611,
+      "lat": 42.86834,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 108.98312,
+      "lat": 42.86834,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 98.04209,
+      "lat": 47.98235,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 101.6891,
+      "lat": 42.86834,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 98.04209,
+      "lat": 45.48334,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 98.04209,
+      "lat": 42.86834,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 94.39508,
+      "lat": 47.98235,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 94.39508,
+      "lat": 45.48334,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 90.74808,
+      "lat": 47.98235,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 90.74808,
+      "lat": 50.366,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 90.74808,
+      "lat": 45.48334,
+      "cityDistanceRank": 20
+    }
+  ],
+  "AT": [
+    {
+      "lon": 14.16091,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    }
+  ],
+  "SK": [
+    {
+      "lon": 17.80792,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    }
+  ],
+  "HU": [
+    {
+      "lon": 21.45492,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    }
+  ],
+  "MD": [
+    {
+      "lon": 28.74894,
+      "lat": 47.98235,
+      "cityDistanceRank": 0
+    }
+  ],
+  "IT": [
+    {
+      "lon": 14.16091,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 10.5139,
+      "lat": 42.86834,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 10.5139,
+      "lat": 45.48334,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 17.80792,
+      "lat": 40.13769,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 14.16091,
+      "lat": 37.29272,
+      "cityDistanceRank": 4
+    }
+  ],
+  "HR": [
+    {
+      "lon": 17.80792,
+      "lat": 45.48334,
+      "cityDistanceRank": 0
+    }
+  ],
+  "RO": [
+    {
+      "lon": 25.10193,
+      "lat": 45.48334,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 45.48334,
+      "cityDistanceRank": 1
+    }
+  ],
+  "UZ": [
+    {
+      "lon": 65.21902,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 65.21902,
+      "lat": 42.86834,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 61.57201,
+      "lat": 42.86834,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 57.925,
+      "lat": 42.86834,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 57.925,
+      "lat": 45.48334,
+      "cityDistanceRank": 4
+    }
+  ],
+  "JP": [
+    {
+      "lon": 134.51217,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 138.15918,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 130.86516,
+      "lat": 34.33597,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 141.80619,
+      "lat": 40.13769,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 141.80619,
+      "lat": 42.86834,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 141.80619,
+      "lat": 45.48334,
+      "cityDistanceRank": 5
+    }
+  ],
+  "ES": [
+    {
+      "lon": -4.07413,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -4.07413,
+      "lat": 42.86834,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -0.42712,
+      "lat": 40.13769,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -4.07413,
+      "lat": 37.29272,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -7.72114,
+      "lat": 42.86834,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 3.21988,
+      "lat": 40.13769,
+      "cityDistanceRank": 5
+    }
+  ],
+  "BA": [
+    {
+      "lon": 17.80792,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    }
+  ],
+  "RS": [
+    {
+      "lon": 21.45492,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BG": [
+    {
+      "lon": 25.10193,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    }
+  ],
+  "GE": [
+    {
+      "lon": 43.33697,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    }
+  ],
+  "KG": [
+    {
+      "lon": 76.16004,
+      "lat": 42.86834,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 72.51304,
+      "lat": 40.13769,
+      "cityDistanceRank": 1
+    }
+  ],
+  "PT": [
+    {
+      "lon": -7.72114,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -7.72114,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    }
+  ],
+  "GR": [
+    {
+      "lon": 21.45492,
+      "lat": 37.29272,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 21.45492,
+      "lat": 40.13769,
+      "cityDistanceRank": 1
+    }
+  ],
+  "TR": [
+    {
+      "lon": 28.74894,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": 40.13769,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 28.74894,
+      "lat": 37.29272,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 32.39595,
+      "lat": 37.29272,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 36.04296,
+      "lat": 40.13769,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 36.04296,
+      "lat": 37.29272,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 39.68996,
+      "lat": 40.13769,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 39.68996,
+      "lat": 37.29272,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 43.33697,
+      "lat": 40.13769,
+      "cityDistanceRank": 8
+    }
+  ],
+  "AZ": [
+    {
+      "lon": 46.98398,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    }
+  ],
+  "TM": [
+    {
+      "lon": 57.925,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 61.57201,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 61.57201,
+      "lat": 40.13769,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 54.278,
+      "lat": 40.13769,
+      "cityDistanceRank": 3
+    }
+  ],
+  "TJ": [
+    {
+      "lon": 68.86603,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 72.51304,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    }
+  ],
+  "KP": [
+    {
+      "lon": 127.21816,
+      "lat": 40.13769,
+      "cityDistanceRank": 0
+    }
+  ],
+  "DZ": [
+    {
+      "lon": 3.21988,
+      "lat": 37.29272,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 3.21988,
+      "lat": 34.33597,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 6.86689,
+      "lat": 37.29272,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -0.42712,
+      "lat": 34.33597,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 6.86689,
+      "lat": 34.33597,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 3.21988,
+      "lat": 31.27121,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -0.42712,
+      "lat": 31.27121,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 6.86689,
+      "lat": 31.27121,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 3.21988,
+      "lat": 28.10357,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -0.42712,
+      "lat": 28.10357,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 6.86689,
+      "lat": 28.10357,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -4.07413,
+      "lat": 28.10357,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 3.21988,
+      "lat": 24.83959,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -0.42712,
+      "lat": 24.83959,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 6.86689,
+      "lat": 24.83959,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -7.72114,
+      "lat": 28.10357,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -4.07413,
+      "lat": 24.83959,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 3.21988,
+      "lat": 21.48724,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 6.86689,
+      "lat": 21.48724,
+      "cityDistanceRank": 18
+    }
+  ],
+  "TN": [
+    {
+      "lon": 10.5139,
+      "lat": 37.29272,
+      "cityDistanceRank": 0
+    }
+  ],
+  "IQ": [
+    {
+      "lon": 43.33697,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 43.33697,
+      "lat": 31.27121,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 46.98398,
+      "lat": 31.27121,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 43.33697,
+      "lat": 37.29272,
+      "cityDistanceRank": 3
+    }
+  ],
+  "IR": [
+    {
+      "lon": 50.63099,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 50.63099,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 54.278,
+      "lat": 34.33597,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 54.278,
+      "lat": 37.29272,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 46.98398,
+      "lat": 34.33597,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 46.98398,
+      "lat": 37.29272,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 50.63099,
+      "lat": 31.27121,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 54.278,
+      "lat": 31.27121,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 57.925,
+      "lat": 37.29272,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 57.925,
+      "lat": 34.33597,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 57.925,
+      "lat": 31.27121,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 54.278,
+      "lat": 28.10357,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 57.925,
+      "lat": 28.10357,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 61.57201,
+      "lat": 28.10357,
+      "cityDistanceRank": 13
+    }
+  ],
+  "AF": [
+    {
+      "lon": 68.86603,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 68.86603,
+      "lat": 37.29272,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 65.21902,
+      "lat": 34.33597,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 65.21902,
+      "lat": 37.29272,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 65.21902,
+      "lat": 31.27121,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 61.57201,
+      "lat": 34.33597,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 61.57201,
+      "lat": 31.27121,
+      "cityDistanceRank": 6
+    }
+  ],
+  "KR": [
+    {
+      "lon": 127.21816,
+      "lat": 37.29272,
+      "cityDistanceRank": 0
+    }
+  ],
+  "MA": [
+    {
+      "lon": -7.72114,
+      "lat": 31.27121,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -4.07413,
+      "lat": 34.33597,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -4.07413,
+      "lat": 31.27121,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -11.36815,
+      "lat": 28.10357,
+      "cityDistanceRank": 3
+    }
+  ],
+  "LB": [
+    {
+      "lon": 36.04296,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    }
+  ],
+  "SY": [
+    {
+      "lon": 39.68996,
+      "lat": 34.33597,
+      "cityDistanceRank": 0
+    }
+  ],
+  "PK": [
+    {
+      "lon": 68.86603,
+      "lat": 24.83959,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 65.21902,
+      "lat": 28.10357,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 68.86603,
+      "lat": 28.10357,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 68.86603,
+      "lat": 31.27121,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 72.51304,
+      "lat": 31.27121,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 72.51304,
+      "lat": 34.33597,
+      "cityDistanceRank": 5
+    }
+  ],
+  "IN": [
+    {
+      "lon": 76.16004,
+      "lat": 28.10357,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 72.51304,
+      "lat": 18.05587,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 79.80705,
+      "lat": 28.10357,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 72.51304,
+      "lat": 21.48724,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 87.10107,
+      "lat": 24.83959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 76.16004,
+      "lat": 31.27121,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 76.16004,
+      "lat": 18.05587,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 76.16004,
+      "lat": 24.83959,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 76.16004,
+      "lat": 21.48724,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 72.51304,
+      "lat": 28.10357,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 79.80705,
+      "lat": 24.83959,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 83.45406,
+      "lat": 21.48724,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 83.45406,
+      "lat": 24.83959,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 76.16004,
+      "lat": 14.5562,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 72.51304,
+      "lat": 24.83959,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 76.16004,
+      "lat": 34.33597,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 79.80705,
+      "lat": 18.05587,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 79.80705,
+      "lat": 21.48724,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 94.39508,
+      "lat": 28.10357,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 79.80705,
+      "lat": 14.5562,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 76.16004,
+      "lat": 11.00014,
+      "cityDistanceRank": 20
+    }
+  ],
+  "MX": [
+    {
+      "lon": -98.89634,
+      "lat": 18.05587,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -98.89634,
+      "lat": 21.48724,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -102.54335,
+      "lat": 21.48724,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -95.24933,
+      "lat": 18.05587,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -98.89634,
+      "lat": 24.83959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -102.54335,
+      "lat": 24.83959,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -91.60233,
+      "lat": 18.05587,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -106.19036,
+      "lat": 24.83959,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -102.54335,
+      "lat": 28.10357,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -87.95532,
+      "lat": 21.48724,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -106.19036,
+      "lat": 28.10357,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -109.83737,
+      "lat": 28.10357,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -106.19036,
+      "lat": 31.27121,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -109.83737,
+      "lat": 31.27121,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -113.48437,
+      "lat": 28.10357,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -113.48437,
+      "lat": 31.27121,
+      "cityDistanceRank": 15
+    }
+  ],
+  "LY": [
+    {
+      "lon": 14.16091,
+      "lat": 31.27121,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 10.5139,
+      "lat": 31.27121,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 17.80792,
+      "lat": 31.27121,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": 28.10357,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 10.5139,
+      "lat": 28.10357,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 17.80792,
+      "lat": 28.10357,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 21.45492,
+      "lat": 31.27121,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 14.16091,
+      "lat": 24.83959,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 10.5139,
+      "lat": 24.83959,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 21.45492,
+      "lat": 28.10357,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 17.80792,
+      "lat": 24.83959,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 21.45492,
+      "lat": 24.83959,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 21.45492,
+      "lat": 21.48724,
+      "cityDistanceRank": 12
+    }
+  ],
+  "EG": [
+    {
+      "lon": 32.39595,
+      "lat": 31.27121,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": 28.10357,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 28.74894,
+      "lat": 31.27121,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 28.74894,
+      "lat": 28.10357,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 32.39595,
+      "lat": 24.83959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 25.10193,
+      "lat": 31.27121,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 28.74894,
+      "lat": 24.83959,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 25.10193,
+      "lat": 28.10357,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 25.10193,
+      "lat": 24.83959,
+      "cityDistanceRank": 8
+    }
+  ],
+  "JO": [
+    {
+      "lon": 36.04296,
+      "lat": 31.27121,
+      "cityDistanceRank": 0
+    }
+  ],
+  "SA": [
+    {
+      "lon": 46.98398,
+      "lat": 24.83959,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 43.33697,
+      "lat": 24.83959,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 46.98398,
+      "lat": 21.48724,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 46.98398,
+      "lat": 28.10357,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 50.63099,
+      "lat": 24.83959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 43.33697,
+      "lat": 21.48724,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 43.33697,
+      "lat": 28.10357,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 50.63099,
+      "lat": 21.48724,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 39.68996,
+      "lat": 24.83959,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 46.98398,
+      "lat": 18.05587,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 39.68996,
+      "lat": 28.10357,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 39.68996,
+      "lat": 21.48724,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 43.33697,
+      "lat": 18.05587,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 54.278,
+      "lat": 21.48724,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 39.68996,
+      "lat": 31.27121,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 36.04296,
+      "lat": 28.10357,
+      "cityDistanceRank": 15
+    }
+  ],
+  "NP": [
+    {
+      "lon": 83.45406,
+      "lat": 28.10357,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BT": [
+    {
+      "lon": 90.74808,
+      "lat": 28.10357,
+      "cityDistanceRank": 0
+    }
+  ],
+  "EH": [
+    {
+      "lon": -15.01516,
+      "lat": 24.83959,
+      "cityDistanceRank": 0
+    }
+  ],
+  "MR": [
+    {
+      "lon": -15.01516,
+      "lat": 18.05587,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -15.01516,
+      "lat": 21.48724,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -11.36815,
+      "lat": 18.05587,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -11.36815,
+      "lat": 21.48724,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -7.72114,
+      "lat": 18.05587,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -11.36815,
+      "lat": 24.83959,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -7.72114,
+      "lat": 21.48724,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -7.72114,
+      "lat": 24.83959,
+      "cityDistanceRank": 7
+    }
+  ],
+  "AE": [
+    {
+      "lon": 54.278,
+      "lat": 24.83959,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BD": [
+    {
+      "lon": 90.74808,
+      "lat": 24.83959,
+      "cityDistanceRank": 0
+    }
+  ],
+  "MM": [
+    {
+      "lon": 94.39508,
+      "lat": 18.05587,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 98.04209,
+      "lat": 14.5562,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 94.39508,
+      "lat": 21.48724,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 98.04209,
+      "lat": 21.48724,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 94.39508,
+      "lat": 24.83959,
+      "cityDistanceRank": 4
+    }
+  ],
+  "CU": [
+    {
+      "lon": -77.01429,
+      "lat": 21.48724,
+      "cityDistanceRank": 0
+    }
+  ],
+  "ML": [
+    {
+      "lon": -7.72114,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -7.72114,
+      "lat": 14.5562,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -11.36815,
+      "lat": 14.5562,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -4.07413,
+      "lat": 14.5562,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -4.07413,
+      "lat": 18.05587,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -0.42712,
+      "lat": 18.05587,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -4.07413,
+      "lat": 21.48724,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -0.42712,
+      "lat": 21.48724,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 3.21988,
+      "lat": 18.05587,
+      "cityDistanceRank": 8
+    }
+  ],
+  "NE": [
+    {
+      "lon": 3.21988,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 6.86689,
+      "lat": 14.5562,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 6.86689,
+      "lat": 18.05587,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 10.5139,
+      "lat": 14.5562,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 10.5139,
+      "lat": 18.05587,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 10.5139,
+      "lat": 21.48724,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 14.16091,
+      "lat": 18.05587,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 14.16091,
+      "lat": 21.48724,
+      "cityDistanceRank": 7
+    }
+  ],
+  "TD": [
+    {
+      "lon": 14.16091,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 17.80792,
+      "lat": 11.00014,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 17.80792,
+      "lat": 14.5562,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 21.45492,
+      "lat": 11.00014,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 17.80792,
+      "lat": 18.05587,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 21.45492,
+      "lat": 14.5562,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 21.45492,
+      "lat": 18.05587,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 17.80792,
+      "lat": 21.48724,
+      "cityDistanceRank": 7
+    }
+  ],
+  "SD": [
+    {
+      "lon": 32.39595,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": 18.05587,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 36.04296,
+      "lat": 14.5562,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 28.74894,
+      "lat": 14.5562,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 36.04296,
+      "lat": 18.05587,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 28.74894,
+      "lat": 18.05587,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 28.74894,
+      "lat": 11.00014,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 32.39595,
+      "lat": 21.48724,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 36.04296,
+      "lat": 21.48724,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 28.74894,
+      "lat": 21.48724,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 25.10193,
+      "lat": 14.5562,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 25.10193,
+      "lat": 18.05587,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 25.10193,
+      "lat": 11.00014,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 25.10193,
+      "lat": 21.48724,
+      "cityDistanceRank": 13
+    }
+  ],
+  "OM": [
+    {
+      "lon": 57.925,
+      "lat": 21.48724,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 54.278,
+      "lat": 18.05587,
+      "cityDistanceRank": 1
+    }
+  ],
+  "LA": [
+    {
+      "lon": 105.33611,
+      "lat": 18.05587,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 101.6891,
+      "lat": 21.48724,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 105.33611,
+      "lat": 14.5562,
+      "cityDistanceRank": 2
+    }
+  ],
+  "VN": [
+    {
+      "lon": 105.33611,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 108.98312,
+      "lat": 14.5562,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 105.33611,
+      "lat": 21.48724,
+      "cityDistanceRank": 2
+    }
+  ],
+  "YE": [
+    {
+      "lon": 43.33697,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 46.98398,
+      "lat": 14.5562,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 50.63099,
+      "lat": 18.05587,
+      "cityDistanceRank": 2
+    }
+  ],
+  "TH": [
+    {
+      "lon": 101.6891,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 101.6891,
+      "lat": 18.05587,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 98.04209,
+      "lat": 18.05587,
+      "cityDistanceRank": 2
+    }
+  ],
+  "PH": [
+    {
+      "lon": 119.92414,
+      "lat": 18.05587,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 123.57115,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    }
+  ],
+  "GT": [
+    {
+      "lon": -91.60233,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    }
+  ],
+  "HN": [
+    {
+      "lon": -87.95532,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    }
+  ],
+  "NI": [
+    {
+      "lon": -84.30831,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    }
+  ],
+  "SN": [
+    {
+      "lon": -15.01516,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BF": [
+    {
+      "lon": -0.42712,
+      "lat": 14.5562,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -4.07413,
+      "lat": 11.00014,
+      "cityDistanceRank": 1
+    }
+  ],
+  "ET": [
+    {
+      "lon": 39.68996,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 39.68996,
+      "lat": 11.00014,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 36.04296,
+      "lat": 7.40067,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 36.04296,
+      "lat": 11.00014,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 43.33697,
+      "lat": 7.40067,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 39.68996,
+      "lat": 14.5562,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 46.98398,
+      "lat": 7.40067,
+      "cityDistanceRank": 6
+    }
+  ],
+  "CR": [
+    {
+      "lon": -84.30831,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    }
+  ],
+  "CO": [
+    {
+      "lon": -73.36729,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -73.36729,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -77.01429,
+      "lat": 3.77161,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -77.01429,
+      "lat": 7.40067,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -69.72028,
+      "lat": 3.77161,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -73.36729,
+      "lat": 0.12732,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -73.36729,
+      "lat": 11.00014,
+      "cityDistanceRank": 6
+    }
+  ],
+  "VE": [
+    {
+      "lon": -69.72028,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -66.07327,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -69.72028,
+      "lat": 7.40067,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -62.42626,
+      "lat": 7.40067,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -66.07327,
+      "lat": 3.77161,
+      "cityDistanceRank": 4
+    }
+  ],
+  "GN": [
+    {
+      "lon": -15.01516,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -11.36815,
+      "lat": 11.00014,
+      "cityDistanceRank": 1
+    }
+  ],
+  "GH": [
+    {
+      "lon": -0.42712,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -0.42712,
+      "lat": 11.00014,
+      "cityDistanceRank": 1
+    }
+  ],
+  "BJ": [
+    {
+      "lon": 3.21988,
+      "lat": 11.00014,
+      "cityDistanceRank": 0
+    }
+  ],
+  "NG": [
+    {
+      "lon": 3.21988,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 6.86689,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 6.86689,
+      "lat": 11.00014,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 10.5139,
+      "lat": 7.40067,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 10.5139,
+      "lat": 11.00014,
+      "cityDistanceRank": 4
+    }
+  ],
+  "CM": [
+    {
+      "lon": 10.5139,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 14.16091,
+      "lat": 3.77161,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 14.16091,
+      "lat": 7.40067,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": 11.00014,
+      "cityDistanceRank": 3
+    }
+  ],
+  "SS": [
+    {
+      "lon": 32.39595,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 28.74894,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 32.39595,
+      "lat": 11.00014,
+      "cityDistanceRank": 2
+    }
+  ],
+  "SO": [
+    {
+      "lon": 46.98398,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 43.33697,
+      "lat": 3.77161,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 46.98398,
+      "lat": 11.00014,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 43.33697,
+      "lat": 11.00014,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 50.63099,
+      "lat": 11.00014,
+      "cityDistanceRank": 4
+    }
+  ],
+  "PA": [
+    {
+      "lon": -80.6613,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    }
+  ],
+  "GY": [
+    {
+      "lon": -58.77925,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -58.77925,
+      "lat": 3.77161,
+      "cityDistanceRank": 1
+    }
+  ],
+  "LR": [
+    {
+      "lon": -11.36815,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    }
+  ],
+  "CI": [
+    {
+      "lon": -4.07413,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -7.72114,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    }
+  ],
+  "CF": [
+    {
+      "lon": 17.80792,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 17.80792,
+      "lat": 7.40067,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 21.45492,
+      "lat": 7.40067,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 25.10193,
+      "lat": 7.40067,
+      "cityDistanceRank": 3
+    }
+  ],
+  "LK": [
+    {
+      "lon": 79.80705,
+      "lat": 7.40067,
+      "cityDistanceRank": 0
+    }
+  ],
+  "BR": [
+    {
+      "lon": -44.19122,
+      "lat": -21.25009,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -47.83823,
+      "lat": -24.60829,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -44.19122,
+      "lat": -17.8136,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -47.83823,
+      "lat": -21.25009,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -40.54421,
+      "lat": -17.8136,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -47.83823,
+      "lat": -17.8136,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -51.48524,
+      "lat": -24.60829,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -51.48524,
+      "lat": -21.25009,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -44.19122,
+      "lat": -14.30959,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -51.48524,
+      "lat": -27.87871,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -40.54421,
+      "lat": -14.30959,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -47.83823,
+      "lat": -14.30959,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -51.48524,
+      "lat": -17.8136,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -55.13225,
+      "lat": -21.25009,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -55.13225,
+      "lat": -27.87871,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -51.48524,
+      "lat": -14.30959,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -44.19122,
+      "lat": -10.75007,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": -40.54421,
+      "lat": -10.75007,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": -55.13225,
+      "lat": -17.8136,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": -47.83823,
+      "lat": -10.75007,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": -55.13225,
+      "lat": -31.05331,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": -51.48524,
+      "lat": -10.75007,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": -55.13225,
+      "lat": -14.30959,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": -44.19122,
+      "lat": -7.14808,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": -40.54421,
+      "lat": -7.14808,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": -47.83823,
+      "lat": -7.14808,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": -55.13225,
+      "lat": -10.75007,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": -36.8972,
+      "lat": -7.14808,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": -51.48524,
+      "lat": -7.14808,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": -58.77925,
+      "lat": -14.30959,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": -44.19122,
+      "lat": -3.51747,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": -40.54421,
+      "lat": -3.51747,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": -55.13225,
+      "lat": -7.14808,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": -47.83823,
+      "lat": -3.51747,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": -58.77925,
+      "lat": -10.75007,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": -51.48524,
+      "lat": -3.51747,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": -58.77925,
+      "lat": -7.14808,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": -55.13225,
+      "lat": -3.51747,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": -62.42626,
+      "lat": -10.75007,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": -51.48524,
+      "lat": 0.12732,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": -58.77925,
+      "lat": -3.51747,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": -62.42626,
+      "lat": -7.14808,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": -55.13225,
+      "lat": 0.12732,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": -62.42626,
+      "lat": -3.51747,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": -58.77925,
+      "lat": 0.12732,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": -51.48524,
+      "lat": 3.77161,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": -66.07327,
+      "lat": -7.14808,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": -69.72028,
+      "lat": -10.75007,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": -62.42626,
+      "lat": 0.12732,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": -66.07327,
+      "lat": -3.51747,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": -69.72028,
+      "lat": -7.14808,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": -66.07327,
+      "lat": 0.12732,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": -62.42626,
+      "lat": 3.77161,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": -69.72028,
+      "lat": -3.51747,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": -73.36729,
+      "lat": -7.14808,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": -69.72028,
+      "lat": 0.12732,
+      "cityDistanceRank": 55
+    }
+  ],
+  "SR": [
+    {
+      "lon": -55.13225,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    }
+  ],
+  "CD": [
+    {
+      "lon": 17.80792,
+      "lat": -3.51747,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 17.80792,
+      "lat": -7.14808,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 17.80792,
+      "lat": 0.12732,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 21.45492,
+      "lat": -3.51747,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 21.45492,
+      "lat": 0.12732,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 25.10193,
+      "lat": -3.51747,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 25.10193,
+      "lat": -7.14808,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 21.45492,
+      "lat": 3.77161,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 25.10193,
+      "lat": 0.12732,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 25.10193,
+      "lat": -10.75007,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 25.10193,
+      "lat": 3.77161,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 28.74894,
+      "lat": -3.51747,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 28.74894,
+      "lat": -7.14808,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 28.74894,
+      "lat": 0.12732,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 28.74894,
+      "lat": 3.77161,
+      "cityDistanceRank": 14
+    }
+  ],
+  "UG": [
+    {
+      "lon": 32.39595,
+      "lat": 0.12732,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": 3.77161,
+      "cityDistanceRank": 1
+    }
+  ],
+  "KE": [
+    {
+      "lon": 36.04296,
+      "lat": 0.12732,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 39.68996,
+      "lat": 0.12732,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 39.68996,
+      "lat": -3.51747,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 36.04296,
+      "lat": 3.77161,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 39.68996,
+      "lat": 3.77161,
+      "cityDistanceRank": 4
+    }
+  ],
+  "ID": [
+    {
+      "lon": 108.98312,
+      "lat": -7.14808,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 105.33611,
+      "lat": -3.51747,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 101.6891,
+      "lat": -3.51747,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 112.63012,
+      "lat": -7.14808,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 108.98312,
+      "lat": 0.12732,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 101.6891,
+      "lat": 0.12732,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 112.63012,
+      "lat": 0.12732,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 116.27713,
+      "lat": 0.12732,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 98.04209,
+      "lat": 3.77161,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 119.92414,
+      "lat": -3.51747,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 116.27713,
+      "lat": 3.77161,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 119.92414,
+      "lat": 0.12732,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 127.21816,
+      "lat": 0.12732,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 134.51217,
+      "lat": -3.51747,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 138.15918,
+      "lat": -7.14808,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 138.15918,
+      "lat": -3.51747,
+      "cityDistanceRank": 15
+    }
+  ],
+  "MY": [
+    {
+      "lon": 101.6891,
+      "lat": 3.77161,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 112.63012,
+      "lat": 3.77161,
+      "cityDistanceRank": 1
+    }
+  ],
+  "EC": [
+    {
+      "lon": -80.6613,
+      "lat": 0.12732,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -77.01429,
+      "lat": 0.12732,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -91.60233,
+      "lat": 0.12732,
+      "cityDistanceRank": 2
+    }
+  ],
+  "GA": [
+    {
+      "lon": 10.5139,
+      "lat": 0.12732,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 10.5139,
+      "lat": -3.51747,
+      "cityDistanceRank": 1
+    }
+  ],
+  "CG": [
+    {
+      "lon": 14.16091,
+      "lat": -3.51747,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 14.16091,
+      "lat": 0.12732,
+      "cityDistanceRank": 1
+    }
+  ],
+  "PE": [
+    {
+      "lon": -77.01429,
+      "lat": -10.75007,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -73.36729,
+      "lat": -10.75007,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -73.36729,
+      "lat": -14.30959,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -77.01429,
+      "lat": -7.14808,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -69.72028,
+      "lat": -14.30959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -77.01429,
+      "lat": -3.51747,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -80.6613,
+      "lat": -3.51747,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -73.36729,
+      "lat": -3.51747,
+      "cityDistanceRank": 7
+    }
+  ],
+  "TZ": [
+    {
+      "lon": 36.04296,
+      "lat": -7.14808,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 36.04296,
+      "lat": -3.51747,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 36.04296,
+      "lat": -10.75007,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 32.39595,
+      "lat": -7.14808,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 32.39595,
+      "lat": -3.51747,
+      "cityDistanceRank": 4
+    }
+  ],
+  "PG": [
+    {
+      "lon": 145.4532,
+      "lat": -7.14808,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 141.80619,
+      "lat": -7.14808,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 141.80619,
+      "lat": -3.51747,
+      "cityDistanceRank": 2
+    }
+  ],
+  "AO": [
+    {
+      "lon": 14.16091,
+      "lat": -7.14808,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 14.16091,
+      "lat": -10.75007,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 17.80792,
+      "lat": -10.75007,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": -14.30959,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 17.80792,
+      "lat": -14.30959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 21.45492,
+      "lat": -7.14808,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 21.45492,
+      "lat": -10.75007,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 21.45492,
+      "lat": -14.30959,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 21.45492,
+      "lat": -17.8136,
+      "cityDistanceRank": 8
+    }
+  ],
+  "BO": [
+    {
+      "lon": -62.42626,
+      "lat": -17.8136,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -66.07327,
+      "lat": -17.8136,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -62.42626,
+      "lat": -14.30959,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -58.77925,
+      "lat": -17.8136,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -66.07327,
+      "lat": -21.25009,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -66.07327,
+      "lat": -14.30959,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -66.07327,
+      "lat": -10.75007,
+      "cityDistanceRank": 6
+    }
+  ],
+  "ZM": [
+    {
+      "lon": 28.74894,
+      "lat": -14.30959,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 25.10193,
+      "lat": -14.30959,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 28.74894,
+      "lat": -10.75007,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 32.39595,
+      "lat": -10.75007,
+      "cityDistanceRank": 3
+    }
+  ],
+  "MZ": [
+    {
+      "lon": 32.39595,
+      "lat": -24.60829,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 32.39595,
+      "lat": -21.25009,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 36.04296,
+      "lat": -17.8136,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 32.39595,
+      "lat": -14.30959,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 36.04296,
+      "lat": -14.30959,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 39.68996,
+      "lat": -14.30959,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 39.68996,
+      "lat": -10.75007,
+      "cityDistanceRank": 6
+    }
+  ],
+  "AU": [
+    {
+      "lon": 152.74721,
+      "lat": -27.87871,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 145.4532,
+      "lat": -37.08987,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 149.1002,
+      "lat": -34.12543,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 141.80619,
+      "lat": -37.08987,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 152.74721,
+      "lat": -31.05331,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 149.1002,
+      "lat": -31.05331,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 149.1002,
+      "lat": -37.08987,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 149.1002,
+      "lat": -27.87871,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 145.4532,
+      "lat": -34.12543,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 141.80619,
+      "lat": -34.12543,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": 149.1002,
+      "lat": -24.60829,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": 145.4532,
+      "lat": -42.68142,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": 145.4532,
+      "lat": -31.05331,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": 138.15918,
+      "lat": -34.12543,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": 145.4532,
+      "lat": -27.87871,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": 149.1002,
+      "lat": -21.25009,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": 141.80619,
+      "lat": -31.05331,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": 145.4532,
+      "lat": -24.60829,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": 138.15918,
+      "lat": -31.05331,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": 145.4532,
+      "lat": -21.25009,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": 141.80619,
+      "lat": -27.87871,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": 141.80619,
+      "lat": -24.60829,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": 134.51217,
+      "lat": -31.05331,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": 138.15918,
+      "lat": -27.87871,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": 145.4532,
+      "lat": -17.8136,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": 141.80619,
+      "lat": -21.25009,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": 134.51217,
+      "lat": -27.87871,
+      "cityDistanceRank": 26
+    },
+    {
+      "lon": 130.86516,
+      "lat": -31.05331,
+      "cityDistanceRank": 27
+    },
+    {
+      "lon": 138.15918,
+      "lat": -24.60829,
+      "cityDistanceRank": 28
+    },
+    {
+      "lon": 141.80619,
+      "lat": -17.8136,
+      "cityDistanceRank": 29
+    },
+    {
+      "lon": 138.15918,
+      "lat": -21.25009,
+      "cityDistanceRank": 30
+    },
+    {
+      "lon": 130.86516,
+      "lat": -27.87871,
+      "cityDistanceRank": 31
+    },
+    {
+      "lon": 134.51217,
+      "lat": -24.60829,
+      "cityDistanceRank": 32
+    },
+    {
+      "lon": 127.21816,
+      "lat": -31.05331,
+      "cityDistanceRank": 33
+    },
+    {
+      "lon": 138.15918,
+      "lat": -17.8136,
+      "cityDistanceRank": 34
+    },
+    {
+      "lon": 141.80619,
+      "lat": -14.30959,
+      "cityDistanceRank": 35
+    },
+    {
+      "lon": 130.86516,
+      "lat": -24.60829,
+      "cityDistanceRank": 36
+    },
+    {
+      "lon": 127.21816,
+      "lat": -27.87871,
+      "cityDistanceRank": 37
+    },
+    {
+      "lon": 134.51217,
+      "lat": -21.25009,
+      "cityDistanceRank": 38
+    },
+    {
+      "lon": 123.57115,
+      "lat": -31.05331,
+      "cityDistanceRank": 39
+    },
+    {
+      "lon": 134.51217,
+      "lat": -17.8136,
+      "cityDistanceRank": 40
+    },
+    {
+      "lon": 141.80619,
+      "lat": -10.75007,
+      "cityDistanceRank": 41
+    },
+    {
+      "lon": 127.21816,
+      "lat": -24.60829,
+      "cityDistanceRank": 42
+    },
+    {
+      "lon": 123.57115,
+      "lat": -27.87871,
+      "cityDistanceRank": 43
+    },
+    {
+      "lon": 130.86516,
+      "lat": -21.25009,
+      "cityDistanceRank": 44
+    },
+    {
+      "lon": 119.92414,
+      "lat": -31.05331,
+      "cityDistanceRank": 45
+    },
+    {
+      "lon": 134.51217,
+      "lat": -14.30959,
+      "cityDistanceRank": 46
+    },
+    {
+      "lon": 123.57115,
+      "lat": -24.60829,
+      "cityDistanceRank": 47
+    },
+    {
+      "lon": 127.21816,
+      "lat": -21.25009,
+      "cityDistanceRank": 48
+    },
+    {
+      "lon": 130.86516,
+      "lat": -17.8136,
+      "cityDistanceRank": 49
+    },
+    {
+      "lon": 119.92414,
+      "lat": -27.87871,
+      "cityDistanceRank": 50
+    },
+    {
+      "lon": 116.27713,
+      "lat": -34.12543,
+      "cityDistanceRank": 51
+    },
+    {
+      "lon": 130.86516,
+      "lat": -14.30959,
+      "cityDistanceRank": 52
+    },
+    {
+      "lon": 116.27713,
+      "lat": -31.05331,
+      "cityDistanceRank": 53
+    },
+    {
+      "lon": 123.57115,
+      "lat": -21.25009,
+      "cityDistanceRank": 54
+    },
+    {
+      "lon": 119.92414,
+      "lat": -24.60829,
+      "cityDistanceRank": 55
+    },
+    {
+      "lon": 127.21816,
+      "lat": -17.8136,
+      "cityDistanceRank": 56
+    },
+    {
+      "lon": 116.27713,
+      "lat": -27.87871,
+      "cityDistanceRank": 57
+    },
+    {
+      "lon": 130.86516,
+      "lat": -10.75007,
+      "cityDistanceRank": 58
+    },
+    {
+      "lon": 119.92414,
+      "lat": -21.25009,
+      "cityDistanceRank": 59
+    },
+    {
+      "lon": 127.21816,
+      "lat": -14.30959,
+      "cityDistanceRank": 60
+    },
+    {
+      "lon": 123.57115,
+      "lat": -17.8136,
+      "cityDistanceRank": 61
+    },
+    {
+      "lon": 116.27713,
+      "lat": -24.60829,
+      "cityDistanceRank": 62
+    },
+    {
+      "lon": 116.27713,
+      "lat": -21.25009,
+      "cityDistanceRank": 63
+    }
+  ],
+  "MG": [
+    {
+      "lon": 46.98398,
+      "lat": -17.8136,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 46.98398,
+      "lat": -21.25009,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 43.33697,
+      "lat": -21.25009,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 46.98398,
+      "lat": -14.30959,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 46.98398,
+      "lat": -24.60829,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 43.33697,
+      "lat": -24.60829,
+      "cityDistanceRank": 5
+    }
+  ],
+  "FJ": [
+    {
+      "lon": 177.22247,
+      "lat": -17.8136,
+      "cityDistanceRank": 0
+    }
+  ],
+  "CL": [
+    {
+      "lon": -73.36729,
+      "lat": -37.08987,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -69.72028,
+      "lat": -27.87871,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -73.36729,
+      "lat": -39.94273,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -69.72028,
+      "lat": -24.60829,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -73.36729,
+      "lat": -42.68142,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -73.36729,
+      "lat": -45.30452,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -69.72028,
+      "lat": -21.25009,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -73.36729,
+      "lat": -47.81162,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -69.72028,
+      "lat": -17.8136,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -69.72028,
+      "lat": -52.48084,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -73.36729,
+      "lat": -52.48084,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -69.72028,
+      "lat": -54.64631,
+      "cityDistanceRank": 11
+    }
+  ],
+  "NA": [
+    {
+      "lon": 17.80792,
+      "lat": -21.25009,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 17.80792,
+      "lat": -24.60829,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 14.16091,
+      "lat": -21.25009,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 14.16091,
+      "lat": -24.60829,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 17.80792,
+      "lat": -17.8136,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 17.80792,
+      "lat": -27.87871,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 14.16091,
+      "lat": -17.8136,
+      "cityDistanceRank": 6
+    }
+  ],
+  "BW": [
+    {
+      "lon": 25.10193,
+      "lat": -24.60829,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 25.10193,
+      "lat": -21.25009,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 21.45492,
+      "lat": -24.60829,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 21.45492,
+      "lat": -21.25009,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 25.10193,
+      "lat": -17.8136,
+      "cityDistanceRank": 4
+    }
+  ],
+  "ZW": [
+    {
+      "lon": 32.39595,
+      "lat": -17.8136,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 28.74894,
+      "lat": -17.8136,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 28.74894,
+      "lat": -21.25009,
+      "cityDistanceRank": 2
+    }
+  ],
+  "PY": [
+    {
+      "lon": -58.77925,
+      "lat": -24.60829,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -55.13225,
+      "lat": -24.60829,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -58.77925,
+      "lat": -21.25009,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -62.42626,
+      "lat": -21.25009,
+      "cityDistanceRank": 3
+    }
+  ],
+  "AR": [
+    {
+      "lon": -58.77925,
+      "lat": -34.12543,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": -58.77925,
+      "lat": -37.08987,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": -62.42626,
+      "lat": -34.12543,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": -58.77925,
+      "lat": -31.05331,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": -62.42626,
+      "lat": -37.08987,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": -62.42626,
+      "lat": -31.05331,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": -66.07327,
+      "lat": -34.12543,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": -66.07327,
+      "lat": -37.08987,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": -58.77925,
+      "lat": -27.87871,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": -66.07327,
+      "lat": -31.05331,
+      "cityDistanceRank": 9
+    },
+    {
+      "lon": -62.42626,
+      "lat": -27.87871,
+      "cityDistanceRank": 10
+    },
+    {
+      "lon": -66.07327,
+      "lat": -39.94273,
+      "cityDistanceRank": 11
+    },
+    {
+      "lon": -69.72028,
+      "lat": -34.12543,
+      "cityDistanceRank": 12
+    },
+    {
+      "lon": -66.07327,
+      "lat": -27.87871,
+      "cityDistanceRank": 13
+    },
+    {
+      "lon": -69.72028,
+      "lat": -37.08987,
+      "cityDistanceRank": 14
+    },
+    {
+      "lon": -66.07327,
+      "lat": -42.68142,
+      "cityDistanceRank": 15
+    },
+    {
+      "lon": -69.72028,
+      "lat": -31.05331,
+      "cityDistanceRank": 16
+    },
+    {
+      "lon": -69.72028,
+      "lat": -39.94273,
+      "cityDistanceRank": 17
+    },
+    {
+      "lon": -62.42626,
+      "lat": -24.60829,
+      "cityDistanceRank": 18
+    },
+    {
+      "lon": -69.72028,
+      "lat": -42.68142,
+      "cityDistanceRank": 19
+    },
+    {
+      "lon": -66.07327,
+      "lat": -24.60829,
+      "cityDistanceRank": 20
+    },
+    {
+      "lon": -69.72028,
+      "lat": -45.30452,
+      "cityDistanceRank": 21
+    },
+    {
+      "lon": -66.07327,
+      "lat": -47.81162,
+      "cityDistanceRank": 22
+    },
+    {
+      "lon": -69.72028,
+      "lat": -47.81162,
+      "cityDistanceRank": 23
+    },
+    {
+      "lon": -69.72028,
+      "lat": -50.20328,
+      "cityDistanceRank": 24
+    },
+    {
+      "lon": -73.36729,
+      "lat": -50.20328,
+      "cityDistanceRank": 25
+    },
+    {
+      "lon": -66.07327,
+      "lat": -54.64631,
+      "cityDistanceRank": 26
+    }
+  ],
+  "ZA": [
+    {
+      "lon": 28.74894,
+      "lat": -24.60829,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 28.74894,
+      "lat": -27.87871,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 21.45492,
+      "lat": -34.12543,
+      "cityDistanceRank": 2
+    },
+    {
+      "lon": 17.80792,
+      "lat": -31.05331,
+      "cityDistanceRank": 3
+    },
+    {
+      "lon": 25.10193,
+      "lat": -27.87871,
+      "cityDistanceRank": 4
+    },
+    {
+      "lon": 21.45492,
+      "lat": -31.05331,
+      "cityDistanceRank": 5
+    },
+    {
+      "lon": 32.39595,
+      "lat": -27.87871,
+      "cityDistanceRank": 6
+    },
+    {
+      "lon": 28.74894,
+      "lat": -31.05331,
+      "cityDistanceRank": 7
+    },
+    {
+      "lon": 25.10193,
+      "lat": -31.05331,
+      "cityDistanceRank": 8
+    },
+    {
+      "lon": 21.45492,
+      "lat": -27.87871,
+      "cityDistanceRank": 9
+    }
+  ],
+  "UY": [
+    {
+      "lon": -55.13225,
+      "lat": -34.12543,
+      "cityDistanceRank": 0
+    }
+  ],
+  "NZ": [
+    {
+      "lon": 169.92846,
+      "lat": -42.68142,
+      "cityDistanceRank": 0
+    },
+    {
+      "lon": 169.92846,
+      "lat": -45.30452,
+      "cityDistanceRank": 1
+    },
+    {
+      "lon": 167.33524,
+      "lat": -45.30452,
+      "cityDistanceRank": 2
+    }
+  ]
+}

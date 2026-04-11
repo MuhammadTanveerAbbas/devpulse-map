@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Background -->
+  <rect width="80" height="80" rx="12" fill="#0a0a0a"/>
+
+  <!-- Dotted world grid (3x3 pixel dots suggesting a map) -->
+  <!-- Row 1 -->
+  <rect x="14" y="22" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="22" y="22" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="30" y="22" width="4" height="4" fill="#1e40af"/>
+  <rect x="38" y="22" width="4" height="4" fill="#1e40af"/>
+  <rect x="46" y="22" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="54" y="22" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="62" y="22" width="4" height="4" fill="#404040" opacity="0.6"/>
+
+  <!-- Row 2 -->
+  <rect x="14" y="30" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="22" y="30" width="4" height="4" fill="#1e40af"/>
+  <rect x="30" y="30" width="4" height="4" fill="#2563eb"/>
+  <rect x="38" y="30" width="4" height="4" fill="#3b82f6"/>
+  <rect x="46" y="30" width="4" height="4" fill="#1e40af"/>
+  <rect x="54" y="30" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="62" y="30" width="4" height="4" fill="#404040" opacity="0.6"/>
+
+  <!-- Row 3 (brightest / most active) -->
+  <rect x="14" y="38" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="22" y="38" width="4" height="4" fill="#2563eb"/>
+  <rect x="30" y="38" width="4" height="4" fill="#3b82f6"/>
+  <rect x="38" y="38" width="4" height="4" fill="#60a5fa"/>
+  <rect x="46" y="38" width="4" height="4" fill="#3b82f6"/>
+  <rect x="54" y="38" width="4" height="4" fill="#2563eb"/>
+  <rect x="62" y="38" width="4" height="4" fill="#404040" opacity="0.6"/>
+
+  <!-- Row 4 -->
+  <rect x="14" y="46" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="22" y="46" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="30" y="46" width="4" height="4" fill="#1e40af"/>
+  <rect x="38" y="46" width="4" height="4" fill="#2563eb"/>
+  <rect x="46" y="46" width="4" height="4" fill="#1e40af"/>
+  <rect x="54" y="46" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="62" y="46" width="4" height="4" fill="#404040" opacity="0.6"/>
+
+  <!-- Row 5 -->
+  <rect x="14" y="54" width="4" height="4" fill="#404040" opacity="0.4"/>
+  <rect x="22" y="54" width="4" height="4" fill="#404040" opacity="0.4"/>
+  <rect x="30" y="54" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="38" y="54" width="4" height="4" fill="#1e40af" opacity="0.8"/>
+  <rect x="46" y="54" width="4" height="4" fill="#404040" opacity="0.6"/>
+  <rect x="54" y="54" width="4" height="4" fill="#404040" opacity="0.4"/>
+  <rect x="62" y="54" width="4" height="4" fill="#404040" opacity="0.4"/>
+
+  <!-- Triangle marker (edge region pin) at center-top -->
+  <polygon points="40,10 36,17 44,17" fill="#ffffff" opacity="0.9"/>
+</svg>

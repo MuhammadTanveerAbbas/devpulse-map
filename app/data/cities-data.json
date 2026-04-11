@@ -1,0 +1,4419 @@
+[
+  {
+    "code3": "JPN",
+    "country": "Japan",
+    "iso2": "JP",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Tokyo",
+        "coordinates": [
+          139.6922,
+          35.6897
+        ],
+        "capital": true,
+        "population": 37732000,
+        "edgeRegion": "hnd1"
+      },
+      {
+        "city": "Osaka",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ],
+        "capital": false,
+        "population": 37732000,
+        "edgeRegion": "kix1"
+      }
+    ]
+  },
+  {
+    "code3": "IDN",
+    "country": "Indonesia",
+    "iso2": "ID",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Jakarta",
+        "coordinates": [
+          106.8275,
+          -6.175
+        ],
+        "capital": true,
+        "population": 33756000
+      }
+    ]
+  },
+  {
+    "code3": "IND",
+    "country": "India",
+    "iso2": "IN",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Delhi",
+        "coordinates": [
+          77.23,
+          28.61
+        ],
+        "capital": false,
+        "population": 32226000
+      },
+      {
+        "city": "Mumbai",
+        "coordinates": [
+          72.8775,
+          19.0761
+        ],
+        "capital": false,
+        "population": 24973000,
+        "edgeRegion": "bom1"
+      },
+      {
+        "city": "Kolkāta",
+        "coordinates": [
+          88.37,
+          22.5675
+        ],
+        "capital": false,
+        "population": 18502000
+      }
+    ]
+  },
+  {
+    "code3": "CHN",
+    "country": "China",
+    "iso2": "CN",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Guangzhou",
+        "coordinates": [
+          113.26,
+          23.13
+        ],
+        "capital": false,
+        "population": 26940000
+      },
+      {
+        "city": "Shanghai",
+        "coordinates": [
+          121.4747,
+          31.2286
+        ],
+        "capital": false,
+        "population": 24073000
+      },
+      {
+        "city": "Beijing",
+        "coordinates": [
+          116.3975,
+          39.9067
+        ],
+        "capital": true,
+        "population": 18522000
+      },
+      {
+        "city": "Shenzhen",
+        "coordinates": [
+          114.0596,
+          22.5415
+        ],
+        "capital": false,
+        "population": 17619000
+      },
+      {
+        "city": "Chengdu",
+        "coordinates": [
+          104.0633,
+          30.66
+        ],
+        "capital": false,
+        "population": 14645000
+      }
+    ]
+  },
+  {
+    "code3": "PHL",
+    "country": "Philippines",
+    "iso2": "PH",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Manila",
+        "coordinates": [
+          120.9772,
+          14.5958
+        ],
+        "capital": true,
+        "population": 24922000
+      }
+    ]
+  },
+  {
+    "code3": "BRA",
+    "country": "Brazil",
+    "iso2": "BR",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "São Paulo",
+        "coordinates": [
+          -46.6333,
+          -23.55
+        ],
+        "capital": false,
+        "population": 23086000,
+        "edgeRegion": "gru1"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "coordinates": [
+          -43.2056,
+          -22.9111
+        ],
+        "capital": false,
+        "population": 12592000
+      },
+      {
+        "city": "Belo Horizonte",
+        "coordinates": [
+          -43.9333,
+          -19.9167
+        ],
+        "capital": false,
+        "population": 5328000
+      }
+    ]
+  },
+  {
+    "code3": "KOR",
+    "country": "Korea, South",
+    "iso2": "KR",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Seoul",
+        "coordinates": [
+          126.99,
+          37.56
+        ],
+        "capital": true,
+        "population": 23016000,
+        "edgeRegion": "icn1"
+      }
+    ]
+  },
+  {
+    "code3": "MEX",
+    "country": "Mexico",
+    "iso2": "MX",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Mexico City",
+        "coordinates": [
+          -99.1333,
+          19.4333
+        ],
+        "capital": true,
+        "population": 21804000
+      }
+    ]
+  },
+  {
+    "code3": "EGY",
+    "country": "Egypt",
+    "iso2": "EG",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Cairo",
+        "coordinates": [
+          31.2358,
+          30.0444
+        ],
+        "capital": true,
+        "population": 20296000
+      }
+    ]
+  },
+  {
+    "code3": "USA",
+    "country": "United States",
+    "iso2": "US",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "New York",
+        "coordinates": [
+          -73.9249,
+          40.6943
+        ],
+        "capital": false,
+        "population": 18908608
+      },
+      {
+        "city": "Los Angeles",
+        "coordinates": [
+          -118.4068,
+          34.1141
+        ],
+        "capital": false,
+        "population": 11922389
+      },
+      {
+        "city": "Chicago",
+        "coordinates": [
+          -87.6866,
+          41.8375
+        ],
+        "capital": false,
+        "population": 8497759
+      },
+      {
+        "city": "Miami",
+        "coordinates": [
+          -80.2101,
+          25.784
+        ],
+        "capital": false,
+        "population": 6080145
+      },
+      {
+        "city": "Houston",
+        "coordinates": [
+          -95.3885,
+          29.786
+        ],
+        "capital": false,
+        "population": 5970127
+      },
+      {
+        "city": "Dallas",
+        "coordinates": [
+          -96.7667,
+          32.7935
+        ],
+        "capital": false,
+        "population": 5830932
+      },
+      {
+        "city": "Philadelphia",
+        "coordinates": [
+          -75.1339,
+          40.0077
+        ],
+        "capital": false,
+        "population": 5683533
+      },
+      {
+        "city": "Atlanta",
+        "coordinates": [
+          -84.422,
+          33.7628
+        ],
+        "capital": false,
+        "population": 5180179
+      },
+      {
+        "city": "Washington",
+        "coordinates": [
+          -77.0163,
+          38.9047
+        ],
+        "capital": true,
+        "population": 5116378,
+        "edgeRegion": "iad1"
+      },
+      {
+        "city": "Boston",
+        "coordinates": [
+          -71.0852,
+          42.3188
+        ],
+        "capital": false,
+        "population": 4328315
+      },
+      {
+        "city": "Phoenix",
+        "coordinates": [
+          -112.0892,
+          33.5722
+        ],
+        "capital": false,
+        "population": 4064275
+      },
+      {
+        "city": "Detroit",
+        "coordinates": [
+          -83.1024,
+          42.3834
+        ],
+        "capital": false,
+        "population": 3725908
+      },
+      {
+        "city": "Seattle",
+        "coordinates": [
+          -122.3244,
+          47.6211
+        ],
+        "capital": false,
+        "population": 3561397
+      },
+      {
+        "city": "San Francisco",
+        "coordinates": [
+          -122.4449,
+          37.7558
+        ],
+        "capital": false,
+        "population": 3364979,
+        "edgeRegion": "sfo1"
+      },
+      {
+        "city": "San Diego",
+        "coordinates": [
+          -117.1222,
+          32.8313
+        ],
+        "capital": false,
+        "population": 3046560
+      },
+      {
+        "city": "Minneapolis",
+        "coordinates": [
+          -93.2678,
+          44.9635
+        ],
+        "capital": false,
+        "population": 2892569
+      },
+      {
+        "city": "Tampa",
+        "coordinates": [
+          -82.4447,
+          27.9945
+        ],
+        "capital": false,
+        "population": 2861173
+      },
+      {
+        "city": "Brooklyn",
+        "coordinates": [
+          -73.9496,
+          40.6501
+        ],
+        "capital": false,
+        "population": 2736074
+      },
+      {
+        "city": "Denver",
+        "coordinates": [
+          -104.8758,
+          39.762
+        ],
+        "capital": false,
+        "population": 2687458
+      },
+      {
+        "city": "Queens",
+        "coordinates": [
+          -73.7976,
+          40.7498
+        ],
+        "capital": false,
+        "population": 2405464
+      },
+      {
+        "city": "Cleveland",
+        "coordinates": [
+          -81.6805,
+          41.4764
+        ],
+        "capital": false,
+        "population": 1680247,
+        "edgeRegion": "cle1"
+      },
+      {
+        "city": "Portland",
+        "coordinates": [
+          -122.65,
+          45.5371
+        ],
+        "capital": false,
+        "population": 2095808,
+        "edgeRegion": "pdx1"
+      }
+    ]
+  },
+  {
+    "code3": "BGD",
+    "country": "Bangladesh",
+    "iso2": "BD",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Dhaka",
+        "coordinates": [
+          90.3889,
+          23.7639
+        ],
+        "capital": true,
+        "population": 18627000
+      }
+    ]
+  },
+  {
+    "code3": "THA",
+    "country": "Thailand",
+    "iso2": "TH",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Bangkok",
+        "coordinates": [
+          100.4942,
+          13.7525
+        ],
+        "capital": true,
+        "population": 18007000
+      }
+    ]
+  },
+  {
+    "code3": "RUS",
+    "country": "Russia",
+    "iso2": "RU",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Moscow",
+        "coordinates": [
+          37.6172,
+          55.7558
+        ],
+        "capital": true,
+        "population": 17332000
+      }
+    ]
+  },
+  {
+    "code3": "ARG",
+    "country": "Argentina",
+    "iso2": "AR",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Buenos Aires",
+        "coordinates": [
+          -58.3817,
+          -34.6033
+        ],
+        "capital": true,
+        "population": 16710000
+      }
+    ]
+  },
+  {
+    "code3": "NGA",
+    "country": "Nigeria",
+    "iso2": "NG",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Lagos",
+        "coordinates": [
+          3.3841,
+          6.455
+        ],
+        "capital": false,
+        "population": 16637000
+      }
+    ]
+  },
+  {
+    "code3": "TUR",
+    "country": "Turkey",
+    "iso2": "TR",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Istanbul",
+        "coordinates": [
+          28.955,
+          41.0136
+        ],
+        "capital": false,
+        "population": 16079000
+      }
+    ]
+  },
+  {
+    "code3": "PAK",
+    "country": "Pakistan",
+    "iso2": "PK",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Karachi",
+        "coordinates": [
+          67.01,
+          24.86
+        ],
+        "capital": false,
+        "population": 15738000
+      }
+    ]
+  },
+  {
+    "code3": "VNM",
+    "country": "Vietnam",
+    "iso2": "VN",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Ho Chi Minh City",
+        "coordinates": [
+          106.7019,
+          10.7756
+        ],
+        "capital": false,
+        "population": 15136000
+      }
+    ]
+  },
+  {
+    "code3": "IRN",
+    "country": "Iran",
+    "iso2": "IR",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Tehran",
+        "coordinates": [
+          51.3889,
+          35.6892
+        ],
+        "capital": true,
+        "population": 14148000
+      }
+    ]
+  },
+  {
+    "code3": "COD",
+    "country": "Congo (Kinshasa)",
+    "iso2": "CD",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Kinshasa",
+        "coordinates": [
+          15.3119,
+          -4.3219
+        ],
+        "capital": true,
+        "population": 12836000
+      }
+    ]
+  },
+  {
+    "code3": "GBR",
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "London",
+        "coordinates": [
+          -0.1275,
+          51.5072
+        ],
+        "capital": true,
+        "population": 11262000,
+        "edgeRegion": "lhr1"
+      }
+    ]
+  },
+  {
+    "code3": "FRA",
+    "country": "France",
+    "iso2": "FR",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Paris",
+        "coordinates": [
+          2.3522,
+          48.8567
+        ],
+        "capital": true,
+        "population": 11060000,
+        "edgeRegion": "cdg1"
+      }
+    ]
+  },
+  {
+    "code3": "PER",
+    "country": "Peru",
+    "iso2": "PE",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Lima",
+        "coordinates": [
+          -77.0375,
+          -12.06
+        ],
+        "capital": true,
+        "population": 10320000
+      }
+    ]
+  },
+  {
+    "code3": "AGO",
+    "country": "Angola",
+    "iso2": "AO",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Luanda",
+        "coordinates": [
+          13.2344,
+          -8.8383
+        ],
+        "capital": true,
+        "population": 9051000
+      }
+    ]
+  },
+  {
+    "code3": "MYS",
+    "country": "Malaysia",
+    "iso2": "MY",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Kuala Lumpur",
+        "coordinates": [
+          101.6953,
+          3.1478
+        ],
+        "capital": true,
+        "population": 8911000
+      }
+    ]
+  },
+  {
+    "code3": "ZAF",
+    "country": "South Africa",
+    "iso2": "ZA",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Johannesburg",
+        "coordinates": [
+          28.0456,
+          -26.2044
+        ],
+        "capital": false,
+        "population": 8500000
+      },
+      {
+        "city": "Cape Town",
+        "coordinates": [
+          18.4239,
+          -33.9253
+        ],
+        "capital": true,
+        "population": 4770313,
+        "edgeRegion": "cpt1"
+      }
+    ]
+  },
+  {
+    "code3": "COL",
+    "country": "Colombia",
+    "iso2": "CO",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Bogotá",
+        "coordinates": [
+          -74.0722,
+          4.7111
+        ],
+        "capital": true,
+        "population": 7968095
+      }
+    ]
+  },
+  {
+    "code3": "TZA",
+    "country": "Tanzania",
+    "iso2": "TZ",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Dar es Salaam",
+        "coordinates": [
+          39.2803,
+          -6.8161
+        ],
+        "capital": false,
+        "population": 7962000
+      }
+    ]
+  },
+  {
+    "code3": "SDN",
+    "country": "Sudan",
+    "iso2": "SD",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Khartoum",
+        "coordinates": [
+          32.5,
+          15.6
+        ],
+        "capital": true,
+        "population": 7869000
+      }
+    ]
+  },
+  {
+    "code3": "HKG",
+    "country": "Hong Kong",
+    "iso2": "HK",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Hong Kong",
+        "coordinates": [
+          114.2,
+          22.3
+        ],
+        "capital": true,
+        "population": 7450000,
+        "edgeRegion": "hkg1"
+      }
+    ]
+  },
+  {
+    "code3": "SAU",
+    "country": "Saudi Arabia",
+    "iso2": "SA",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Riyadh",
+        "coordinates": [
+          46.7167,
+          24.6333
+        ],
+        "capital": true,
+        "population": 7237000
+      }
+    ]
+  },
+  {
+    "code3": "CHL",
+    "country": "Chile",
+    "iso2": "CL",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Santiago",
+        "coordinates": [
+          -70.6506,
+          -33.4372
+        ],
+        "capital": true,
+        "population": 7171000
+      }
+    ]
+  },
+  {
+    "code3": "ESP",
+    "country": "Spain",
+    "iso2": "ES",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Madrid",
+        "coordinates": [
+          -3.7033,
+          40.4169
+        ],
+        "capital": true,
+        "population": 6211000
+      }
+    ]
+  },
+  {
+    "code3": "IRQ",
+    "country": "Iraq",
+    "iso2": "IQ",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Baghdad",
+        "coordinates": [
+          44.3661,
+          33.3153
+        ],
+        "capital": true,
+        "population": 6183000
+      }
+    ]
+  },
+  {
+    "code3": "SGP",
+    "country": "Singapore",
+    "iso2": "SG",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Singapore",
+        "coordinates": [
+          103.8,
+          1.3
+        ],
+        "capital": true,
+        "population": 5983000,
+        "edgeRegion": "sin1"
+      }
+    ]
+  },
+  {
+    "code3": "CMR",
+    "country": "Cameroon",
+    "iso2": "CM",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Douala",
+        "coordinates": [
+          9.7,
+          4.05
+        ],
+        "capital": false,
+        "population": 5768400
+      }
+    ]
+  },
+  {
+    "code3": "CAN",
+    "country": "Canada",
+    "iso2": "CA",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Toronto",
+        "coordinates": [
+          -79.3733,
+          43.7417
+        ],
+        "capital": false,
+        "population": 5647656
+      },
+      {
+        "city": "Montréal",
+        "coordinates": [
+          -73.5617,
+          45.5089
+        ],
+        "capital": false,
+        "population": 3675219
+      },
+      {
+        "city": "Vancouver",
+        "coordinates": [
+          -123.1,
+          49.25
+        ],
+        "capital": false,
+        "population": 2426160
+      },
+      {
+        "city": "Calgary",
+        "coordinates": [
+          -114.0719,
+          51.0447
+        ],
+        "capital": false,
+        "population": 1239220
+      },
+      {
+        "city": "Edmonton",
+        "coordinates": [
+          -113.4937,
+          53.5461
+        ],
+        "capital": false,
+        "population": 932546
+      },
+      {
+        "city": "Ottawa",
+        "coordinates": [
+          -75.6972,
+          45.4215
+        ],
+        "capital": true,
+        "population": 934243
+      },
+      {
+        "city": "Winnipeg",
+        "coordinates": [
+          -97.1384,
+          49.8951
+        ],
+        "capital": false,
+        "population": 749534
+      },
+      {
+        "city": "Quebec City",
+        "coordinates": [
+          -71.208,
+          46.8139
+        ],
+        "capital": false,
+        "population": 531902
+      }
+    ]
+  },
+  {
+    "code3": "KEN",
+    "country": "Kenya",
+    "iso2": "KE",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Nairobi",
+        "coordinates": [
+          36.8172,
+          -1.2864
+        ],
+        "capital": true,
+        "population": 5545000
+      }
+    ]
+  },
+  {
+    "code3": "MMR",
+    "country": "Burma",
+    "iso2": "MM",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Rangoon",
+        "coordinates": [
+          96.16,
+          16.795
+        ],
+        "capital": true,
+        "population": 5209541
+      }
+    ]
+  },
+  {
+    "code3": "AUS",
+    "country": "Australia",
+    "iso2": "AU",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Melbourne",
+        "coordinates": [
+          144.9631,
+          -37.8142
+        ],
+        "capital": false,
+        "population": 5031195
+      },
+      {
+        "city": "Sydney",
+        "coordinates": [
+          151.21,
+          -33.8678
+        ],
+        "capital": false,
+        "population": 4840600,
+        "edgeRegion": "syd1"
+      },
+      {
+        "city": "Brisbane",
+        "coordinates": [
+          153.0281,
+          -27.4678
+        ],
+        "capital": false,
+        "population": 2360241
+      }
+    ]
+  },
+  {
+    "code3": "CIV",
+    "country": "Côte d\\'Ivoire",
+    "iso2": "CI",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Abidjan",
+        "coordinates": [
+          -4.0333,
+          5.3167
+        ],
+        "capital": true,
+        "population": 4980000
+      }
+    ]
+  },
+  {
+    "code3": "DEU",
+    "country": "Germany",
+    "iso2": "DE",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Berlin",
+        "coordinates": [
+          13.405,
+          52.52
+        ],
+        "capital": true,
+        "population": 4890363
+      },
+      {
+        "city": "Frankfurt",
+        "coordinates": [
+          8.6822,
+          50.1106
+        ],
+        "capital": false,
+        "population": 773068,
+        "edgeRegion": "fra1"
+      }
+    ]
+  },
+  {
+    "code3": "AFG",
+    "country": "Afghanistan",
+    "iso2": "AF",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Kabul",
+        "coordinates": [
+          69.1783,
+          34.5253
+        ],
+        "capital": true,
+        "population": 4273156
+      }
+    ]
+  },
+  {
+    "code3": "MLI",
+    "country": "Mali",
+    "iso2": "ML",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Bamako",
+        "coordinates": [
+          -8.0028,
+          12.6392
+        ],
+        "capital": true,
+        "population": 4227569
+      }
+    ]
+  },
+  {
+    "code3": "JOR",
+    "country": "Jordan",
+    "iso2": "JO",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Amman",
+        "coordinates": [
+          35.9328,
+          31.9497
+        ],
+        "capital": true,
+        "population": 4007526
+      }
+    ]
+  },
+  {
+    "code3": "MAR",
+    "country": "Morocco",
+    "iso2": "MA",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Casablanca",
+        "coordinates": [
+          -7.5833,
+          33.5333
+        ],
+        "capital": false,
+        "population": 3499000
+      }
+    ]
+  },
+  {
+    "code3": "GHA",
+    "country": "Ghana",
+    "iso2": "GH",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Kumasi",
+        "coordinates": [
+          -1.625,
+          6.7
+        ],
+        "capital": false,
+        "population": 3490030
+      }
+    ]
+  },
+  {
+    "code3": "DZA",
+    "country": "Algeria",
+    "iso2": "DZ",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Algiers",
+        "coordinates": [
+          3.0589,
+          36.7539
+        ],
+        "capital": true,
+        "population": 3415811
+      }
+    ]
+  },
+  {
+    "code3": "ARE",
+    "country": "United Arab Emirates",
+    "iso2": "AE",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Dubai",
+        "coordinates": [
+          55.2972,
+          25.2631
+        ],
+        "capital": false,
+        "population": 3331420,
+        "edgeRegion": "dxb1"
+      }
+    ]
+  },
+  {
+    "code3": "BOL",
+    "country": "Bolivia",
+    "iso2": "BO",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Santa Cruz de la Sierra",
+        "coordinates": [
+          -63.1975,
+          -17.7892
+        ],
+        "capital": false,
+        "population": 3151676
+      }
+    ]
+  },
+  {
+    "code3": "GRC",
+    "country": "Greece",
+    "iso2": "GR",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Athens",
+        "coordinates": [
+          23.7281,
+          37.9842
+        ],
+        "capital": true,
+        "population": 3059764
+      }
+    ]
+  },
+  {
+    "code3": "ETH",
+    "country": "Ethiopia",
+    "iso2": "ET",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Addis Ababa",
+        "coordinates": [
+          38.74,
+          9.03
+        ],
+        "capital": true,
+        "population": 3041002
+      }
+    ]
+  },
+  {
+    "code3": "TWN",
+    "country": "Taiwan",
+    "iso2": "TW",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Taichung",
+        "coordinates": [
+          120.6794,
+          24.1439
+        ],
+        "capital": false,
+        "population": 3033885
+      }
+    ]
+  },
+  {
+    "code3": "GTM",
+    "country": "Guatemala",
+    "iso2": "GT",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Guatemala City",
+        "coordinates": [
+          -90.5353,
+          14.6133
+        ],
+        "capital": true,
+        "population": 3014000
+      }
+    ]
+  },
+  {
+    "code3": "KWT",
+    "country": "Kuwait",
+    "iso2": "KW",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Kuwait City",
+        "coordinates": [
+          47.9783,
+          29.3697
+        ],
+        "capital": true,
+        "population": 3000000
+      }
+    ]
+  },
+  {
+    "code3": "HUN",
+    "country": "Hungary",
+    "iso2": "HU",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Budapest",
+        "coordinates": [
+          19.0514,
+          47.4925
+        ],
+        "capital": true,
+        "population": 2997958
+      }
+    ]
+  },
+  {
+    "code3": "YEM",
+    "country": "Yemen",
+    "iso2": "YE",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Sanaa",
+        "coordinates": [
+          44.2064,
+          15.3483
+        ],
+        "capital": true,
+        "population": 2957000
+      }
+    ]
+  },
+  {
+    "code3": "UZB",
+    "country": "Uzbekistan",
+    "iso2": "UZ",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Tashkent",
+        "coordinates": [
+          69.2797,
+          41.3111
+        ],
+        "capital": true,
+        "population": 2956384
+      }
+    ]
+  },
+  {
+    "code3": "UKR",
+    "country": "Ukraine",
+    "iso2": "UA",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Kyiv",
+        "coordinates": [
+          30.5233,
+          50.45
+        ],
+        "capital": true,
+        "population": 2952301
+      }
+    ]
+  },
+  {
+    "code3": "PRK",
+    "country": "Korea, North",
+    "iso2": "KP",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Pyongyang",
+        "coordinates": [
+          125.7475,
+          39.0167
+        ],
+        "capital": true,
+        "population": 2863000
+      }
+    ]
+  },
+  {
+    "code3": "ITA",
+    "country": "Italy",
+    "iso2": "IT",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Rome",
+        "coordinates": [
+          12.4828,
+          41.8933
+        ],
+        "capital": true,
+        "population": 2748109
+      }
+    ]
+  },
+  {
+    "code3": "ECU",
+    "country": "Ecuador",
+    "iso2": "EC",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Guayaquil",
+        "coordinates": [
+          -79.8875,
+          -2.19
+        ],
+        "capital": false,
+        "population": 2650288
+      }
+    ]
+  },
+  {
+    "code3": "SOM",
+    "country": "Somalia",
+    "iso2": "SO",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Mogadishu",
+        "coordinates": [
+          45.3419,
+          2.0392
+        ],
+        "capital": true,
+        "population": 2610483
+      }
+    ]
+  },
+  {
+    "code3": "SYR",
+    "country": "Syria",
+    "iso2": "SY",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Damascus",
+        "coordinates": [
+          36.2919,
+          33.5131
+        ],
+        "capital": true,
+        "population": 2584771
+      }
+    ]
+  },
+  {
+    "code3": "ZMB",
+    "country": "Zambia",
+    "iso2": "ZM",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Lusaka",
+        "coordinates": [
+          28.2833,
+          -15.4167
+        ],
+        "capital": true,
+        "population": 2467563
+      }
+    ]
+  },
+  {
+    "code3": "BFA",
+    "country": "Burkina Faso",
+    "iso2": "BF",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Ouagadougou",
+        "coordinates": [
+          -1.5275,
+          12.3686
+        ],
+        "capital": true,
+        "population": 2453496
+      }
+    ]
+  },
+  {
+    "code3": "LBN",
+    "country": "Lebanon",
+    "iso2": "LB",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Beirut",
+        "coordinates": [
+          35.5057,
+          33.8983
+        ],
+        "capital": true,
+        "population": 2421354
+      }
+    ]
+  },
+  {
+    "code3": "ROU",
+    "country": "Romania",
+    "iso2": "RO",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Bucharest",
+        "coordinates": [
+          26.1039,
+          44.4325
+        ],
+        "capital": true,
+        "population": 2412530
+      }
+    ]
+  },
+  {
+    "code3": "LKA",
+    "country": "Sri Lanka",
+    "iso2": "LK",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Colombo",
+        "coordinates": [
+          79.8428,
+          6.9344
+        ],
+        "capital": true,
+        "population": 2323826
+      }
+    ]
+  },
+  {
+    "code3": "AZE",
+    "country": "Azerbaijan",
+    "iso2": "AZ",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Baku",
+        "coordinates": [
+          49.8822,
+          40.3953
+        ],
+        "capital": true,
+        "population": 2300500
+      }
+    ]
+  },
+  {
+    "code3": "MDG",
+    "country": "Madagascar",
+    "iso2": "MG",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Antananarivo",
+        "coordinates": [
+          47.525,
+          -18.91
+        ],
+        "capital": true,
+        "population": 2300000
+      }
+    ]
+  },
+  {
+    "code3": "VEN",
+    "country": "Venezuela",
+    "iso2": "VE",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Caracas",
+        "coordinates": [
+          -66.9036,
+          10.4806
+        ],
+        "capital": true,
+        "population": 2245744
+      }
+    ]
+  },
+  {
+    "code3": "AUT",
+    "country": "Austria",
+    "iso2": "AT",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Vienna",
+        "coordinates": [
+          16.3725,
+          48.2083
+        ],
+        "capital": true,
+        "population": 2223236
+      }
+    ]
+  },
+  {
+    "code3": "ZWE",
+    "country": "Zimbabwe",
+    "iso2": "ZW",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Harare",
+        "coordinates": [
+          31.0522,
+          -17.8292
+        ],
+        "capital": true,
+        "population": 2150000
+      }
+    ]
+  },
+  {
+    "code3": "KHM",
+    "country": "Cambodia",
+    "iso2": "KH",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Phnom Penh",
+        "coordinates": [
+          104.9211,
+          11.5694
+        ],
+        "capital": true,
+        "population": 2129371
+      }
+    ]
+  },
+  {
+    "code3": "SWE",
+    "country": "Sweden",
+    "iso2": "SE",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Stockholm",
+        "coordinates": [
+          18.0686,
+          59.3294
+        ],
+        "capital": true,
+        "population": 2121000,
+        "edgeRegion": "arn1"
+      }
+    ]
+  },
+  {
+    "code3": "CUB",
+    "country": "Cuba",
+    "iso2": "CU",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Havana",
+        "coordinates": [
+          -82.3589,
+          23.1367
+        ],
+        "capital": true,
+        "population": 2089532
+      }
+    ]
+  },
+  {
+    "code3": "BLR",
+    "country": "Belarus",
+    "iso2": "BY",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Minsk",
+        "coordinates": [
+          27.5667,
+          53.9
+        ],
+        "capital": true,
+        "population": 1995471
+      }
+    ]
+  },
+  {
+    "code3": "NLD",
+    "country": "Netherlands",
+    "iso2": "NL",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Tilburg",
+        "coordinates": [
+          5.0833,
+          51.55
+        ],
+        "capital": false,
+        "population": 1944588
+      }
+    ]
+  },
+  {
+    "code3": "KAZ",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Almaty",
+        "coordinates": [
+          76.915,
+          43.24
+        ],
+        "capital": false,
+        "population": 1916822
+      }
+    ]
+  },
+  {
+    "code3": "MWI",
+    "country": "Malawi",
+    "iso2": "MW",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Blantyre",
+        "coordinates": [
+          35.0058,
+          -15.7861
+        ],
+        "capital": false,
+        "population": 1895973
+      }
+    ]
+  },
+  {
+    "code3": "POL",
+    "country": "Poland",
+    "iso2": "PL",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Warsaw",
+        "coordinates": [
+          21.0111,
+          52.23
+        ],
+        "capital": true,
+        "population": 1860281
+      }
+    ]
+  },
+  {
+    "code3": "PRI",
+    "country": "Puerto Rico",
+    "iso2": "PR",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "San Juan",
+        "coordinates": [
+          -66.061,
+          18.3985
+        ],
+        "capital": true,
+        "population": 1814587
+      }
+    ]
+  },
+  {
+    "code3": "COG",
+    "country": "Congo (Brazzaville)",
+    "iso2": "CG",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Brazzaville",
+        "coordinates": [
+          15.2711,
+          -4.2694
+        ],
+        "capital": true,
+        "population": 1733263
+      }
+    ]
+  },
+  {
+    "code3": "OMN",
+    "country": "Oman",
+    "iso2": "OM",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Masqaţ",
+        "coordinates": [
+          58.4083,
+          23.5889
+        ],
+        "capital": false,
+        "population": 1720000
+      }
+    ]
+  },
+  {
+    "code3": "URY",
+    "country": "Uruguay",
+    "iso2": "UY",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Montevideo",
+        "coordinates": [
+          -56.1819,
+          -34.8836
+        ],
+        "capital": true,
+        "population": 1719453
+      }
+    ]
+  },
+  {
+    "code3": "HND",
+    "country": "Honduras",
+    "iso2": "HN",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Tegucigalpa",
+        "coordinates": [
+          -87.2047,
+          14.1058
+        ],
+        "capital": true,
+        "population": 1682725
+      }
+    ]
+  },
+  {
+    "code3": "UGA",
+    "country": "Uganda",
+    "iso2": "UG",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Kampala",
+        "coordinates": [
+          32.5811,
+          0.3136
+        ],
+        "capital": true,
+        "population": 1680600
+      }
+    ]
+  },
+  {
+    "code3": "GIN",
+    "country": "Guinea",
+    "iso2": "GN",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Conakry",
+        "coordinates": [
+          -13.7122,
+          9.5092
+        ],
+        "capital": true,
+        "population": 1667864
+      }
+    ]
+  },
+  {
+    "code3": "BGR",
+    "country": "Bulgaria",
+    "iso2": "BG",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Sofia",
+        "coordinates": [
+          23.33,
+          42.7
+        ],
+        "capital": true,
+        "population": 1547779
+      }
+    ]
+  },
+  {
+    "code3": "CRI",
+    "country": "Costa Rica",
+    "iso2": "CR",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "San José",
+        "coordinates": [
+          -84.08,
+          9.9325
+        ],
+        "capital": true,
+        "population": 1543000
+      }
+    ]
+  },
+  {
+    "code3": "RWA",
+    "country": "Rwanda",
+    "iso2": "RW",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Kigali",
+        "coordinates": [
+          30.0594,
+          -1.9439
+        ],
+        "capital": true,
+        "population": 1518632
+      }
+    ]
+  },
+  {
+    "code3": "PAN",
+    "country": "Panama",
+    "iso2": "PA",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Panama City",
+        "coordinates": [
+          -79.5167,
+          8.9833
+        ],
+        "capital": true,
+        "population": 1500189
+      }
+    ]
+  },
+  {
+    "code3": "SEN",
+    "country": "Senegal",
+    "iso2": "SN",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Dakar",
+        "coordinates": [
+          -17.4467,
+          14.6928
+        ],
+        "capital": true,
+        "population": 1438725
+      }
+    ]
+  },
+  {
+    "code3": "MNG",
+    "country": "Mongolia",
+    "iso2": "MN",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Ulaanbaatar",
+        "coordinates": [
+          106.9172,
+          47.9203
+        ],
+        "capital": true,
+        "population": 1396288
+      }
+    ]
+  },
+  {
+    "code3": "ISR",
+    "country": "Israel",
+    "iso2": "IL",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Tel Aviv-Yafo",
+        "coordinates": [
+          34.78,
+          32.08
+        ],
+        "capital": false,
+        "population": 1388400
+      }
+    ]
+  },
+  {
+    "code3": "DNK",
+    "country": "Denmark",
+    "iso2": "DK",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Copenhagen",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ],
+        "capital": true,
+        "population": 1366301
+      }
+    ]
+  },
+  {
+    "code3": "FIN",
+    "country": "Finland",
+    "iso2": "FI",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Helsinki",
+        "coordinates": [
+          24.9375,
+          60.1708
+        ],
+        "capital": true,
+        "population": 1360075
+      }
+    ]
+  },
+  {
+    "code3": "CZE",
+    "country": "Czechia",
+    "iso2": "CZ",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Prague",
+        "coordinates": [
+          14.4214,
+          50.0875
+        ],
+        "capital": true,
+        "population": 1357326
+      }
+    ]
+  },
+  {
+    "code3": "NZL",
+    "country": "New Zealand",
+    "iso2": "NZ",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Auckland",
+        "coordinates": [
+          174.74,
+          -36.8406
+        ],
+        "capital": false,
+        "population": 1346091
+      }
+    ]
+  },
+  {
+    "code3": "DOM",
+    "country": "Dominican Republic",
+    "iso2": "DO",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Santiago",
+        "coordinates": [
+          -70.6889,
+          19.4572
+        ],
+        "capital": false,
+        "population": 1343423
+      }
+    ]
+  },
+  {
+    "code3": "PRT",
+    "country": "Portugal",
+    "iso2": "PT",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Porto",
+        "coordinates": [
+          -8.622,
+          41.1621
+        ],
+        "capital": false,
+        "population": 1278210
+      }
+    ]
+  },
+  {
+    "code3": "IRL",
+    "country": "Ireland",
+    "iso2": "IE",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Dublin",
+        "coordinates": [
+          -6.2603,
+          53.35
+        ],
+        "capital": true,
+        "population": 1263219,
+        "edgeRegion": "dub1"
+      }
+    ]
+  },
+  {
+    "code3": "BEL",
+    "country": "Belgium",
+    "iso2": "BE",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Brussels",
+        "coordinates": [
+          4.3525,
+          50.8467
+        ],
+        "capital": true,
+        "population": 1235192
+      }
+    ]
+  },
+  {
+    "code3": "SRB",
+    "country": "Serbia",
+    "iso2": "RS",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Belgrade",
+        "coordinates": [
+          20.46,
+          44.82
+        ],
+        "capital": true,
+        "population": 1197714
+      }
+    ]
+  },
+  {
+    "code3": "QAT",
+    "country": "Qatar",
+    "iso2": "QA",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Doha",
+        "coordinates": [
+          51.5333,
+          25.2867
+        ],
+        "capital": true,
+        "population": 1186023
+      }
+    ]
+  },
+  {
+    "code3": "LBY",
+    "country": "Libya",
+    "iso2": "LY",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Tripoli",
+        "coordinates": [
+          13.1914,
+          32.8872
+        ],
+        "capital": true,
+        "population": 1183000
+      }
+    ]
+  },
+  {
+    "code3": "BDI",
+    "country": "Burundi",
+    "iso2": "BI",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Bujumbura",
+        "coordinates": [
+          29.3667,
+          -3.3833
+        ],
+        "capital": true,
+        "population": 1143202
+      }
+    ]
+  },
+  {
+    "code3": "MOZ",
+    "country": "Mozambique",
+    "iso2": "MZ",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Maputo",
+        "coordinates": [
+          32.5833,
+          -25.9667
+        ],
+        "capital": true,
+        "population": 1133200
+      }
+    ]
+  },
+  {
+    "code3": "KGZ",
+    "country": "Kyrgyzstan",
+    "iso2": "KG",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Bishkek",
+        "coordinates": [
+          74.6122,
+          42.8747
+        ],
+        "capital": true,
+        "population": 1120827
+      }
+    ]
+  },
+  {
+    "code3": "GEO",
+    "country": "Georgia",
+    "iso2": "GE",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Tbilisi",
+        "coordinates": [
+          44.7925,
+          41.7225
+        ],
+        "capital": true,
+        "population": 1118035
+      }
+    ]
+  },
+  {
+    "code3": "MRT",
+    "country": "Mauritania",
+    "iso2": "MR",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Nouakchott",
+        "coordinates": [
+          -15.9785,
+          18.0858
+        ],
+        "capital": true,
+        "population": 1077169
+      }
+    ]
+  },
+  {
+    "code3": "ARM",
+    "country": "Armenia",
+    "iso2": "AM",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Yerevan",
+        "coordinates": [
+          44.5144,
+          40.1814
+        ],
+        "capital": true,
+        "population": 1075800
+      }
+    ]
+  },
+  {
+    "code3": "NOR",
+    "country": "Norway",
+    "iso2": "NO",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Oslo",
+        "coordinates": [
+          10.7389,
+          59.9133
+        ],
+        "capital": true,
+        "population": 1064235
+      }
+    ]
+  },
+  {
+    "code3": "NIC",
+    "country": "Nicaragua",
+    "iso2": "NI",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Managua",
+        "coordinates": [
+          -86.2514,
+          12.1364
+        ],
+        "capital": true,
+        "population": 1051236
+      }
+    ]
+  },
+  {
+    "code3": "TKM",
+    "country": "Turkmenistan",
+    "iso2": "TM",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Ashgabat",
+        "coordinates": [
+          58.38,
+          37.9375
+        ],
+        "capital": true,
+        "population": 1030063
+      }
+    ]
+  },
+  {
+    "code3": "NER",
+    "country": "Niger",
+    "iso2": "NE",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Niamey",
+        "coordinates": [
+          2.1175,
+          13.515
+        ],
+        "capital": true,
+        "population": 1026848
+      }
+    ]
+  },
+  {
+    "code3": "LBR",
+    "country": "Liberia",
+    "iso2": "LR",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Monrovia",
+        "coordinates": [
+          -10.8014,
+          6.3133
+        ],
+        "capital": true,
+        "population": 1021762
+      }
+    ]
+  },
+  {
+    "code3": "HTI",
+    "country": "Haiti",
+    "iso2": "HT",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Port-au-Prince",
+        "coordinates": [
+          -72.3333,
+          18.5333
+        ],
+        "capital": true,
+        "population": 987310
+      }
+    ]
+  },
+  {
+    "code3": "ERI",
+    "country": "Eritrea",
+    "iso2": "ER",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Asmara",
+        "coordinates": [
+          38.925,
+          15.3228
+        ],
+        "capital": true,
+        "population": 963000
+      }
+    ]
+  },
+  {
+    "code3": "SLE",
+    "country": "Sierra Leone",
+    "iso2": "SL",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Freetown",
+        "coordinates": [
+          -13.2344,
+          8.4844
+        ],
+        "capital": true,
+        "population": 951000
+      }
+    ]
+  },
+  {
+    "code3": "LAO",
+    "country": "Laos",
+    "iso2": "LA",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Vientiane",
+        "coordinates": [
+          102.63,
+          17.98
+        ],
+        "capital": true,
+        "population": 948487
+      }
+    ]
+  },
+  {
+    "code3": "LVA",
+    "country": "Latvia",
+    "iso2": "LV",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Riga",
+        "coordinates": [
+          24.1064,
+          56.9489
+        ],
+        "capital": true,
+        "population": 920643
+      }
+    ]
+  },
+  {
+    "code3": "CAF",
+    "country": "Central African Republic",
+    "iso2": "CF",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Bangui",
+        "coordinates": [
+          18.5628,
+          4.3733
+        ],
+        "capital": true,
+        "population": 889231
+      }
+    ]
+  },
+  {
+    "code3": "TJK",
+    "country": "Tajikistan",
+    "iso2": "TJ",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Dushanbe",
+        "coordinates": [
+          68.78,
+          38.5367
+        ],
+        "capital": true,
+        "population": 863400
+      }
+    ]
+  },
+  {
+    "code3": "NPL",
+    "country": "Nepal",
+    "iso2": "NP",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Kathmandu",
+        "coordinates": [
+          85.32,
+          27.71
+        ],
+        "capital": true,
+        "population": 845767
+      }
+    ]
+  },
+  {
+    "code3": "GAB",
+    "country": "Gabon",
+    "iso2": "GA",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Libreville",
+        "coordinates": [
+          9.4542,
+          0.3903
+        ],
+        "capital": true,
+        "population": 797003
+      }
+    ]
+  },
+  {
+    "code3": "HRV",
+    "country": "Croatia",
+    "iso2": "HR",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Zagreb",
+        "coordinates": [
+          15.9775,
+          45.8131
+        ],
+        "capital": true,
+        "population": 767131
+      }
+    ]
+  },
+  {
+    "code3": "LTU",
+    "country": "Lithuania",
+    "iso2": "LT",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Vilnius",
+        "coordinates": [
+          25.28,
+          54.6872
+        ],
+        "capital": true,
+        "population": 716856
+      }
+    ]
+  },
+  {
+    "code3": "MDA",
+    "country": "Moldova",
+    "iso2": "MD",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Chisinau",
+        "coordinates": [
+          28.8353,
+          47.0228
+        ],
+        "capital": true,
+        "population": 702300
+      }
+    ]
+  },
+  {
+    "code3": "PNG",
+    "country": "Papua New Guinea",
+    "iso2": "PG",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Port Moresby",
+        "coordinates": [
+          147.1494,
+          -9.4789
+        ],
+        "capital": true,
+        "population": 700000
+      }
+    ]
+  },
+  {
+    "code3": "BEN",
+    "country": "Benin",
+    "iso2": "BJ",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Cotonou",
+        "coordinates": [
+          2.4333,
+          6.3667
+        ],
+        "capital": true,
+        "population": 679012
+      }
+    ]
+  },
+  {
+    "code3": "BHR",
+    "country": "Bahrain",
+    "iso2": "BH",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Manama",
+        "coordinates": [
+          50.5775,
+          26.225
+        ],
+        "capital": true,
+        "population": 635000
+      }
+    ]
+  },
+  {
+    "code3": "EST",
+    "country": "Estonia",
+    "iso2": "EE",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Tallinn",
+        "coordinates": [
+          24.7453,
+          59.4372
+        ],
+        "capital": true,
+        "population": 614561
+      }
+    ]
+  },
+  {
+    "code3": "DJI",
+    "country": "Djibouti",
+    "iso2": "DJ",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Djibouti",
+        "coordinates": [
+          43.145,
+          11.5883
+        ],
+        "capital": true,
+        "population": 603900
+      }
+    ]
+  },
+  {
+    "code3": "TUN",
+    "country": "Tunisia",
+    "iso2": "TN",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Tunis",
+        "coordinates": [
+          10.1817,
+          36.8064
+        ],
+        "capital": true,
+        "population": 602560
+      }
+    ]
+  },
+  {
+    "code3": "XGZ",
+    "country": "Gaza Strip",
+    "iso2": "XG",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Gaza",
+        "coordinates": [
+          34.456,
+          31.5069
+        ],
+        "capital": true,
+        "population": 590481
+      }
+    ]
+  },
+  {
+    "code3": "JAM",
+    "country": "Jamaica",
+    "iso2": "JM",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Kingston",
+        "coordinates": [
+          -76.7931,
+          17.9714
+        ],
+        "capital": true,
+        "population": 580000
+      }
+    ]
+  },
+  {
+    "code3": "MAC",
+    "country": "Macau",
+    "iso2": "MO",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Macau",
+        "coordinates": [
+          113.5461,
+          22.2006
+        ],
+        "capital": false,
+        "population": 568700
+      }
+    ]
+  },
+  {
+    "code3": "MKD",
+    "country": "North Macedonia",
+    "iso2": "MK",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Skopje",
+        "coordinates": [
+          21.4317,
+          41.9961
+        ],
+        "capital": true,
+        "population": 526502
+      }
+    ]
+  },
+  {
+    "code3": "GNB",
+    "country": "Guinea-Bissau",
+    "iso2": "GW",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Bissau",
+        "coordinates": [
+          -15.5667,
+          11.85
+        ],
+        "capital": true,
+        "population": 492004
+      }
+    ]
+  },
+  {
+    "code3": "MLT",
+    "country": "Malta",
+    "iso2": "MT",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Valletta",
+        "coordinates": [
+          14.5125,
+          35.8983
+        ],
+        "capital": true,
+        "population": 480134
+      }
+    ]
+  },
+  {
+    "code3": "PRY",
+    "country": "Paraguay",
+    "iso2": "PY",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Asunción",
+        "coordinates": [
+          -57.6333,
+          -25.3
+        ],
+        "capital": true,
+        "population": 477346
+      }
+    ]
+  },
+  {
+    "code3": "SVK",
+    "country": "Slovakia",
+    "iso2": "SK",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Bratislava",
+        "coordinates": [
+          17.1097,
+          48.1439
+        ],
+        "capital": true,
+        "population": 475503
+      }
+    ]
+  },
+  {
+    "code3": "SSD",
+    "country": "South Sudan",
+    "iso2": "SS",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Juba",
+        "coordinates": [
+          31.6,
+          4.85
+        ],
+        "capital": true,
+        "population": 459342
+      }
+    ]
+  },
+  {
+    "code3": "CHE",
+    "country": "Switzerland",
+    "iso2": "CH",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Zürich",
+        "coordinates": [
+          8.5411,
+          47.3744
+        ],
+        "capital": false,
+        "population": 447082
+      }
+    ]
+  },
+  {
+    "code3": "NAM",
+    "country": "Namibia",
+    "iso2": "NA",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Windhoek",
+        "coordinates": [
+          17.0836,
+          -22.57
+        ],
+        "capital": true,
+        "population": 431000
+      }
+    ]
+  },
+  {
+    "code3": "BIH",
+    "country": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Sarajevo",
+        "coordinates": [
+          18.4131,
+          43.8564
+        ],
+        "capital": true,
+        "population": 419957
+      }
+    ]
+  },
+  {
+    "code3": "ALB",
+    "country": "Albania",
+    "iso2": "AL",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Tirana",
+        "coordinates": [
+          19.8178,
+          41.3289
+        ],
+        "capital": true,
+        "population": 418495
+      }
+    ]
+  },
+  {
+    "code3": "GMB",
+    "country": "Gambia, The",
+    "iso2": "GM",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Banjul",
+        "coordinates": [
+          -16.5775,
+          13.4531
+        ],
+        "capital": true,
+        "population": 413397
+      }
+    ]
+  },
+  {
+    "code3": "LSO",
+    "country": "Lesotho",
+    "iso2": "LS",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Maseru",
+        "coordinates": [
+          27.48,
+          -29.31
+        ],
+        "capital": true,
+        "population": 343541
+      }
+    ]
+  },
+  {
+    "code3": "CYP",
+    "country": "Cyprus",
+    "iso2": "CY",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Nicosia",
+        "coordinates": [
+          33.365,
+          35.1725
+        ],
+        "capital": true,
+        "population": 330000
+      }
+    ]
+  },
+  {
+    "code3": "SLV",
+    "country": "El Salvador",
+    "iso2": "SV",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "San Salvador",
+        "coordinates": [
+          -89.1914,
+          13.6989
+        ],
+        "capital": true,
+        "population": 316090
+      }
+    ]
+  },
+  {
+    "code3": "REU",
+    "country": "Reunion",
+    "iso2": "RE",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Saint-Denis",
+        "coordinates": [
+          55.4481,
+          -20.8789
+        ],
+        "capital": true,
+        "population": 315080
+      }
+    ]
+  },
+  {
+    "code3": "GNQ",
+    "country": "Equatorial Guinea",
+    "iso2": "GQ",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Malabo",
+        "coordinates": [
+          8.7744,
+          3.7456
+        ],
+        "capital": true,
+        "population": 297000
+      }
+    ]
+  },
+  {
+    "code3": "SVN",
+    "country": "Slovenia",
+    "iso2": "SI",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Ljubljana",
+        "coordinates": [
+          14.5061,
+          46.0514
+        ],
+        "capital": true,
+        "population": 284293
+      }
+    ]
+  },
+  {
+    "code3": "BHS",
+    "country": "Bahamas, The",
+    "iso2": "BS",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Nassau",
+        "coordinates": [
+          -77.3386,
+          25.0781
+        ],
+        "capital": true,
+        "population": 274400
+      }
+    ]
+  },
+  {
+    "code3": "MTQ",
+    "country": "Martinique",
+    "iso2": "MQ",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Fort-de-France",
+        "coordinates": [
+          -61.0667,
+          14.6
+        ],
+        "capital": true,
+        "population": 253995
+      }
+    ]
+  },
+  {
+    "code3": "GLP",
+    "country": "Guadeloupe",
+    "iso2": "GP",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Pointe-à-Pitre",
+        "coordinates": [
+          -61.5331,
+          16.2411
+        ],
+        "capital": false,
+        "population": 250952
+      }
+    ]
+  },
+  {
+    "code3": "BWA",
+    "country": "Botswana",
+    "iso2": "BW",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Gaborone",
+        "coordinates": [
+          25.9122,
+          -24.6581
+        ],
+        "capital": true,
+        "population": 235884
+      }
+    ]
+  },
+  {
+    "code3": "SUR",
+    "country": "Suriname",
+    "iso2": "SR",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Paramaribo",
+        "coordinates": [
+          -55.2039,
+          5.8522
+        ],
+        "capital": true,
+        "population": 223757
+      }
+    ]
+  },
+  {
+    "code3": "TLS",
+    "country": "Timor-Leste",
+    "iso2": "TL",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Dili",
+        "coordinates": [
+          125.5783,
+          -8.5536
+        ],
+        "capital": true,
+        "population": 222323
+      }
+    ]
+  },
+  {
+    "code3": "XKS",
+    "country": "Kosovo",
+    "iso2": "XK",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Prizren",
+        "coordinates": [
+          20.7392,
+          42.2128
+        ],
+        "capital": false,
+        "population": 220128
+      }
+    ]
+  },
+  {
+    "code3": "XWB",
+    "country": "West Bank",
+    "iso2": "XW",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Hebron",
+        "coordinates": [
+          35.0969,
+          31.5286
+        ],
+        "capital": false,
+        "population": 201063
+      }
+    ]
+  },
+  {
+    "code3": "GUY",
+    "country": "Guyana",
+    "iso2": "GY",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Georgetown",
+        "coordinates": [
+          -58.1508,
+          6.8058
+        ],
+        "capital": true,
+        "population": 200500
+      }
+    ]
+  },
+  {
+    "code3": "FJI",
+    "country": "Fiji",
+    "iso2": "FJ",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Suva",
+        "coordinates": [
+          178.4419,
+          -18.1416
+        ],
+        "capital": true,
+        "population": 185913
+      }
+    ]
+  },
+  {
+    "code3": "NCL",
+    "country": "New Caledonia",
+    "iso2": "NC",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Nouméa",
+        "coordinates": [
+          166.458,
+          -22.2758
+        ],
+        "capital": true,
+        "population": 182341
+      }
+    ]
+  },
+  {
+    "code3": "MNE",
+    "country": "Montenegro",
+    "iso2": "ME",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Podgorica",
+        "coordinates": [
+          19.2628,
+          42.4414
+        ],
+        "capital": true,
+        "population": 173024
+      }
+    ]
+  },
+  {
+    "code3": "CUW",
+    "country": "Curaçao",
+    "iso2": "CW",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Willemstad",
+        "coordinates": [
+          -68.935,
+          12.108
+        ],
+        "capital": true,
+        "population": 150000
+      }
+    ]
+  },
+  {
+    "code3": "MUS",
+    "country": "Mauritius",
+    "iso2": "MU",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Port Louis",
+        "coordinates": [
+          57.5042,
+          -20.1644
+        ],
+        "capital": true,
+        "population": 149194
+      }
+    ]
+  },
+  {
+    "code3": "ISL",
+    "country": "Iceland",
+    "iso2": "IS",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Reykjavík",
+        "coordinates": [
+          -21.94,
+          64.1467
+        ],
+        "capital": true,
+        "population": 139875
+      }
+    ]
+  },
+  {
+    "code3": "MDV",
+    "country": "Maldives",
+    "iso2": "MV",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Male",
+        "coordinates": [
+          73.5089,
+          4.1753
+        ],
+        "capital": true,
+        "population": 133019
+      }
+    ]
+  },
+  {
+    "code3": "LUX",
+    "country": "Luxembourg",
+    "iso2": "LU",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Luxembourg",
+        "coordinates": [
+          6.1319,
+          49.6117
+        ],
+        "capital": true,
+        "population": 132780
+      }
+    ]
+  },
+  {
+    "code3": "PYF",
+    "country": "French Polynesia",
+    "iso2": "PF",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Papeete",
+        "coordinates": [
+          -149.5667,
+          -17.5334
+        ],
+        "capital": true,
+        "population": 131695
+      }
+    ]
+  },
+  {
+    "code3": "GUM",
+    "country": "Guam",
+    "iso2": "GU",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Maina",
+        "coordinates": [
+          144.7332,
+          13.4692
+        ],
+        "capital": false,
+        "population": 122411
+      }
+    ]
+  },
+  {
+    "code3": "BTN",
+    "country": "Bhutan",
+    "iso2": "BT",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Thimphu",
+        "coordinates": [
+          89.6361,
+          27.4722
+        ],
+        "capital": true,
+        "population": 114551
+      }
+    ]
+  },
+  {
+    "code3": "TGO",
+    "country": "Togo",
+    "iso2": "TG",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Sokodé",
+        "coordinates": [
+          1.1333,
+          8.9833
+        ],
+        "capital": false,
+        "population": 113000
+      }
+    ]
+  },
+  {
+    "code3": "SWZ",
+    "country": "Eswatini",
+    "iso2": "SZ",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Manzini",
+        "coordinates": [
+          31.3667,
+          -26.4833
+        ],
+        "capital": false,
+        "population": 110508
+      }
+    ]
+  },
+  {
+    "code3": "BRB",
+    "country": "Barbados",
+    "iso2": "BB",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Bridgetown",
+        "coordinates": [
+          -59.6167,
+          13.0975
+        ],
+        "capital": true,
+        "population": 110000
+      }
+    ]
+  },
+  {
+    "code3": "TTO",
+    "country": "Trinidad and Tobago",
+    "iso2": "TT",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Chaguanas",
+        "coordinates": [
+          -61.4,
+          10.5167
+        ],
+        "capital": false,
+        "population": 101297
+      }
+    ]
+  },
+  {
+    "code3": "SLB",
+    "country": "Solomon Islands",
+    "iso2": "SB",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Honiara",
+        "coordinates": [
+          159.9556,
+          -9.4319
+        ],
+        "capital": true,
+        "population": 84520
+      }
+    ]
+  },
+  {
+    "code3": "MYT",
+    "country": "Mayotte",
+    "iso2": "YT",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Mamoudzou",
+        "coordinates": [
+          45.2278,
+          -12.7806
+        ],
+        "capital": true,
+        "population": 71437
+      }
+    ]
+  },
+  {
+    "code3": "CPV",
+    "country": "Cabo Verde",
+    "iso2": "CV",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Mindelo",
+        "coordinates": [
+          -24.988,
+          16.886
+        ],
+        "capital": false,
+        "population": 70468
+      }
+    ]
+  },
+  {
+    "code3": "LCA",
+    "country": "Saint Lucia",
+    "iso2": "LC",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Castries",
+        "coordinates": [
+          -60.9833,
+          14.0167
+        ],
+        "capital": true,
+        "population": 70000
+      }
+    ]
+  },
+  {
+    "code3": "STP",
+    "country": "Sao Tome and Principe",
+    "iso2": "ST",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "São Tomé",
+        "coordinates": [
+          6.7306,
+          0.3361
+        ],
+        "capital": true,
+        "population": 65468
+      }
+    ]
+  },
+  {
+    "code3": "GUF",
+    "country": "French Guiana",
+    "iso2": "GF",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Cayenne",
+        "coordinates": [
+          -52.33,
+          4.933
+        ],
+        "capital": true,
+        "population": 61550
+      }
+    ]
+  },
+  {
+    "code3": "BLZ",
+    "country": "Belize",
+    "iso2": "BZ",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Belize City",
+        "coordinates": [
+          -88.1886,
+          17.4986
+        ],
+        "capital": false,
+        "population": 57169
+      }
+    ]
+  },
+  {
+    "code3": "BRN",
+    "country": "Brunei",
+    "iso2": "BN",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Bandar Seri Begawan",
+        "coordinates": [
+          114.9422,
+          4.8903
+        ],
+        "capital": true,
+        "population": 50000
+      }
+    ]
+  },
+  {
+    "code3": "VUT",
+    "country": "Vanuatu",
+    "iso2": "VU",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Port-Vila",
+        "coordinates": [
+          168.3167,
+          -17.7333
+        ],
+        "capital": true,
+        "population": 49034
+      }
+    ]
+  },
+  {
+    "code3": "WSM",
+    "country": "Samoa",
+    "iso2": "WS",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Apia",
+        "coordinates": [
+          -171.75,
+          -13.8333
+        ],
+        "capital": true,
+        "population": 37708
+      }
+    ]
+  },
+  {
+    "code3": "MCO",
+    "country": "Monaco",
+    "iso2": "MC",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Monaco",
+        "coordinates": [
+          7.4167,
+          43.7333
+        ],
+        "capital": true,
+        "population": 36371
+      }
+    ]
+  },
+  {
+    "code3": "ABW",
+    "country": "Aruba",
+    "iso2": "AW",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Oranjestad",
+        "coordinates": [
+          -70.0358,
+          12.5186
+        ],
+        "capital": true,
+        "population": 34980
+      }
+    ]
+  },
+  {
+    "code3": "GIB",
+    "country": "Gibraltar",
+    "iso2": "GI",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Gibraltar",
+        "coordinates": [
+          -5.35,
+          36.14
+        ],
+        "capital": true,
+        "population": 34003
+      }
+    ]
+  },
+  {
+    "code3": "JEY",
+    "country": "Jersey",
+    "iso2": "JE",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Saint Helier",
+        "coordinates": [
+          -2.11,
+          49.1858
+        ],
+        "capital": true,
+        "population": 33522
+      }
+    ]
+  },
+  {
+    "code3": "MHL",
+    "country": "Marshall Islands",
+    "iso2": "MH",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Majuro",
+        "coordinates": [
+          171.3833,
+          7.0833
+        ],
+        "capital": true,
+        "population": 30000
+      }
+    ]
+  },
+  {
+    "code3": "COM",
+    "country": "Comoros",
+    "iso2": "KM",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Mutsamudu",
+        "coordinates": [
+          44.3939,
+          -12.1675
+        ],
+        "capital": false,
+        "population": 30000
+      }
+    ]
+  },
+  {
+    "code3": "KIR",
+    "country": "Kiribati",
+    "iso2": "KI",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Tarawa",
+        "coordinates": [
+          173.0176,
+          1.3382
+        ],
+        "capital": true,
+        "population": 28802
+      }
+    ]
+  },
+  {
+    "code3": "IMN",
+    "country": "Isle of Man",
+    "iso2": "IM",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Douglas",
+        "coordinates": [
+          -4.4775,
+          54.15
+        ],
+        "capital": true,
+        "population": 27938
+      }
+    ]
+  },
+  {
+    "code3": "CYM",
+    "country": "Cayman Islands",
+    "iso2": "KY",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "George Town",
+        "coordinates": [
+          -81.3744,
+          19.2866
+        ],
+        "capital": true,
+        "population": 27704
+      }
+    ]
+  },
+  {
+    "code3": "SYC",
+    "country": "Seychelles",
+    "iso2": "SC",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Victoria",
+        "coordinates": [
+          55.4525,
+          -4.6231
+        ],
+        "capital": true,
+        "population": 24701
+      }
+    ]
+  },
+  {
+    "code3": "VCT",
+    "country": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Calliaqua",
+        "coordinates": [
+          -61.1928,
+          13.1308
+        ],
+        "capital": false,
+        "population": 24205
+      }
+    ]
+  },
+  {
+    "code3": "AND",
+    "country": "Andorra",
+    "iso2": "AD",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Andorra la Vella",
+        "coordinates": [
+          1.5,
+          42.5
+        ],
+        "capital": true,
+        "population": 22615
+      }
+    ]
+  },
+  {
+    "code3": "GGY",
+    "country": "Guernsey",
+    "iso2": "GG",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Saint Peter Port",
+        "coordinates": [
+          -2.5368,
+          49.4555
+        ],
+        "capital": true,
+        "population": 18958
+      }
+    ]
+  },
+  {
+    "code3": "GRL",
+    "country": "Greenland",
+    "iso2": "GL",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Nuuk",
+        "coordinates": [
+          -51.6942,
+          64.1814
+        ],
+        "capital": true,
+        "population": 18326
+      }
+    ]
+  },
+  {
+    "code3": "DMA",
+    "country": "Dominica",
+    "iso2": "DM",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Roseau",
+        "coordinates": [
+          -61.3883,
+          15.3014
+        ],
+        "capital": true,
+        "population": 14725
+      }
+    ]
+  },
+  {
+    "code3": "FSM",
+    "country": "Micronesia, Federated States of",
+    "iso2": "FM",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Weno",
+        "coordinates": [
+          151.8583,
+          7.4417
+        ],
+        "capital": false,
+        "population": 13856
+      }
+    ]
+  },
+  {
+    "code3": "FRO",
+    "country": "Faroe Islands",
+    "iso2": "FO",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Tórshavn",
+        "coordinates": [
+          -6.7833,
+          62
+        ],
+        "capital": true,
+        "population": 13326
+      }
+    ]
+  },
+  {
+    "code3": "KNA",
+    "country": "Saint Kitts and Nevis",
+    "iso2": "KN",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Basseterre",
+        "coordinates": [
+          -62.7333,
+          17.3
+        ],
+        "capital": true,
+        "population": 13220
+      }
+    ]
+  },
+  {
+    "code3": "VGB",
+    "country": "Virgin Islands, British",
+    "iso2": "VG",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Road Town",
+        "coordinates": [
+          -64.6167,
+          18.4167
+        ],
+        "capital": true,
+        "population": 12603
+      }
+    ]
+  },
+  {
+    "code3": "ASM",
+    "country": "American Samoa",
+    "iso2": "AS",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Pago Pago",
+        "coordinates": [
+          -170.7046,
+          -14.274
+        ],
+        "capital": true,
+        "population": 12576
+      }
+    ]
+  },
+  {
+    "code3": "SMR",
+    "country": "San Marino",
+    "iso2": "SM",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Serravalle",
+        "coordinates": [
+          12.4817,
+          43.9717
+        ],
+        "capital": false,
+        "population": 10878
+      }
+    ]
+  },
+  {
+    "code3": "BES",
+    "country": "Bonaire, Sint Eustatius, and Saba",
+    "iso2": "BQ",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Kralendijk",
+        "coordinates": [
+          -68.2656,
+          12.1444
+        ],
+        "capital": false,
+        "population": 10620
+      }
+    ]
+  },
+  {
+    "code3": "PLW",
+    "country": "Palau",
+    "iso2": "PW",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Koror",
+        "coordinates": [
+          134.4792,
+          7.3419
+        ],
+        "capital": false,
+        "population": 8744
+      }
+    ]
+  },
+  {
+    "code3": "TUV",
+    "country": "Tuvalu",
+    "iso2": "TV",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Funafuti",
+        "coordinates": [
+          179.2,
+          -8.5167
+        ],
+        "capital": true,
+        "population": 6025
+      }
+    ]
+  },
+  {
+    "code3": "LIE",
+    "country": "Liechtenstein",
+    "iso2": "LI",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Schaan",
+        "coordinates": [
+          9.5097,
+          47.1667
+        ],
+        "capital": false,
+        "population": 5998
+      }
+    ]
+  },
+  {
+    "code3": "MAF",
+    "country": "Saint Martin",
+    "iso2": "MF",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Marigot",
+        "coordinates": [
+          -63.0847,
+          18.0706
+        ],
+        "capital": true,
+        "population": 5700
+      }
+    ]
+  },
+  {
+    "code3": "SPM",
+    "country": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Saint-Pierre",
+        "coordinates": [
+          -56.1778,
+          46.7778
+        ],
+        "capital": true,
+        "population": 5394
+      }
+    ]
+  },
+  {
+    "code3": "COK",
+    "country": "Cook Islands",
+    "iso2": "CK",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Avarua",
+        "coordinates": [
+          -159.771,
+          -21.207
+        ],
+        "capital": true,
+        "population": 4009
+      }
+    ]
+  },
+  {
+    "code3": "TCA",
+    "country": "Turks and Caicos Islands",
+    "iso2": "TC",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Grand Turk",
+        "coordinates": [
+          -71.139,
+          21.459
+        ],
+        "capital": true,
+        "population": 3700
+      }
+    ]
+  },
+  {
+    "code3": "AIA",
+    "country": "Anguilla",
+    "iso2": "AI",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "The Valley",
+        "coordinates": [
+          -63.0517,
+          18.2208
+        ],
+        "capital": true,
+        "population": 3269
+      }
+    ]
+  },
+  {
+    "code3": "MNP",
+    "country": "Northern Mariana Islands",
+    "iso2": "MP",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Capitol Hill",
+        "coordinates": [
+          145.7546,
+          15.2137
+        ],
+        "capital": true,
+        "population": 2500
+      }
+    ]
+  },
+  {
+    "code3": "BLM",
+    "country": "Saint Barthelemy",
+    "iso2": "BL",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Gustavia",
+        "coordinates": [
+          -62.8506,
+          17.8979
+        ],
+        "capital": true,
+        "population": 2300
+      }
+    ]
+  },
+  {
+    "code3": "FLK",
+    "country": "Falkland Islands (Islas Malvinas)",
+    "iso2": "FK",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Stanley",
+        "coordinates": [
+          -57.85,
+          -51.7
+        ],
+        "capital": true,
+        "population": 2213
+      }
+    ]
+  },
+  {
+    "code3": "SXM",
+    "country": "Sint Maarten",
+    "iso2": "SX",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Philipsburg",
+        "coordinates": [
+          -63.0458,
+          18.0237
+        ],
+        "capital": true,
+        "population": 1894
+      }
+    ]
+  },
+  {
+    "code3": "XSV",
+    "country": "Svalbard",
+    "iso2": "XR",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Longyearbyen",
+        "coordinates": [
+          15.65,
+          78.22
+        ],
+        "capital": true,
+        "population": 1753
+      }
+    ]
+  },
+  {
+    "code3": "CXR",
+    "country": "Christmas Island",
+    "iso2": "CX",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Flying Fish Cove",
+        "coordinates": [
+          105.6728,
+          -10.4261
+        ],
+        "capital": true,
+        "population": 1599
+      }
+    ]
+  },
+  {
+    "code3": "WLF",
+    "country": "Wallis and Futuna",
+    "iso2": "WF",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Mata-Utu",
+        "coordinates": [
+          -176.1833,
+          -13.2833
+        ],
+        "capital": true,
+        "population": 1029
+      }
+    ]
+  },
+  {
+    "code3": "BMU",
+    "country": "Bermuda",
+    "iso2": "BM",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Hamilton",
+        "coordinates": [
+          -64.782,
+          32.293
+        ],
+        "capital": true,
+        "population": 854
+      }
+    ]
+  },
+  {
+    "code3": "VAT",
+    "country": "Vatican City",
+    "iso2": "VA",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Vatican City",
+        "coordinates": [
+          12.453,
+          41.904
+        ],
+        "capital": true,
+        "population": 825
+      }
+    ]
+  },
+  {
+    "code3": "NRU",
+    "country": "Nauru",
+    "iso2": "NR",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Yaren",
+        "coordinates": [
+          166.9209,
+          -0.5477
+        ],
+        "capital": true,
+        "population": 747
+      }
+    ]
+  },
+  {
+    "code3": "SHN",
+    "country": "Saint Helena, Ascension, and Tristan da Cunha",
+    "iso2": "SH",
+    "color": "#FF0000",
+    "cities": [
+      {
+        "city": "Jamestown",
+        "coordinates": [
+          -5.7179,
+          -15.9251
+        ],
+        "capital": true,
+        "population": 714
+      }
+    ]
+  },
+  {
+    "code3": "NIU",
+    "country": "Niue",
+    "iso2": "NU",
+    "color": "#f59e0b",
+    "cities": [
+      {
+        "city": "Alofi",
+        "coordinates": [
+          -169.921,
+          -19.056
+        ],
+        "capital": true,
+        "population": 597
+      }
+    ]
+  },
+  {
+    "code3": "MSR",
+    "country": "Montserrat",
+    "iso2": "MS",
+    "color": "#2563eb",
+    "cities": [
+      {
+        "city": "Brades",
+        "coordinates": [
+          -62.2106,
+          16.7928
+        ],
+        "capital": true,
+        "population": 391
+      }
+    ]
+  },
+  {
+    "code3": "NFK",
+    "country": "Norfolk Island",
+    "iso2": "NF",
+    "color": "#1e40af",
+    "cities": [
+      {
+        "city": "Kingston",
+        "coordinates": [
+          167.9619,
+          -29.0606
+        ],
+        "capital": true,
+        "population": 341
+      }
+    ]
+  },
+  {
+    "code3": "SGS",
+    "country": "South Georgia and South Sandwich Islands",
+    "iso2": "GS",
+    "color": "#FFCE00",
+    "cities": [
+      {
+        "city": "Grytviken",
+        "coordinates": [
+          -36.508,
+          -54.2806
+        ],
+        "capital": false,
+        "population": 99
+      }
+    ]
+  },
+  {
+    "code3": "PCN",
+    "country": "Pitcairn Islands",
+    "iso2": "PN",
+    "color": "#dc143c",
+    "cities": [
+      {
+        "city": "Adamstown",
+        "coordinates": [
+          -130.1,
+          -25.0667
+        ],
+        "capital": true,
+        "population": 47
+      }
+    ]
+  },
+  {
+    "code3": "VIR",
+    "country": "U.S. Virgin Islands",
+    "iso2": "VI",
+    "color": "#15803d",
+    "cities": [
+      {
+        "city": "Charlotte Amalie",
+        "coordinates": [
+          -64.9331,
+          18.342
+        ],
+        "capital": true,
+        "population": null
+      }
+    ]
+  }
+]

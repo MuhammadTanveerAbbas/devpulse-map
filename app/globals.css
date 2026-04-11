@@ -1,0 +1,221 @@
+@import "tailwindcss";
+
+:root {
+  --background: #050508;
+  --foreground: #e8e8f0;
+
+  /* Design System Colors */
+  --ds-background-100: #050508;
+  --ds-background-200: #0d0d14;
+  --ds-background-300: #12121c;
+  --ds-gray-100: #1a1a28;
+  --ds-gray-200: #252535;
+  --ds-gray-300: #353548;
+  --ds-gray-400: #555570;
+  --ds-gray-500: #6b6b88;
+  --ds-gray-600: #9090aa;
+  --ds-gray-700: #b8b8cc;
+  --ds-gray-800: #d0d0e0;
+  --ds-gray-900: #9090b0;
+  --ds-gray-1000: #f0f0fa;
+  --ds-gray-alpha-100: rgba(120, 120, 200, 0.06);
+  --ds-gray-alpha-200: rgba(120, 120, 200, 0.10);
+  --ds-gray-alpha-400: rgba(160, 160, 220, 0.20);
+  --ds-gray-alpha-600: rgba(180, 180, 240, 0.40);
+
+  --ds-blue-500: #3b82f6;
+  --ds-blue-600: #2563eb;
+  --ds-blue-700: #1d4ed8;
+  --ds-blue-800: #1e40af;
+  --ds-blue-900: #0066ff;
+
+  --ds-red-600: #dc2626;
+  --ds-red-700: #b91c1c;
+  --ds-red-800: #991b1b;
+  --ds-red-900: #ff2d55;
+
+  --ds-green-600: #16a34a;
+  --ds-green-700: #15803d;
+
+  --ds-amber-800: #f59e0b;
+  --ds-orange-600: #ea580c;
+
+  /* Accent colors */
+  --accent-primary:   #00ff88;
+  --accent-secondary: #7c3aed;
+  --accent-cyan:      #00d4ff;
+  --accent-danger:    #ff2d55;
+  --accent-warning:   #ff9500;
+  --bg-card:          rgba(120, 120, 200, 0.06);
+  --border-color:     rgba(120, 120, 200, 0.12);
+  --border-glow:      rgba(0, 255, 136, 0.15);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-gray-alpha-100: var(--ds-gray-alpha-100);
+  --color-gray-900: var(--ds-gray-900);
+  --color-gray-1000: var(--ds-gray-1000);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(0, 255, 136, 0.04) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 80%, rgba(124, 58, 237, 0.04) 0%, transparent 50%);
+}
+
+.bg-gray-alpha-100 {
+  background-color: var(--ds-gray-alpha-100);
+}
+
+.text-gray-900 {
+  color: var(--ds-gray-900);
+}
+
+.text-gray-1000 {
+  color: var(--ds-gray-1000);
+}
+
+.rsm-svg {
+  width: 100%;
+  height: auto;
+}
+
+.rsm-geographies path {
+  transition: fill 0.15s ease;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Card styles */
+.card-base {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  backdrop-filter: blur(8px);
+}
+
+.card-glow {
+  box-shadow: 0 0 0 1px var(--border-color), 0 4px 24px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255,255,255,0.04);
+}
+
+.card-glow-green {
+  box-shadow: 0 0 0 1px rgba(0, 255, 136, 0.15), 0 4px 24px rgba(0, 0, 0, 0.4), 0 0 40px rgba(0, 255, 136, 0.04);
+}
+
+.card-glow-purple {
+  box-shadow: 0 0 0 1px rgba(124, 58, 237, 0.2), 0 4px 24px rgba(0, 0, 0, 0.4), 0 0 40px rgba(124, 58, 237, 0.05);
+}
+
+.card-glow-cyan {
+  box-shadow: 0 0 0 1px rgba(0, 212, 255, 0.15), 0 4px 24px rgba(0, 0, 0, 0.4), 0 0 40px rgba(0, 212, 255, 0.04);
+}
+
+/* Section label */
+.section-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ds-gray-500);
+}
+
+/* Glow text */
+.text-glow-green {
+  color: var(--accent-primary);
+  text-shadow: 0 0 20px rgba(0, 255, 136, 0.5);
+}
+
+.text-glow-cyan {
+  color: var(--accent-cyan);
+  text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--ds-gray-300); border-radius: 2px; }
+
+/* Map overlay sizing  keep overlays from overflowing on tablet */
+@media (max-width: 1023px) {
+  .map-overlay-salary ul {
+    max-height: 140px;
+    overflow-y: auto;
+  }
+}
+
+/* Ticker */
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+.animate-ticker {
+  animation: ticker linear infinite;
+}
+
+/* Pulse dot */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* Map dot pulse (CSS-only, no framer-motion per dot) */
+@keyframes mapPulse {
+  0%, 100% { opacity: 0.9; transform: scale(1); }
+  50%       { opacity: 0.4; transform: scale(1.6); }
+}
+
+/* Hub marker pulse ring */
+@keyframes markerPulse {
+  0%   { r: 6; opacity: 0.6; }
+  100% { r: 14; opacity: 0; }
+}
+
+/* Map loader shimmer */
+@keyframes mapShimmer {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* Map loader scan line */
+@keyframes mapScan {
+  0%   { top: 0%; opacity: 0.6; }
+  90%  { opacity: 0.6; }
+  100% { top: 100%; opacity: 0; }
+}
+
+/* Map loader radar ping */
+@keyframes radarPing {
+  0%   { transform: scale(0.8); opacity: 0.8; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+/* Map loader progress bar */
+@keyframes mapProgress {
+  0%   { width: 0%; margin-left: 0%; }
+  50%  { width: 70%; margin-left: 0%; }
+  100% { width: 0%; margin-left: 100%; }
+}
+
+/* Scan line effect */
+@keyframes scan {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+
+/* Number flash */
+@keyframes flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
