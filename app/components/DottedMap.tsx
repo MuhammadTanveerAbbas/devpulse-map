@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, memo, useState, useEffect, useRef } from "react";
+import { useMemo, memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { geoMercator } from "d3-geo";
 import dottedMapData from "../data/dotted-map-data.json";
@@ -200,7 +200,7 @@ function useLiveCount(base: number, variancePerSec: number) {
   useEffect(() => {
     if (!variancePerSec) return;
     const id = setInterval(() => {
-      setVal(v => v + Math.floor((Math.random() - 0.3) * variancePerSec));
+      setVal(v => Math.max(0, v + Math.floor((Math.random() - 0.3) * variancePerSec)));
     }, 1200);
     return () => clearInterval(id);
   }, [variancePerSec]);
@@ -455,10 +455,10 @@ export default function DottedMap({ width = 1000, height = 480 }: { width?: numb
     return { staticDots: staticArr, animatedDots: animatedArr };
   }, [projection, width, height]);
 
-  const handleHover = (marker: typeof devHubMarkers[0] | null, x: number, y: number) => {
+  const handleHover = useCallback((marker: typeof devHubMarkers[0] | null, x: number, y: number) => {
     setHoveredMarker(marker);
     setHoverPos({ x, y });
-  };
+  }, []);
 
   const countryCode = hoveredMarker ? hubToCountry[hoveredMarker.id] : null;
   const countryData = countryCode ? devCountryActivity[countryCode] : null;

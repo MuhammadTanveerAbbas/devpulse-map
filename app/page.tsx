@@ -10,6 +10,16 @@ import {
 import LiveFeed from "./components/LiveFeed";
 import { devCountryActivity, devHubMarkers } from "./data/dev-data";
 
+function MobileMapOverlays() {
+  return (
+    <>
+      <TotalRequests />
+      <TopCountries />
+      <RegionCount />
+    </>
+  );
+}
+
 export default function Home() {
   return (
     <div className="min-h-screen font-mono">
@@ -59,9 +69,7 @@ export default function Home() {
                 {Object.keys(devCountryActivity).length} countries · {devHubMarkers.length} hubs
               </span>
             </div>
-            <TotalRequests />
-            <TopCountries />
-            <RegionCount />
+            <MobileMapOverlays />
           </div>
 
           {/* Desktop overlays  only on sm+ */}

@@ -1,56 +1,77 @@
 // app/lib/api.ts
 
 const REMOTIVE_URL = 'https://remotive.com/api/remote-jobs?category=software-dev&limit=20';
-const REMOTEOK_URL = 'https://remoteok.com/api?tag=dev';
 const HN_TOP_URL   = 'https://hacker-news.firebaseio.com/v0/topstories.json';
 const DEVTO_URL    = 'https://dev.to/api/articles?tag=javascript&per_page=7&top=1';
-const GITHUB_TRENDING_URL = 'https://api.github.com/search/repositories?q=stars:>1000&sort=stars&order=desc&per_page=7&created:>2024-01-01';
 
-export async function fetchRemotiveJobs() {
-  try {
-    const res = await fetch(REMOTIVE_URL, { next: { revalidate: 300 } });
-    const data = await res.json();
-    return data.jobs?.slice(0, 20) ?? [];
-  } catch { return []; }
+interface RemotiveJob {
+  url: string;
+  title: string;
+  company_name: string;
+  salary?: string;
+  category?: { name: string };
+  job_type?: string;
+  candidate_required_location?: string;
 }
 
-export async function fetchRemoteOKJobs() {
+function getGitHubTrendingUrl(): string {
+  const d = new Date(Date.now() - 90 * 86400000);
+  const dateStr = d.toISOString().split('T')[0];
+  return `https://api.github.com/search/repositories?q=stars:>1000&sort=stars&order=desc&per_page=7&created:>${dateStr}`;
+}
+
+async function safeFetch<T>(url: string, init?: RequestInit): Promise<T> {
+  const res = await fetch(url, init);
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}: ${res.statusText} for ${url}`);
+  }
+  return res.json() as Promise<T>;
+}
+
+export async function fetchRemotiveJobs(): Promise<RemotiveJob[]> {
   try {
-    const res = await fetch(REMOTEOK_URL, {
-      headers: { 'User-Agent': 'DevPulse/1.0' },
-      next: { revalidate: 300 },
-    });
-    const data = await res.json();
-    return Array.isArray(data) ? data.slice(1, 21) : [];
-  } catch { return []; }
+    const data = await safeFetch<{ jobs?: RemotiveJob[] }>(REMOTIVE_URL);
+    return data.jobs?.slice(0, 20) ?? [];
+  } catch (e) {
+    console.error('[DevPulse] fetchRemotiveJobs failed:', e);
+    return [];
+  }
 }
 
 export async function fetchHNTopStories() {
   try {
-    const res = await fetch(HN_TOP_URL, { next: { revalidate: 120 } });
-    const ids: number[] = await res.json();
-    const top8 = ids.slice(0, 7);
-    const stories = await Promise.all(
-      top8.map(id =>
-        fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
-          .then(r => r.json())
+    const ids = await safeFetch<number[]>(HN_TOP_URL);
+    const top7 = ids.slice(0, 7);
+    const results = await Promise.allSettled(
+      top7.map(id =>
+        safeFetch<Record<string, unknown>>(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
       )
     );
-    return stories.filter(s => s && s.title);
-  } catch { return []; }
+    return results
+      .filter((r): r is PromiseFulfilledResult<Record<string, unknown>> => r.status === 'fulfilled')
+      .map(r => r.value)
+      .filter(s => s && s.title);
+  } catch (e) {
+    console.error('[DevPulse] fetchHNTopStories failed:', e);
+    return [];
+  }
 }
 
 export async function fetchGithubTrending() {
   try {
-    const res = await fetch(GITHUB_TRENDING_URL, { next: { revalidate: 600 } });
-    const data = await res.json();
+    const data = await safeFetch<{ items?: unknown[] }>(getGitHubTrendingUrl());
     return data.items ?? [];
-  } catch { return []; }
+  } catch (e) {
+    console.error('[DevPulse] fetchGithubTrending failed:', e);
+    return [];
+  }
 }
 
 export async function fetchDevToArticles() {
   try {
-    const res = await fetch(DEVTO_URL, { next: { revalidate: 300 } });
-    return await res.json();
-  } catch { return []; }
+    return await safeFetch<unknown[]>(DEVTO_URL);
+  } catch (e) {
+    console.error('[DevPulse] fetchDevToArticles failed:', e);
+    return [];
+  }
 }

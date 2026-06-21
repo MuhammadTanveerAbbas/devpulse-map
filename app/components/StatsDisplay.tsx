@@ -8,6 +8,7 @@ import {
   hotNiches,
   liveCounterConfig,
   formatNumber,
+  devCountryActivity,
 } from "../data/dev-data";
 import AIRiskCard from "./AIRiskCard";
 
@@ -15,19 +16,32 @@ import AIRiskCard from "./AIRiskCard";
 
 function useAnimatedNumber(baseValue: number, incrementRatePerSecond: number) {
   const [value, setValue] = useState(baseValue);
+  const displayRateRef = useRef(incrementRatePerSecond);
   const [displayRate, setDisplayRate] = useState(incrementRatePerSecond);
+  const maxValueRef = useRef(baseValue * 1.5);
 
   useEffect(() => {
     if (incrementRatePerSecond === 0) return;
-    const updatesPerSecond = 20;
+    maxValueRef.current = Math.max(maxValueRef.current, baseValue * 1.5);
+    const updatesPerSecond = 10;
     const baseIncrement = incrementRatePerSecond / updatesPerSecond;
+    let tickCount = 0;
     const interval = setInterval(() => {
       const variation = 0.7 + Math.random() * 0.6;
-      setValue(v => v + Math.max(1, Math.floor(baseIncrement * variation)));
-      setDisplayRate(Math.floor(incrementRatePerSecond * (0.85 + Math.random() * 0.3)));
+      const increment = Math.max(1, Math.floor(baseIncrement * variation));
+      setValue(v => {
+        const next = v + increment;
+        return next > maxValueRef.current ? baseValue : next;
+      });
+      tickCount++;
+      if (tickCount % 3 === 0) {
+        const rate = Math.floor(incrementRatePerSecond * (0.85 + Math.random() * 0.3));
+        displayRateRef.current = rate;
+        setDisplayRate(rate);
+      }
     }, 1000 / updatesPerSecond);
     return () => clearInterval(interval);
-  }, [incrementRatePerSecond]);
+  }, [incrementRatePerSecond, baseValue]);
 
   return { value, rate: displayRate };
 }
@@ -55,6 +69,7 @@ function PixelGridTransition({
     for (let n = 0; n < total; n++) {
       const row = Math.floor(n / gridSize);
       const col = n % gridSize;
+      // eslint-disable-next-line react-hooks/purity
       const color = Math.random() > 0.85 ? "var(--accent-primary)" : "var(--ds-gray-200)";
       result.push({ id: n, row, col, color });
     }
@@ -76,7 +91,12 @@ function PixelGridTransition({
     setAnimState("growing");
     const t1 = setTimeout(() => setAnimState("shrinking"), animationStepDuration * 1000);
     const t2 = setTimeout(() => { setShowPixels(false); setAnimState("idle"); }, animationStepDuration * 2000);
-    return () => { clearTimeout(t1); clearTimeout(t2); };
+    return () => {
+      clearTimeout(t1);
+      clearTimeout(t2);
+      setShowPixels(false);
+      setAnimState("idle");
+    };
   }, [isActive, animationStepDuration, pixels]);
 
   const delayPerPixel = useMemo(() => animationStepDuration / pixels.length, [animationStepDuration, pixels.length]);
@@ -270,10 +290,11 @@ function SalaryRow({ item, color, incrementRate }: { item: typeof salaryByRole[0
 }
 
 export function RegionCount() {
+  const count = Object.keys(devCountryActivity).length;
   return (
     <div className="flex items-center gap-2 text-[11px] font-mono text-[var(--ds-gray-500)]">
       <span className="text-[var(--accent-primary)]">▲</span>
-      <span className="text-[var(--ds-gray-1000)] font-semibold">44</span>
+      <span className="text-[var(--ds-gray-1000)] font-semibold">{count}</span>
       <span>countries active</span>
     </div>
   );
@@ -403,12 +424,14 @@ const nicheColors = [
 ];
 
 function HotNichesList() {
+  const sortedNiches = useMemo(
+    () => hotNiches.slice().sort((a, b) => b.demand - a.demand),
+    []
+  );
+
   return (
     <div className="space-y-3 mt-1">
-      {hotNiches
-        .slice()
-        .sort((a, b) => b.demand - a.demand)
-        .map((niche, i) => {
+      {sortedNiches.map((niche, i) => {
           const color = nicheColors[i] ?? "var(--ds-gray-500)";
           return (
             <motion.div key={niche.name}

@@ -54,6 +54,12 @@ const langColors: Record<string, string> = {
 
 const ITEMS = 7;
 
+function EmptyState({ message }: { message: string }) {
+  return (
+    <p className="text-xs text-[var(--ds-gray-500)] text-center py-4 font-mono">{message}</p>
+  );
+}
+
 export default async function LiveFeed() {
   const [hnStories, ghRepos, devArticles] = await Promise.all([
     fetchHNTopStories(),
@@ -74,7 +80,7 @@ export default async function LiveFeed() {
           <span className="text-[10px] text-[var(--ds-gray-500)] border border-[var(--border-color)] px-2 py-0.5 rounded">Top Stories</span>
         </div>
         <div className="flex flex-col flex-1 justify-between gap-0.5">
-          {(hnStories as HNStory[]).slice(0, ITEMS).map((story, i) => (
+          {(hnStories as unknown as HNStory[]).slice(0, ITEMS).map((story, i) => (
             <a
               key={story.id}
               href={story.url ?? `https://news.ycombinator.com/item?id=${story.id}`}
@@ -101,7 +107,7 @@ export default async function LiveFeed() {
             </a>
           ))}
           {hnStories.length === 0 && (
-            <p className="text-xs text-[var(--ds-gray-500)] text-center py-4">Loading stories...</p>
+            <EmptyState message="No stories available" />
           )}
         </div>
       </div>
@@ -115,10 +121,10 @@ export default async function LiveFeed() {
             </svg>
             <span className="section-label text-[var(--ds-gray-700)]">GitHub Trending</span>
           </div>
-          <span className="text-[10px] text-[var(--ds-gray-500)] border border-[var(--border-color)] px-2 py-0.5 rounded">⭐ Stars</span>
+          <span className="text-[10px] text-[var(--ds-gray-500)] border border-[var(--border-color)] px-2 py-0.5 rounded">Stars</span>
         </div>
         <div className="flex flex-col flex-1 justify-between gap-0.5">
-          {(ghRepos as GHRepo[]).slice(0, ITEMS).map((repo) => {
+          {(ghRepos as unknown as GHRepo[]).slice(0, ITEMS).map((repo) => {
             const langColor = langColors[repo.language] ?? '#666';
             return (
               <a
@@ -147,8 +153,8 @@ export default async function LiveFeed() {
                         {repo.language}
                       </span>
                     )}
-                    {repo.topics?.slice(0, 2).map(t => (
-                      <span key={t} className="text-[9px] px-1.5 py-0.5 rounded bg-[var(--ds-gray-alpha-100)] text-[var(--ds-gray-500)] border border-[var(--border-color)]">
+                    {repo.topics?.slice(0, 2).map((t, idx) => (
+                      <span key={`${repo.id}-topic-${idx}-${t}`} className="text-[9px] px-1.5 py-0.5 rounded bg-[var(--ds-gray-alpha-100)] text-[var(--ds-gray-500)] border border-[var(--border-color)]">
                         {t}
                       </span>
                     ))}
@@ -158,7 +164,7 @@ export default async function LiveFeed() {
             );
           })}
           {ghRepos.length === 0 && (
-            <p className="text-xs text-[var(--ds-gray-500)] text-center py-4">Loading repos...</p>
+            <EmptyState message="No repos available" />
           )}
         </div>
       </div>
@@ -173,7 +179,7 @@ export default async function LiveFeed() {
           <span className="text-[10px] text-[var(--ds-gray-500)] border border-[var(--border-color)] px-2 py-0.5 rounded">Trending</span>
         </div>
         <div className="flex flex-col flex-1 justify-between gap-0.5">
-          {(devArticles as DevToArticle[]).slice(0, ITEMS).map((article) => (
+          {(devArticles as unknown as DevToArticle[]).slice(0, ITEMS).map((article) => (
             <a
               key={article.id}
               href={article.url}
@@ -189,8 +195,8 @@ export default async function LiveFeed() {
                   <span className="text-[10px] text-[var(--ds-gray-500)]">by {article.user?.name}</span>
                   <span className="text-[10px] text-[var(--accent-primary)] font-mono">♥ {article.positive_reactions_count}</span>
                   <span className="text-[10px] text-[var(--ds-gray-500)]">{article.reading_time_minutes}m read</span>
-                  {article.tag_list?.slice(0, 2).map((tag: string) => (
-                    <span key={tag} className="text-[9px] px-1.5 py-0.5 rounded bg-[var(--ds-gray-alpha-100)] text-[var(--ds-gray-500)] border border-[var(--border-color)]">
+                  {article.tag_list?.slice(0, 2).map((tag: string, idx: number) => (
+                    <span key={`${article.id}-tag-${idx}-${tag}`} className="text-[9px] px-1.5 py-0.5 rounded bg-[var(--ds-gray-alpha-100)] text-[var(--ds-gray-500)] border border-[var(--border-color)]">
                       #{tag}
                     </span>
                   ))}
@@ -199,7 +205,7 @@ export default async function LiveFeed() {
             </a>
           ))}
           {devArticles.length === 0 && (
-            <p className="text-xs text-[var(--ds-gray-500)] text-center py-4">Loading articles...</p>
+            <EmptyState message="No articles available" />
           )}
         </div>
       </div>
