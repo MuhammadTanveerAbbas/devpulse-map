@@ -23,7 +23,7 @@ function useAnimatedNumber(baseValue: number, incrementRatePerSecond: number) {
   useEffect(() => {
     if (incrementRatePerSecond === 0) return;
     maxValueRef.current = Math.max(maxValueRef.current, baseValue * 1.5);
-    const updatesPerSecond = 10;
+    const updatesPerSecond = 3;
     const baseIncrement = incrementRatePerSecond / updatesPerSecond;
     let tickCount = 0;
     const interval = setInterval(() => {
@@ -217,7 +217,7 @@ function StatCard({
 
   return (
     <div className={`relative group rounded-xl overflow-hidden card-base ${accentClass} ${className || ""}`}>
-      <PixelGridTransition firstContent={front} secondContent={back} isActive={showInfo} gridSize={30} animationStepDuration={0.3} />
+      <PixelGridTransition firstContent={front} secondContent={back} isActive={showInfo} gridSize={16} animationStepDuration={0.3} />
       {infoContent && (
         <div className={`absolute top-3 right-3 transition-opacity duration-150 z-20 isolate ${showInfo ? "opacity-100" : "opacity-100 md:opacity-0 md:group-hover:opacity-100"}`}>
           <button aria-label={`Learn more about ${title}`} type="button"
@@ -237,7 +237,7 @@ export function TotalRequests() {
   const { value, rate } = useAnimatedNumber(liveCounterConfig.devsOnline.base, liveCounterConfig.devsOnline.variance / 60);
 
   return (
-    <div className="space-y-1 bg-[var(--ds-background-100)]/70 backdrop-blur-md rounded-xl p-2.5 sm:p-3 border border-[var(--border-color)]">
+    <div className="space-y-1 bg-[rgba(5,5,8,0.92)] rounded-xl p-2.5 sm:p-3 border border-[var(--border-color)]">
       <div className="text-[10px] font-mono tracking-widest uppercase text-[var(--ds-gray-500)]">Devs Online Now</div>
       <div className="text-2xl sm:text-3xl md:text-4xl tracking-tight font-mono tabular-nums text-glow-green">
         {formatNumber(value)}
@@ -260,7 +260,7 @@ export function TopCountries() {
   const incrementRates = [22, 19, 17, 14, 11, 8, 6, 5];
 
   return (
-    <div className="bg-[var(--ds-background-100)]/70 backdrop-blur-md rounded-xl p-2.5 sm:p-3 border border-[var(--border-color)] space-y-1.5 sm:space-y-2">
+    <div className="bg-[rgba(5,5,8,0.92)] rounded-xl p-2.5 sm:p-3 border border-[var(--border-color)] space-y-1.5 sm:space-y-2">
       <div className="text-[10px] font-mono tracking-widest uppercase text-[var(--ds-gray-500)]">Salary by Role</div>
       <ul className="list-none pl-0 space-y-1">
         {salaryByRole.map((item, index) => {
@@ -304,7 +304,7 @@ export function RegionCount() {
 
 export function StatsGrid() {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 items-start">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 items-start">
 
       {/* Left column: GitHub + AI Adoption stacked */}
       <div className="flex flex-col gap-3 sm:gap-4">
@@ -343,7 +343,7 @@ export function StatsGrid() {
         title="Hot Niches · Demand Index"
         accent="cyan"
         infoContent="Demand index (0-100) based on job postings, freelance rates, and search trends. Growth is YoY. Avg rate is freelance/contract market rate."
-        className="sm:col-span-2 lg:col-span-1"
+        className="md:col-span-2 lg:col-span-1"
       >
         <HotNichesList />
       </StatCard>

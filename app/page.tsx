@@ -12,15 +12,9 @@ import {
 import LiveFeed from "./components/LiveFeed";
 import { devCountryActivity, devHubMarkers } from "./data/dev-data";
 
-function MobileMapOverlays() {
-  return (
-    <>
-      <TotalRequests />
-      <TopCountries />
-      <RegionCount />
-    </>
-  );
-}
+const topCountriesForMobile = Object.entries(devCountryActivity)
+  .sort((a, b) => b[1].intensity - a[1].intensity)
+  .slice(0, 5);
 
 export default function Home() {
   return (
@@ -28,7 +22,7 @@ export default function Home() {
       <ConnectivityIndicator />
 
       {/* ── Top nav ── */}
-      <header className="sticky top-0 z-50 border-b border-[var(--border-color)] bg-[var(--ds-background-100)]/90 backdrop-blur-md">
+      <header className="sticky top-0 z-50 border-b border-[var(--border-color)] bg-[rgba(5,5,8,0.95)]">
         {/* Main nav row */}
         <div className="max-w-[1600px] mx-auto px-3 sm:px-4 md:px-6 h-11 sm:h-12 flex items-center justify-between gap-2">
           <div className="flex items-center gap-2 sm:gap-3 min-w-0">
@@ -58,31 +52,57 @@ export default function Home() {
         <section className="relative rounded-xl sm:rounded-2xl overflow-hidden"
           style={{ border: '1px solid var(--border-color)', background: 'var(--ds-background-200)' }}>
 
-          {/* Map  hidden on mobile, shown sm+ */}
+          {/* Map: hidden on mobile, shown sm+ */}
           <div className="hidden sm:block w-full">
             <MapContainer />
           </div>
 
-          {/* Mobile: stacked map info cards instead of map */}
+          {/* Mobile: top country cards instead of blank map */}
           <div className="sm:hidden p-3 space-y-3">
             <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-color)]">
               <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent-primary)] pulse-dot" />
               <span className="text-[10px] font-mono tracking-widest uppercase text-[var(--accent-primary)]">Developer Activity</span>
               <span className="ml-auto text-[9px] font-mono text-[var(--ds-gray-500)]">
-                {Object.keys(devCountryActivity).length} countries · {devHubMarkers.length} hubs
+                {Object.keys(devCountryActivity).length} countries
               </span>
             </div>
-            <MobileMapOverlays />
+            <div className="grid grid-cols-2 gap-2">
+              {topCountriesForMobile.map(([code, data]) => (
+                <div key={code} className="rounded-lg p-2.5 border border-[var(--border-color)] bg-[var(--ds-background-300)]">
+                  <div className="flex items-center gap-1.5 mb-1.5">
+                    <span className="text-base leading-none">{data.flag}</span>
+                    <span className="text-[10px] font-mono font-semibold text-[var(--ds-gray-1000)]">{code}</span>
+                    <span className="ml-auto text-[9px] font-mono" style={{ color: data.color }}>
+                      {Math.round(data.intensity * 100)}%
+                    </span>
+                  </div>
+                  <div className="text-[9px] font-mono text-[var(--ds-gray-500)] mb-1">
+                    {(data.devCount / 1_000_000).toFixed(1)}M devs
+                  </div>
+                  <div className="h-1 rounded-full overflow-hidden bg-[var(--ds-gray-alpha-200)]">
+                    <div className="h-full rounded-full" style={{ width: `${data.intensity * 100}%`, backgroundColor: data.color }} />
+                  </div>
+                  <div className="text-[8px] font-mono text-[var(--ds-gray-500)] mt-1">
+                    {data.topLanguage}
+                  </div>
+                </div>
+              ))}
+            </div>
+            <div className="text-center">
+              <span className="text-[9px] font-mono text-[var(--ds-gray-500)]">
+                {devHubMarkers.length} dev hubs worldwide
+              </span>
+            </div>
           </div>
 
-          {/* Desktop overlays  only on sm+ */}
+          {/* Desktop overlays: only on sm+ */}
           {/* Top-left: devs online */}
           <div className="hidden sm:block absolute top-3 left-3 md:top-5 md:left-5 z-10">
             <TotalRequests />
           </div>
 
-          {/* Bottom-left: salary + countries */}
-          <div className="hidden sm:block absolute bottom-3 left-3 md:bottom-5 md:left-5 z-10 space-y-2">
+          {/* Bottom-left: salary + countries (hidden on tablet to prevent overlap) */}
+          <div className="hidden lg:block absolute bottom-3 left-3 md:bottom-5 md:left-5 z-10 space-y-2">
             <TopCountries />
             <RegionCount />
           </div>
@@ -105,17 +125,19 @@ export default function Home() {
         <StatsGrid />
 
         {/* ── Live feed ── */}
-        <LiveFeed />
+        <div className="livefeed-section">
+          <LiveFeed />
+        </div>
 
       </main>
 
       {/* ── Footer ── */}
-      <footer className="border-t border-[var(--border-color)] py-3 sm:py-4 px-3 sm:px-6 mt-1 sm:mt-2">
-        <div className="max-w-[1600px] mx-auto flex flex-wrap items-center justify-between gap-2 text-[10px] text-[var(--ds-gray-500)] font-mono">
+      <footer className="footer-section border-t border-[var(--border-color)] py-3 sm:py-4 px-3 sm:px-6 mt-1 sm:mt-2">
+        <div className="max-w-[1600px] mx-auto flex flex-col sm:flex-row flex-wrap items-center justify-between gap-2 text-[10px] text-[var(--ds-gray-500)] font-mono text-center sm:text-left">
           <span>DevPulse · Real-time developer ecosystem intelligence</span>
-          <div className="flex items-center gap-3 flex-wrap">
+          <div className="flex flex-col sm:flex-row items-center gap-1 sm:gap-3 flex-wrap">
             <span className="hidden sm:block">Data: GitHub · Remotive · HackerNews · Dev.to · Stack Overflow</span>
-            <span className="text-[var(--ds-gray-300)]">·</span>
+            <span className="hidden sm:inline text-[var(--ds-gray-300)]">·</span>
             <span>
               Made by{" "}
               <a href="https://themvpguy.vercel.app" target="_blank" rel="noopener noreferrer"
@@ -123,14 +145,16 @@ export default function Home() {
                 Muhammad Tanveer Abbas
               </a>
             </span>
-            <a href="https://x.com/m_tanveerabbas" target="_blank" rel="noopener noreferrer"
-              className="hover:text-[var(--ds-gray-1000)] transition-colors">
-              X: @m_tanveerabbas
-            </a>
-            <a href="https://github.com/MuhammadTanveerAbbas" target="_blank" rel="noopener noreferrer"
-              className="hover:text-[var(--ds-gray-1000)] transition-colors">
-              GitHub: MuhammadTanveerAbbas
-            </a>
+            <span className="hidden md:inline-flex items-center gap-3">
+              <a href="https://x.com/m_tanveerabbas" target="_blank" rel="noopener noreferrer"
+                className="hover:text-[var(--ds-gray-1000)] transition-colors">
+                X: @m_tanveerabbas
+              </a>
+              <a href="https://github.com/MuhammadTanveerAbbas" target="_blank" rel="noopener noreferrer"
+                className="hover:text-[var(--ds-gray-1000)] transition-colors">
+                GitHub: MuhammadTanveerAbbas
+              </a>
+            </span>
           </div>
         </div>
       </footer>

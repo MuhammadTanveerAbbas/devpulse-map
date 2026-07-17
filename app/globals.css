@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --background: #050508;
   --foreground: #e8e8f0;
@@ -100,7 +104,7 @@ body {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: 8px;
-  backdrop-filter: blur(8px);
+  contain: layout style paint;
 }
 
 .card-glow {
@@ -144,14 +148,6 @@ body {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--ds-gray-300); border-radius: 2px; }
 
-/* Map overlay sizing  keep overlays from overflowing on tablet */
-@media (max-width: 1023px) {
-  .map-overlay-salary ul {
-    max-height: 140px;
-    overflow-y: auto;
-  }
-}
-
 /* Ticker */
 @keyframes ticker {
   from { transform: translateX(0); }
@@ -159,6 +155,7 @@ body {
 }
 .animate-ticker {
   animation: ticker linear infinite;
+  will-change: transform;
 }
 
 /* Pulse dot */
@@ -168,6 +165,7 @@ body {
 }
 .pulse-dot {
   animation: pulse-dot 2s ease-in-out infinite;
+  will-change: opacity, transform;
 }
 
 /* Map dot pulse (CSS-only, no framer-motion per dot) */
@@ -178,8 +176,8 @@ body {
 
 /* Hub marker pulse ring */
 @keyframes markerPulse {
-  0%   { r: 6; opacity: 0.6; }
-  100% { r: 14; opacity: 0; }
+  0%   { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(2.3); opacity: 0; }
 }
 
 /* Map loader shimmer */
@@ -190,9 +188,9 @@ body {
 
 /* Map loader scan line */
 @keyframes mapScan {
-  0%   { top: 0%; opacity: 0.6; }
+  0%   { transform: translateY(-100%); opacity: 0.6; }
   90%  { opacity: 0.6; }
-  100% { top: 100%; opacity: 0; }
+  100% { transform: translateY(480px); opacity: 0; }
 }
 
 /* Map loader radar ping */
@@ -218,4 +216,15 @@ body {
 @keyframes flash {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.6; }
+}
+
+/* Content visibility for below-fold performance */
+.livefeed-section {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 600px;
+}
+
+.footer-section {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 200px;
 }

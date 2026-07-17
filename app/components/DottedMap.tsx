@@ -54,7 +54,7 @@ const hubToCountry: Record<string, string> = {
   SIN: "SG", DXB: "AE", PAR: "FR", SEO: "KR", AMS: "NL",
   WAR: "PL", KHI: "PK", LAG: "NG", CPT: "ZA",
   // New hubs
-  ISB: "PK", LHR: "PK", NRB: "KE", PRG: "CZ", TLV: "IL", BUC: "RO", CAS: "MA",
+  ISB: "PK", LHR: "PK", NRB: "KE", PRG: "CZ", TLV: "IL", BUC: "RO", CAS: "MA", FSD: "PK",
 };
 
 // ─── Canvas for static dots ───────────────────────────────────────────────────
@@ -144,6 +144,7 @@ const HubMarkersSVG = memo(({
         <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
       </filter>
     </defs>
+    <g filter="url(#markerGlow)">
     {markers.map((marker) => {
       const coords = projection(marker.coordinates);
       if (!coords) return null;
@@ -171,7 +172,6 @@ const HubMarkersSVG = memo(({
             stroke={accentColor}
             strokeWidth={0.8}
             strokeOpacity={0.7}
-            filter="url(#markerGlow)"
             style={{ paintOrder: "stroke" }}
           />
           {/* Hub ID label */}
@@ -189,6 +189,7 @@ const HubMarkersSVG = memo(({
         </g>
       );
     })}
+    </g>
   </svg>
 ));
 HubMarkersSVG.displayName = "HubMarkersSVG";
@@ -414,8 +415,7 @@ function TooltipStat({ label, value, color, live }: {
 // ─── Main component ───────────────────────────────────────────────────────────
 
 export default function DottedMap({ width = 1000, height = 480 }: { width?: number; height?: number }) {
-  const [hoveredMarker, setHoveredMarker] = useState<typeof devHubMarkers[0] | null>(null);
-  const [hoverPos, setHoverPos] = useState({ x: 0, y: 0 });
+  const [hover, setHover] = useState<{ marker: typeof devHubMarkers[0] | null; pos: { x: number; y: number } }>({ marker: null, pos: { x: 0, y: 0 } });
 
   const projection = useMemo(
     () => geoMercator().scale(148).center([15, 20]).rotate([0, 0, 0]).translate([width / 2, height / 2]),
@@ -443,7 +443,7 @@ export default function DottedMap({ width = 1000, height = 480 }: { width?: numb
           animatedArr.push({
             key: `${countryCode}-${city.cityDistanceRank}`,
             x, y, color,
-            canPulse: isTop10 && city.cityDistanceRank < 5,
+            canPulse: isTop10 && city.cityDistanceRank < 3,
             rank: city.cityDistanceRank,
           });
         } else {
@@ -456,11 +456,10 @@ export default function DottedMap({ width = 1000, height = 480 }: { width?: numb
   }, [projection, width, height]);
 
   const handleHover = useCallback((marker: typeof devHubMarkers[0] | null, x: number, y: number) => {
-    setHoveredMarker(marker);
-    setHoverPos({ x, y });
+    setHover({ marker, pos: { x, y } });
   }, []);
 
-  const countryCode = hoveredMarker ? hubToCountry[hoveredMarker.id] : null;
+  const countryCode = hover.marker ? hubToCountry[hover.marker.id] : null;
   const countryData = countryCode ? devCountryActivity[countryCode] : null;
 
   return (
@@ -482,11 +481,11 @@ export default function DottedMap({ width = 1000, height = 480 }: { width?: numb
 
       {/* Tooltip */}
       <AnimatePresence>
-        {hoveredMarker && (
+        {hover.marker && (
           <HubTooltip
-            marker={hoveredMarker}
+            marker={hover.marker}
             countryData={countryData}
-            pos={hoverPos}
+            pos={hover.pos}
             mapWidth={width}
             mapHeight={height}
           />

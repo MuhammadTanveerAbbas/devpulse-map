@@ -47,32 +47,28 @@ function MapLoader() {
       <div
         style={{
           position: "absolute",
+          top: 0,
           left: 0,
           right: 0,
           height: 2,
           background: "linear-gradient(90deg, transparent, rgba(0,255,136,0.6), transparent)",
           animation: "mapScan 2.5s linear infinite",
           boxShadow: "0 0 12px rgba(0,255,136,0.4)",
+          willChange: "transform",
         }}
       />
 
-      {/* Dot grid placeholder */}
+      {/* Dot grid placeholder using pattern */}
       <svg
         viewBox="0 0 1000 480"
         style={{ position: "absolute", inset: 0, width: "100%", height: "100%", opacity: 0.12 }}
       >
-        {Array.from({ length: 26 }, (_, row) =>
-          Array.from({ length: 55 }, (_, col) => (
-            <rect
-              key={`${row}-${col}`}
-              x={col * 18 + 5}
-              y={row * 18 + 5}
-              width={3}
-              height={3}
-              fill="#00ff88"
-            />
-          ))
-        )}
+        <defs>
+          <pattern id="dotGrid" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
+            <rect x="5" y="5" width="3" height="3" fill="#00ff88" />
+          </pattern>
+        </defs>
+        <rect width="1000" height="480" fill="url(#dotGrid)" />
       </svg>
 
       {/* Center status */}

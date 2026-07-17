@@ -63,7 +63,7 @@ export default async function LiveFeed() {
   ]);
 
   return (
-    <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 items-stretch">
+    <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 items-stretch">
 
       {/* HN Top Stories */}
       <div className="card-base card-glow-green p-3 sm:p-4 flex flex-col gap-3 h-full">
@@ -165,7 +165,7 @@ export default async function LiveFeed() {
       </div>
 
       {/* Dev.to Articles */}
-      <div className="card-base card-glow-cyan p-3 sm:p-4 flex flex-col gap-3 h-full sm:col-span-2 lg:col-span-1">
+      <div className="card-base card-glow-cyan p-3 sm:p-4 flex flex-col gap-3 h-full">
         <div className="flex items-center justify-between shrink-0">
           <div className="flex items-center gap-2">
             <span className="text-[var(--accent-cyan)] text-sm font-bold">DEV</span>
