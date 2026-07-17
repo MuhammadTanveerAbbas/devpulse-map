@@ -71,8 +71,8 @@ Static / Curated Data             Components
 ─────────────────────             ──────────
 dev-data.ts              ──►      DottedMap (world map + tooltips)
 dotted-map-data.json     ──►      StatsDisplay (all stat cards)
-cities-data.json         ──►      JobTicker (scrolling jobs)
-                                  LiveFeed (HN + GitHub + Dev.to)
+                                   JobTicker (scrolling jobs)
+                                   LiveFeed (HN + GitHub + Dev.to)
 ```
 
 API responses are cached via Next.js `revalidate` jobs and articles refresh every 5 minutes, GitHub trending every 10 minutes, HN stories every 2 minutes. The live counters (commits/sec, devs online, etc.) are client-side animated from curated base values with realistic variance.
@@ -88,7 +88,7 @@ API responses are cached via Next.js `revalidate` jobs and articles refresh ever
 | Styling         | Tailwind CSS v4                        |
 | Animation       | Framer Motion 12                       |
 | Map Rendering   | d3-geo (Mercator projection)           |
-| Map Data        | Custom dotted-map JSON + TopoJSON      |
+| Map Data        | Custom dotted-map JSON                  |
 | Icons           | Lucide React                           |
 | Fonts           | Geist Sans + Geist Mono (Google Fonts) |
 | Package Manager | pnpm                                   |
@@ -109,8 +109,6 @@ devpulse/
 │   │   └── StatsDisplay.tsx     # All stat cards, counters, salary rows, AI risk grid
 │   ├── data/
 │   │   ├── dev-data.ts          # Country activity, salaries, AI risk, hot niches, hub markers
-│   │   ├── cities-data.json     # City coordinates for dot placement
-│   │   ├── country-data.ts      # Country metadata
 │   │   └── dotted-map-data.json # Pre-computed dot positions per country
 │   ├── lib/
 │   │   └── api.ts               # All external API fetch functions
@@ -124,8 +122,6 @@ devpulse/
 │   └── utils.ts                 # Utility functions (cn, etc.)
 ├── public/
 │   └── logo.svg                 # DevPulse logo
-└── types/
-    └── react-simple-maps.d.ts   # Type declarations
 ```
 
 ---
@@ -236,7 +232,7 @@ MIT see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **Built by Muhammad Tanveer Abbas**
-SaaS Developer · Building production-ready MVPs in 14–21 days
+SaaS Developer · Building production-ready MVPs in 14-21 days
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-themvpguy.vercel.app-black?style=for-the-badge)](https://themvpguy.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-@m__tanveerabbas-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/m_tanveerabbas)

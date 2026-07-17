@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { useState, useEffect, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -342,7 +342,7 @@ export function StatsGrid() {
       <StatCard
         title="Hot Niches · Demand Index"
         accent="cyan"
-        infoContent="Demand index (0–100) based on job postings, freelance rates, and search trends. Growth is YoY. Avg rate is freelance/contract market rate."
+        infoContent="Demand index (0-100) based on job postings, freelance rates, and search trends. Growth is YoY. Avg rate is freelance/contract market rate."
         className="sm:col-span-2 lg:col-span-1"
       >
         <HotNichesList />

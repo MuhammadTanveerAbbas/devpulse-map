@@ -30,7 +30,7 @@ async function safeFetch<T>(url: string, init?: RequestInit): Promise<T> {
 
 export async function fetchRemotiveJobs(): Promise<RemotiveJob[]> {
   try {
-    const data = await safeFetch<{ jobs?: RemotiveJob[] }>(REMOTIVE_URL);
+    const data = await safeFetch<{ jobs?: RemotiveJob[] }>(REMOTIVE_URL, { next: { revalidate: 300 } });
     return data.jobs?.slice(0, 20) ?? [];
   } catch (e) {
     console.error('[DevPulse] fetchRemotiveJobs failed:', e);
@@ -40,7 +40,7 @@ export async function fetchRemotiveJobs(): Promise<RemotiveJob[]> {
 
 export async function fetchHNTopStories() {
   try {
-    const ids = await safeFetch<number[]>(HN_TOP_URL);
+    const ids = await safeFetch<number[]>(HN_TOP_URL, { next: { revalidate: 120 } });
     const top7 = ids.slice(0, 7);
     const results = await Promise.allSettled(
       top7.map(id =>
@@ -59,7 +59,7 @@ export async function fetchHNTopStories() {
 
 export async function fetchGithubTrending() {
   try {
-    const data = await safeFetch<{ items?: unknown[] }>(getGitHubTrendingUrl());
+    const data = await safeFetch<{ items?: unknown[] }>(getGitHubTrendingUrl(), { next: { revalidate: 600 } });
     return data.items ?? [];
   } catch (e) {
     console.error('[DevPulse] fetchGithubTrending failed:', e);
@@ -69,7 +69,7 @@ export async function fetchGithubTrending() {
 
 export async function fetchDevToArticles() {
   try {
-    return await safeFetch<unknown[]>(DEVTO_URL);
+    return await safeFetch<unknown[]>(DEVTO_URL, { next: { revalidate: 300 } });
   } catch (e) {
     console.error('[DevPulse] fetchDevToArticles failed:', e);
     return [];

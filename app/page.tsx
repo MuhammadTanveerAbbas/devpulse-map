@@ -1,5 +1,7 @@
 import MapContainer from "./components/MapContainer";
 import JobTicker from "./components/JobTicker";
+import LiveClock from "./components/LiveClock";
+import ConnectivityIndicator from "./components/ConnectivityIndicator";
 import Image from "next/image";
 import {
   TotalRequests,
@@ -23,6 +25,7 @@ function MobileMapOverlays() {
 export default function Home() {
   return (
     <div className="min-h-screen font-mono">
+      <ConnectivityIndicator />
 
       {/* ── Top nav ── */}
       <header className="sticky top-0 z-50 border-b border-[var(--border-color)] bg-[var(--ds-background-100)]/90 backdrop-blur-md">
@@ -41,7 +44,7 @@ export default function Home() {
               <span className="text-[10px] uppercase tracking-widest text-[var(--accent-primary)] font-semibold">Live</span>
             </div>
             <span className="hidden lg:block text-[10px] text-[var(--ds-gray-500)] font-mono tabular-nums">
-              {new Date().toUTCString().replace(' GMT', ' UTC')}
+              <LiveClock />
             </span>
           </div>
         </div>

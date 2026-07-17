@@ -1,4 +1,5 @@
 import { fetchHNTopStories, fetchGithubTrending, fetchDevToArticles } from "@/app/lib/api";
+import TimeAgo from "./TimeAgo";
 
 interface HNStory {
   id: number;
@@ -32,14 +33,6 @@ interface DevToArticle {
   published_at: string;
 }
 
-function timeAgo(unixTs: number): string {
-  const diff = Math.floor(Date.now() / 1000) - unixTs;
-  if (diff < 60) return `${diff}s ago`;
-  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
-  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
-  return `${Math.floor(diff / 86400)}d ago`;
-}
-
 function formatStars(n: number): string {
   if (n >= 1000) return `${(n / 1000).toFixed(1)}k`;
   return String(n);
@@ -59,6 +52,8 @@ function EmptyState({ message }: { message: string }) {
     <p className="text-xs text-[var(--ds-gray-500)] text-center py-4 font-mono">{message}</p>
   );
 }
+
+export const revalidate = 120;
 
 export default async function LiveFeed() {
   const [hnStories, ghRepos, devArticles] = await Promise.all([
@@ -100,7 +95,7 @@ export default async function LiveFeed() {
                     {story.descendants !== undefined && (
                       <span className="text-[10px] text-[var(--ds-gray-500)]">{story.descendants} comments</span>
                     )}
-                    <span className="text-[10px] text-[var(--ds-gray-500)] ml-auto">{timeAgo(story.time)}</span>
+                    <span className="text-[10px] text-[var(--ds-gray-500)] ml-auto"><TimeAgo timestamp={story.time} /></span>
                   </div>
                 </div>
               </div>

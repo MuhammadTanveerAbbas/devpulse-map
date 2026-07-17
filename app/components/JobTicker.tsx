@@ -65,7 +65,7 @@ export default function JobTicker() {
       <div className="w-full overflow-hidden border-b border-[var(--border-color)]"
         style={{ background: 'var(--ds-background-300)' }}>
         <div className="flex items-center justify-center py-1.5">
-          <span className="text-[10px] font-mono text-[var(--ds-gray-500)]">Job feed unavailable — retrying...</span>
+          <span className="text-[10px] font-mono text-[var(--ds-gray-500)]">Job feed unavailable, retrying...</span>
         </div>
       </div>
     );
