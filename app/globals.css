@@ -220,11 +220,36 @@ body {
 
 /* Content visibility for below-fold performance */
 .livefeed-section {
-  content-visibility: auto;
-  contain-intrinsic-size: 0 600px;
+  contain: layout;
 }
 
 .footer-section {
-  content-visibility: auto;
-  contain-intrinsic-size: 0 200px;
+  contain: layout;
+}
+
+/* Smooth scroll performance */
+html, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* GPU compositing for heavy sections */
+.map-section {
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+/* Reduce repaints on sticky header */
+header {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Footer separator gradient */
+.footer-gradient {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent-primary), var(--accent-secondary), var(--accent-cyan), transparent);
+  opacity: 0.3;
 }

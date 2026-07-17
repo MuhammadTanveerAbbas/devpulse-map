@@ -176,12 +176,12 @@ export const devHubMarkers: RegionMarker[] = [
   { id: 'LAG', name: 'Lagos',           coordinates: [3.3792,     6.5244] },
   { id: 'CPT', name: 'Cape Town',       coordinates: [18.4239,  -33.9253] },
   // ── New hub markers ──────────────────────────────────────────────────────────
-  { id: 'ISB', name: 'Islamabad',       coordinates: [73.0479,   33.6844] },
-  { id: 'LHR', name: 'Lahore',          coordinates: [74.3587,   31.5204] },
+  { id: 'ISB', name: 'Islamabad',       coordinates: [73.0479,   34.5844] },
+  { id: 'LHR', name: 'Lahore',          coordinates: [74.3587,   30.9204] },
   { id: 'NRB', name: 'Nairobi',         coordinates: [36.8219,   -1.2921] },
   { id: 'PRG', name: 'Prague',          coordinates: [14.4378,   50.0755] },
   { id: 'TLV', name: 'Tel Aviv',        coordinates: [34.7818,   32.0853] },
   { id: 'BUC', name: 'Bucharest',       coordinates: [26.1025,   44.4268] },
   { id: 'CAS', name: 'Casablanca',      coordinates: [-7.5898,   33.5731] },
-  { id: 'FSD', name: 'Faisalabad',      coordinates: [73.08969,  31.41554] },
+  { id: 'FSD', name: 'Faisalabad',      coordinates: [72.58969,  32.01554] },
 ];

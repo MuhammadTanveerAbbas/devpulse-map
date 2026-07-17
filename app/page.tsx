@@ -49,7 +49,7 @@ export default function Home() {
       <main className="max-w-[1600px] mx-auto px-3 sm:px-4 md:px-6 py-3 sm:py-4 md:py-5 space-y-3 sm:space-y-4 md:space-y-5">
 
         {/* ── Map section ── */}
-        <section className="relative rounded-xl sm:rounded-2xl overflow-hidden"
+        <section className="map-section relative rounded-xl sm:rounded-2xl overflow-hidden"
           style={{ border: '1px solid var(--border-color)', background: 'var(--ds-background-200)' }}>
 
           {/* Map: hidden on mobile, shown sm+ */}
@@ -132,28 +132,82 @@ export default function Home() {
       </main>
 
       {/* ── Footer ── */}
-      <footer className="footer-section border-t border-[var(--border-color)] py-3 sm:py-4 px-3 sm:px-6 mt-1 sm:mt-2">
-        <div className="max-w-[1600px] mx-auto flex flex-col sm:flex-row flex-wrap items-center justify-between gap-2 text-[10px] text-[var(--ds-gray-500)] font-mono text-center sm:text-left">
-          <span>DevPulse · Real-time developer ecosystem intelligence</span>
-          <div className="flex flex-col sm:flex-row items-center gap-1 sm:gap-3 flex-wrap">
-            <span className="hidden sm:block">Data: GitHub · Remotive · HackerNews · Dev.to · Stack Overflow</span>
-            <span className="hidden sm:inline text-[var(--ds-gray-300)]">·</span>
-            <span>
-              Made by{" "}
+      <div className="footer-gradient mx-3 sm:mx-6 md:mx-8" />
+      <footer className="footer-section border-t border-[var(--border-color)] bg-[rgba(8,8,14,0.98)]">
+        <div className="max-w-[1600px] mx-auto px-3 sm:px-4 md:px-6 py-4 sm:py-5 md:py-6">
+          {/* Main footer content */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5 mb-4 sm:mb-5">
+            {/* Brand column */}
+            <div className="sm:col-span-2 lg:col-span-1">
+              <div className="flex items-center gap-2 mb-2">
+                <Image src="/logo.svg" alt="DevPulse" width={14} height={14} />
+                <span className="text-[11px] font-bold tracking-widest uppercase text-[var(--ds-gray-1000)]">DevPulse</span>
+                <span className="text-[8px] tracking-wider uppercase text-[var(--accent-primary)] border border-[var(--accent-primary)] px-1.5 py-0.5 rounded-full opacity-60">LIVE</span>
+              </div>
+              <p className="text-[9px] text-[var(--ds-gray-500)] leading-relaxed max-w-[200px]">
+                Real-time developer ecosystem intelligence across 40+ countries and 28 global hubs.
+              </p>
+            </div>
+
+            {/* Data sources */}
+            <div>
+              <div className="text-[9px] font-semibold tracking-widest uppercase text-[var(--ds-gray-400)] mb-2">Data Sources</div>
+              <div className="space-y-1.5">
+                {['GitHub', 'Remotive', 'HackerNews', 'Dev.to', 'Stack Overflow'].map((source) => (
+                  <div key={source} className="flex items-center gap-1.5">
+                    <span className="w-1 h-1 rounded-full bg-[var(--accent-primary)] opacity-40" />
+                    <span className="text-[9px] text-[var(--ds-gray-500)]">{source}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Regions tracked */}
+            <div>
+              <div className="text-[9px] font-semibold tracking-widest uppercase text-[var(--ds-gray-400)] mb-2">Regions</div>
+              <div className="flex flex-wrap gap-1.5">
+                {['Americas', 'Europe', 'Asia Pacific', 'Middle East', 'Africa'].map((region) => (
+                  <span key={region} className="text-[8px] text-[var(--ds-gray-500)] border border-[var(--border-color)] px-1.5 py-0.5 rounded">
+                    {region}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            {/* Connect */}
+            <div>
+              <div className="text-[9px] font-semibold tracking-widest uppercase text-[var(--ds-gray-400)] mb-2">Connect</div>
+              <div className="space-y-1.5">
+                <a href="https://x.com/m_tanveerabbas" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-1.5 text-[9px] text-[var(--ds-gray-500)] hover:text-[var(--accent-primary)] transition-colors group">
+                  <span className="w-1 h-1 rounded-full bg-[var(--ds-gray-400)] group-hover:bg-[var(--accent-primary)] transition-colors" />
+                  X: @m_tanveerabbas
+                </a>
+                <a href="https://github.com/MuhammadTanveerAbbas" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-1.5 text-[9px] text-[var(--ds-gray-500)] hover:text-[var(--accent-primary)] transition-colors group">
+                  <span className="w-1 h-1 rounded-full bg-[var(--ds-gray-400)] group-hover:bg-[var(--accent-primary)] transition-colors" />
+                  GitHub: MuhammadTanveerAbbas
+                </a>
+                <a href="https://themvpguy.vercel.app" target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-1.5 text-[9px] text-[var(--ds-gray-500)] hover:text-[var(--accent-primary)] transition-colors group">
+                  <span className="w-1 h-1 rounded-full bg-[var(--ds-gray-400)] group-hover:bg-[var(--accent-primary)] transition-colors" />
+                  Portfolio
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/* Bottom bar */}
+          <div className="pt-3 border-t border-[var(--border-color)] flex flex-col sm:flex-row items-center justify-between gap-2">
+            <span className="text-[8px] text-[var(--ds-gray-500)] tracking-wider">
+              &copy; {new Date().getFullYear()} DevPulse · Built by{" "}
               <a href="https://themvpguy.vercel.app" target="_blank" rel="noopener noreferrer"
                 className="text-[var(--accent-primary)] hover:underline underline-offset-2">
                 Muhammad Tanveer Abbas
               </a>
             </span>
-            <span className="hidden md:inline-flex items-center gap-3">
-              <a href="https://x.com/m_tanveerabbas" target="_blank" rel="noopener noreferrer"
-                className="hover:text-[var(--ds-gray-1000)] transition-colors">
-                X: @m_tanveerabbas
-              </a>
-              <a href="https://github.com/MuhammadTanveerAbbas" target="_blank" rel="noopener noreferrer"
-                className="hover:text-[var(--ds-gray-1000)] transition-colors">
-                GitHub: MuhammadTanveerAbbas
-              </a>
+            <span className="text-[8px] text-[var(--ds-gray-400)] font-mono">
+              {Object.keys(devCountryActivity).length} countries · {devHubMarkers.length} dev hubs
             </span>
           </div>
         </div>
