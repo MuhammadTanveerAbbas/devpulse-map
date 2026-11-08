@@ -194,23 +194,6 @@ This project wouldn't exist without these excellent tools and APIs:
 
 ---
 
-## Roadmap
-
-- [x] Animated dotted world map with 44+ countries
-- [x] 26 dev hub markers with rich hover tooltips
-- [x] Live-incrementing stat counters
-- [x] AI replacement risk flip cards with upskilling advice
-- [x] Hot niches demand index
-- [x] Salary by role with YoY trends
-- [x] Live feed: HN + GitHub Trending + Dev.to
-- [x] Scrolling live job ticker
-- [ ] Dark / light theme toggle
-- [ ] Country detail drill-down page
-- [ ] Historical trend charts
-- [ ] Shareable snapshot / OG image export
-
----
-
 ## Contributing
 
 PRs are welcome. Fork the repo, create a branch, and open a pull request.
@@ -232,12 +215,10 @@ MIT see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **Built by Muhammad Tanveer Abbas**
-SaaS Developer · Building production-ready MVPs in 14-21 days
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-themvpguy.vercel.app-black?style=for-the-badge)](https://themvpguy.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-@m__tanveerabbas-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/m_tanveerabbas)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadTanveerAbbas-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadTanveerAbbas)
 
-_If DevPulse gave you value, a ⭐ goes a long way_
+_If DevPulse gave you value, a goes a long way_
 
 </div>
